@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0,espn1 sur E
+#EXTGRP:DEPORTES
+http://blackghost.live/get/tespn.php?canal=espn_sur&file=.m3u8
+#EXTINF:0,espn2 sur E
+#EXTGRP:DEPORTES
+http://blackghost.live/get/tespn.php?canal=espn2_sur&file=.m3u8
+#EXTINF:0,espn3 sur E
+#EXTGRP:DEPORTES
+http://blackghost.live/get/tespn.php?canal=espn3_sur&file=.m3u8
