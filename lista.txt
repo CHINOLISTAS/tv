@@ -7,7 +7,11 @@ PORQUE SIEMPRE LO ESTARÉ RENOVANDO
 
 LISTA M3U
 
-https://mrzutv.net/zutv22.m3u
+https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/live10.m3u
 
 http://odenfull.co:2086/get.php?username=YKZzvFJb55&password=IlMx8Rt4vx&type=m3u_plus
+
+http://xdgo.live:8080/get.php?username=gpwrightinc&password=ScyssPmt7D&type=m3u_plus
+
+http://gold4ever.io:8080/get.php?username=Ansumane2425&password=Mane4773&type=m3u_plus
 
