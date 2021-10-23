@@ -7,6 +7,8 @@ PORQUE SIEMPRE LO ESTARÉ RENOVANDO
 
 LISTA M3U
 
+23 octubre
+
 https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/live10.m3u
 
 http://odenfull.co:2086/get.php?username=YKZzvFJb55&password=IlMx8Rt4vx&type=m3u_plus
