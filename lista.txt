@@ -7,11 +7,13 @@ PORQUE SIEMPRE LO ESTARÉ RENOVANDO
 
 LISTA M3U
 
-26 octubre
+27 octubre
 
 https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/live10.m3u
 
 http://xdgo.live:8080/get.php?username=gpwrightinc&password=ScyssPmt7D&type=m3u_plus
+
+http://1581.f5.si:8000/get.php?username=eltony45&password=HE3M4YIWJF&type=m3u_plus
 
 
 
