@@ -15,5 +15,6 @@ http://xdgo.live:8080/get.php?username=gpwrightinc&password=ScyssPmt7D&type=m3u_
 
 http://1581.f5.si:8000/get.php?username=eltony45&password=HE3M4YIWJF&type=m3u_plus
 
+http://iptvhd.club:25461/get.php?username=aptvall&password=DtmXqoqOTa&type=m3u_plus
 
 
