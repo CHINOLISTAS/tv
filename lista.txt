@@ -9,8 +9,7 @@ LISTA M3U
 
 27 octubre
 
-https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/live10.m3u
+https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/live.m3u
 
 http://xdgo.live:8080/get.php?username=gpwrightinc&password=ScyssPmt7D&type=m3u_plus
 
-http://speedmintect.com:8080/get.php?username=RestreamArg67&password=RestreamArg67&type=m3u_plus
