@@ -13,3 +13,8 @@ https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/live.m3u
 
 http://xdgo.live:8080/get.php?username=gpwrightinc&password=ScyssPmt7D&type=m3u_plus
 
+http://tv.iptv5latino.cl:8080/get.php?username=1wilmaru&password=mvzsGgWzmk&type=m3u_plus
+
+
+
+
