@@ -15,7 +15,7 @@ http://xdgo.live:8080/get.php?username=gpwrightinc&password=ScyssPmt7D&type=m3u_
 
 http://tv.iptv5latino.cl:8080/get.php?username=1wilmaru&password=mvzsGgWzmk&type=m3u_plus
 
-http://redcoliptv.com:8090/get.php?username=listadepegaso0003872&password=Vbcgdfxdzas&type=m3u_plus
+http://redcoliptv.com:8090/get.php?username=listadepegaso0478&password=Vbcgdfxdzas&type=m3u_plus
 
 http://redcoliptv.com:8090/get.php?username=OuxHKBt4AR&password=a8l1KwFPWb&type=m3u_plus
 
