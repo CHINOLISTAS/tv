@@ -142,8 +142,6 @@ http://45.225.93.154:8000/play/a024
 #EXTINF:-1,Zona Latina
 http://45.225.93.154:8000/play/a02t
 ------------------------------------
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",A&E
 https://chinolistago.000webhostapp.com/live/2.php/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",AMC
