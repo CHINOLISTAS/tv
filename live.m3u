@@ -141,3 +141,457 @@ http://45.225.93.154:8000/play/a03m
 http://45.225.93.154:8000/play/a024
 #EXTINF:-1,Zona Latina
 http://45.225.93.154:8000/play/a02t
+------------------------------------
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",A&E
+https://chinolistago.000webhostapp.com/live/2.php/a02y/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",AMC
+https://chinolistago.000webhostapp.com/live/2.php/a01u/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",AXN
+https://chinolistago.000webhostapp.com/live/2.php/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Animal Planet
+https://chinolistago.000webhostapp.com/live/2.php/a031/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Antena 3
+https://chinolistago.000webhostapp.com/live/2.php/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Atres Series
+https://chinolistago.000webhostapp.com/live/2.php/a00k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Azcorazon
+https://chinolistago.000webhostapp.com/live/2.php/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Azmundo
+https://chinolistago.000webhostapp.com/live/2.php/a02u/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",BBC World
+https://chinolistago.000webhostapp.com/live/2.php/a01w/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Baby TV
+https://chinolistago.000webhostapp.com/live/2.php/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Boomerang
+https://chinolistago.000webhostapp.com/live/2.php/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",CNN Internacional
+https://chinolistago.000webhostapp.com/live/2.php/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",CNNE
+https://chinolistago.000webhostapp.com/live/2.php/a01v/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 11 - GUA
+https://chinolistago.000webhostapp.com/live/2.php/a023/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 11 - HON
+https://chinolistago.000webhostapp.com/live/2.php/a019/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 3 Telesistemas HND
+https://chinolistago.000webhostapp.com/live/2.php/a039/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 5 - HON
+https://chinolistago.000webhostapp.com/live/2.php/a02r/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal 7 - GUA
+https://chinolistago.000webhostapp.com/live/2.php/a02p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal Antigua - GUA
+https://chinolistago.000webhostapp.com/live/2.php/a02n/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal Azteca - GUA
+https://chinolistago.000webhostapp.com/live/2.php/a02o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Canal VTV HND
+https://chinolistago.000webhostapp.com/live/2.php/a03a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Cartoon Network
+https://chinolistago.000webhostapp.com/live/2.php/a01b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Cine Latino
+https://chinolistago.000webhostapp.com/live/2.php/a03p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",CineCanal
+https://chinolistago.000webhostapp.com/live/2.php/a03s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",CineMax
+https://chinolistago.000webhostapp.com/live/2.php/a03q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Claro Cinema
+https://chinolistago.000webhostapp.com/live/2.php/a037/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Claro Musica
+https://chinolistago.000webhostapp.com/live/2.php/a02e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Claro Sports  HD
+https://chinolistago.000webhostapp.com/live/2.php/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Claro Sports PAN
+https://chinolistago.000webhostapp.com/live/2.php/a00l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Concert Channel
+https://chinolistago.000webhostapp.com/live/2.php/a03l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Discovery Channel
+https://chinolistago.000webhostapp.com/live/2.php/a030/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Discovery Home & Health
+https://chinolistago.000webhostapp.com/live/2.php/a03g/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Discovery Kids
+https://chinolistago.000webhostapp.com/live/2.php/a03b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Discovery Science
+https://chinolistago.000webhostapp.com/live/2.php/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Discovery Turbo
+https://chinolistago.000webhostapp.com/live/2.php/a03f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Disney
+https://chinolistago.000webhostapp.com/live/2.php/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Disney JR
+https://chinolistago.000webhostapp.com/live/2.php/a01e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Disney XD
+https://chinolistago.000webhostapp.com/live/2.php/a02t/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",E!
+https://chinolistago.000webhostapp.com/live/2.php/a02x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",ESPN
+https://chinolistago.000webhostapp.com/live/2.php/a035/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",ESPN  +
+https://chinolistago.000webhostapp.com/live/2.php/a020/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",ESPN 2
+https://chinolistago.000webhostapp.com/live/2.php/a034/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",ESPN 3
+https://chinolistago.000webhostapp.com/live/2.php/a02c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",EURO Channel
+https://chinolistago.000webhostapp.com/live/2.php/a028/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Exa TV
+https://chinolistago.000webhostapp.com/live/2.php/a036/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",FOX Sports 2
+https://chinolistago.000webhostapp.com/live/2.php/a02d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",FX
+https://chinolistago.000webhostapp.com/live/2.php/a026/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",FX Movies
+https://chinolistago.000webhostapp.com/live/2.php/a03n/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Fox Sport 3
+https://chinolistago.000webhostapp.com/live/2.php/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Fox Sports
+https://chinolistago.000webhostapp.com/live/2.php/a03j/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Golden
+https://chinolistago.000webhostapp.com/live/2.php/a02g/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Golf Channel
+https://chinolistago.000webhostapp.com/live/2.php/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",H2
+https://chinolistago.000webhostapp.com/live/2.php/a02a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",HBO
+https://chinolistago.000webhostapp.com/live/2.php/a03t/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",HBO Family
+https://chinolistago.000webhostapp.com/live/2.php/a03w/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",HBO Plus
+https://chinolistago.000webhostapp.com/live/2.php/a03v/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",HBO XTREME
+https://chinolistago.000webhostapp.com/live/2.php/a015/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",HBO2
+https://chinolistago.000webhostapp.com/live/2.php/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",HCH- HON
+https://chinolistago.000webhostapp.com/live/2.php/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",History Channel
+https://chinolistago.000webhostapp.com/live/2.php/a032/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Home Garden Latino
+https://chinolistago.000webhostapp.com/live/2.php/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",ID
+https://chinolistago.000webhostapp.com/live/2.php/a03h/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",MTV
+https://chinolistago.000webhostapp.com/live/2.php/a03k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",MTV 00s
+https://chinolistago.000webhostapp.com/live/2.php/a02f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",MTV 80s
+https://chinolistago.000webhostapp.com/live/2.php/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",MTV HD
+https://chinolistago.000webhostapp.com/live/2.php/a021/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",MTV Hits
+https://chinolistago.000webhostapp.com/live/2.php/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Mastv
+https://chinolistago.000webhostapp.com/live/2.php/a001/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Multipremier
+https://chinolistago.000webhostapp.com/live/2.php/a03o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Nat Geo Kids
+https://chinolistago.000webhostapp.com/live/2.php/a025/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Nat Geo Wild
+https://chinolistago.000webhostapp.com/live/2.php/a029/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",National Geographic
+https://chinolistago.000webhostapp.com/live/2.php/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Nick Jr
+https://chinolistago.000webhostapp.com/live/2.php/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Nickelodeon
+https://chinolistago.000webhostapp.com/live/2.php/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Paramount
+https://chinolistago.000webhostapp.com/live/2.php/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Pasiones HD
+https://chinolistago.000webhostapp.com/live/2.php/a041/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",RCN Novelas
+https://chinolistago.000webhostapp.com/live/2.php/a027/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",SONY
+https://chinolistago.000webhostapp.com/live/2.php/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",SPACE
+https://chinolistago.000webhostapp.com/live/2.php/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",STAR CHANNEL
+https://chinolistago.000webhostapp.com/live/2.php/a03e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",STAR LIFE
+https://chinolistago.000webhostapp.com/live/2.php/a01h/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Studio Universal
+https://chinolistago.000webhostapp.com/live/2.php/a03r/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Sun Channel
+https://chinolistago.000webhostapp.com/live/2.php/a00u/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",SyFy
+https://chinolistago.000webhostapp.com/live/2.php/a02z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",TBN Enlace
+https://chinolistago.000webhostapp.com/live/2.php/a01y/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",TBS
+https://chinolistago.000webhostapp.com/live/2.php/a01m/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",TCM
+https://chinolistago.000webhostapp.com/live/2.php/a02h/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",TLC
+https://chinolistago.000webhostapp.com/live/2.php/a033/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",TNT
+https://chinolistago.000webhostapp.com/live/2.php/a01t/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",TNT Series
+https://chinolistago.000webhostapp.com/live/2.php/a01l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",TVE
+https://chinolistago.000webhostapp.com/live/2.php/a038/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Telecadena - HON
+https://chinolistago.000webhostapp.com/live/2.php/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Telemundo
+https://chinolistago.000webhostapp.com/live/2.php/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Univision HD
+https://chinolistago.000webhostapp.com/live/2.php/a042/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Warner
+https://chinolistago.000webhostapp.com/live/2.php/a02w/index.m3u8
+-----------
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",A&E
+https://chinolistago.000webhostapp.com/live/1.php?276
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",AMC
+https://chinolistago.000webhostapp.com/live/1.php?275
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",AXN
+https://chinolistago.000webhostapp.com/live/1.php?274
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",CineCanal
+https://chinolistago.000webhostapp.com/live/1.php?273
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Cinemax
+https://chinolistago.000webhostapp.com/live/1.php?272
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Comedy Central
+https://chinolistago.000webhostapp.com/live/1.php?271
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Europa Europa
+https://chinolistago.000webhostapp.com/live/1.php?270
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Star Channel
+https://chinolistago.000webhostapp.com/live/1.php?269
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Star Life
+https://chinolistago.000webhostapp.com/live/1.php?268
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Star Action
+https://chinolistago.000webhostapp.com/live/1.php?267
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN PLUS
+https://chinolistago.000webhostapp.com/live/1.php?237
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 1 SUR
+https://chinolistago.000webhostapp.com/live/1.php?236
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 2 SUR
+https://chinolistago.000webhostapp.com/live/1.php?235
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 3 SUR
+https://chinolistago.000webhostapp.com/live/1.php?234
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN
+https://chinolistago.000webhostapp.com/live/1.php?233
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 2
+https://chinolistago.000webhostapp.com/live/1.php?232
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 3
+https://chinolistago.000webhostapp.com/live/1.php?231
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Fox Sports 1 Sur
+https://chinolistago.000webhostapp.com/live/1.php?230
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Fox Sports 2 Sur
+https://chinolistago.000webhostapp.com/live/1.php?229
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Fox Sports 3 Sur
+https://chinolistago.000webhostapp.com/live/1.php?228
+#EXTINF:-1 tvg-logo="" group-title="Cultura",Animal Planet
+https://chinolistago.000webhostapp.com/live/1.php?307
+#EXTINF:-1 tvg-logo="" group-title="Cultura",CNN en Español
+https://chinolistago.000webhostapp.com/live/1.php?306
+#EXTINF:-1 tvg-logo="" group-title="Cultura",CNN USA
+https://chinolistago.000webhostapp.com/live/1.php?305
+#EXTINF:-1 tvg-logo="" group-title="Cultura",Discovery Channel
+https://chinolistago.000webhostapp.com/live/1.php?304
+#EXTINF:-1 tvg-logo="" group-title="Cultura",Discovery HH
+https://chinolistago.000webhostapp.com/live/1.php?303
+#EXTINF:-1 tvg-logo="" group-title="Cultura",Discovery Science
+https://chinolistago.000webhostapp.com/live/1.php?302
+#EXTINF:-1 tvg-logo="" group-title="Cultura",Discovery Theater
+https://chinolistago.000webhostapp.com/live/1.php?301
+#EXTINF:-1 tvg-logo="" group-title="Cultura",Discovery TLC
+https://chinolistago.000webhostapp.com/live/1.php?300
+#EXTINF:-1 tvg-logo="" group-title="Cultura",Discovery Turbo
+https://chinolistago.000webhostapp.com/live/1.php?299
+#EXTINF:-1 tvg-logo="" group-title="Cultura",Discovery World
+https://chinolistago.000webhostapp.com/live/1.php?298
+#EXTINF:-1 tvg-logo="" group-title="Musica",MTV
+https://chinolistago.000webhostapp.com/live/1.php?220
+#EXTINF:-1 tvg-logo="" group-title="Musica",MTV Hits
+https://chinolistago.000webhostapp.com/live/1.php?219
+#EXTINF:-1 tvg-logo="" group-title="Musica",MTV Live
+https://chinolistago.000webhostapp.com/live/1.php?218
+#EXTINF:-1 tvg-logo="" group-title="Musica",VH1
+https://chinolistago.000webhostapp.com/live/1.php?217
+#EXTINF:-1 tvg-logo="" group-title="Musica",Vh1 Classics
+https://chinolistago.000webhostapp.com/live/1.php?216
+#EXTINF:-1 tvg-logo="" group-title="24 Horas",Scooby Doo
+https://chinolistago.000webhostapp.com/live/1.php?338
+#EXTINF:-1 tvg-logo="" group-title="24 Horas",Tom Y Jerry
+https://chinolistago.000webhostapp.com/live/1.php?337
+#EXTINF:-1 tvg-logo="" group-title="24 Horas",Hey Arnold
+https://chinolistago.000webhostapp.com/live/1.php?336
+#EXTINF:-1 tvg-logo="" group-title="24 Horas",Los Picapiedras
+https://chinolistago.000webhostapp.com/live/1.php?335
+#EXTINF:-1 tvg-logo="" group-title="24 Horas",La Familia Peluche
+https://chinolistago.000webhostapp.com/live/1.php?334
+#EXTINF:-1 tvg-logo="" group-title="24 Horas",Hannah Montana
+https://chinolistago.000webhostapp.com/live/1.php?333
+#EXTINF:-1 tvg-logo="" group-title="24 Horas",El Principe del Rap
+https://chinolistago.000webhostapp.com/live/1.php?332
+#EXTINF:-1 tvg-logo="" group-title="24 Horas",Mr Bean
+https://chinolistago.000webhostapp.com/live/1.php?331
+#EXTINF:-1 tvg-logo="" group-title="24 Horas",Ballers
+https://chinolistago.000webhostapp.com/live/1.php?330
+#EXTINF:-1 tvg-logo="" group-title="24 Horas",SuperCampeones
+https://chinolistago.000webhostapp.com/live/1.php?329
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Baby First
+https://chinolistago.000webhostapp.com/live/1.php?215
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Boomerang
+https://chinolistago.000webhostapp.com/live/1.php?214
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Cartoon Network
+https://chinolistago.000webhostapp.com/live/1.php?213
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Disney Channel
+https://chinolistago.000webhostapp.com/live/1.php?212
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Disney Jr
+https://chinolistago.000webhostapp.com/live/1.php?211
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Disney XD
+https://chinolistago.000webhostapp.com/live/1.php?210
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Natgeo Kids
+https://chinolistago.000webhostapp.com/live/1.php?209
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Nick
+https://chinolistago.000webhostapp.com/live/1.php?208
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Nick 2
+https://chinolistago.000webhostapp.com/live/1.php?207
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Nick Jr
+https://chinolistago.000webhostapp.com/live/1.php?206
+#EXTINF:-1 tvg-logo="" group-title="Religiosos",3ABN Latino
+https://chinolistago.000webhostapp.com/live/1.php?203
+#EXTINF:-1 tvg-logo="" group-title="Religiosos",Alfa Televisión
+https://chinolistago.000webhostapp.com/live/1.php?202
+#EXTINF:-1 tvg-logo="" group-title="Religiosos",Aliente Visión
+https://chinolistago.000webhostapp.com/live/1.php?201
+#EXTINF:-1 tvg-logo="" group-title="Religiosos",Enlace
+https://chinolistago.000webhostapp.com/live/1.php?200
+#EXTINF:-1 tvg-logo="" group-title="Religiosos",Enlace Juvenil
+https://chinolistago.000webhostapp.com/live/1.php?199
+#EXTINF:-1 tvg-logo="" group-title="Religiosos",Misión Vida
+https://chinolistago.000webhostapp.com/live/1.php?198
+#EXTINF:-1 tvg-logo="" group-title="Religiosos",Red Advenir
+https://chinolistago.000webhostapp.com/live/1.php?197
+#EXTINF:-1 tvg-logo="" group-title="Religiosos",Solidaria TV
+https://chinolistago.000webhostapp.com/live/1.php?196
+#EXTINF:-1 tvg-logo="" group-title="Religiosos",3ABNKids
+https://chinolistago.000webhostapp.com/live/1.php?195
+#EXTINF:-1 tvg-logo="" group-title="Mexico",Las Estrellas
+https://chinolistago.000webhostapp.com/live/1.php?285
+#EXTINF:-1 tvg-logo="" group-title="Mexico",Afizzionados
+https://chinolistago.000webhostapp.com/live/1.php?224
+#EXTINF:-1 tvg-logo="" group-title="Mexico",ADN 40
+https://chinolistago.000webhostapp.com/live/1.php?194
+#EXTINF:-1 tvg-logo="" group-title="Mexico",Azteca Cinema
+https://chinolistago.000webhostapp.com/live/1.php?193
+#EXTINF:-1 tvg-logo="" group-title="Mexico",Azteca Clic
+https://chinolistago.000webhostapp.com/live/1.php?192
+#EXTINF:-1 tvg-logo="" group-title="Mexico",Azteca Corazón
+https://chinolistago.000webhostapp.com/live/1.php?191
+#EXTINF:-1 tvg-logo="" group-title="Mexico",Azteca Mundo
+https://chinolistago.000webhostapp.com/live/1.php?190
+#EXTINF:-1 tvg-logo="" group-title="Mexico",Azteca 7
+https://chinolistago.000webhostapp.com/live/1.php?189
+#EXTINF:-1 tvg-logo="" group-title="Mexico",Azteca Uno
+https://chinolistago.000webhostapp.com/live/1.php?188
+#EXTINF:-1 tvg-logo="" group-title="Mexico",Canal 5
+https://chinolistago.000webhostapp.com/live/1.php?187
+#EXTINF:-1 tvg-logo="" group-title="Puerto Rico",Telemundo
+https://chinolistago.000webhostapp.com/live/1.php?177
+#EXTINF:-1 tvg-logo="" group-title="Puerto Rico",Univision
+https://chinolistago.000webhostapp.com/live/1.php?176
+#EXTINF:-1 tvg-logo="" group-title="Peru",America TV
+https://chinolistago.000webhostapp.com/live/1.php?175
+#EXTINF:-1 tvg-logo="" group-title="Peru",Antares TV
+https://chinolistago.000webhostapp.com/live/1.php?174
+#EXTINF:-1 tvg-logo="" group-title="Peru",ATV
+https://chinolistago.000webhostapp.com/live/1.php?173
+#EXTINF:-1 tvg-logo="" group-title="Peru",Canal N
+https://chinolistago.000webhostapp.com/live/1.php?172
+#EXTINF:-1 tvg-logo="" group-title="Peru",Frecuencia Latina
+https://chinolistago.000webhostapp.com/live/1.php?171
+#EXTINF:-1 tvg-logo="" group-title="Peru",Gol Peru
+https://chinolistago.000webhostapp.com/live/1.php?170
+#EXTINF:-1 tvg-logo="" group-title="Peru",Movistar Deportes
+https://chinolistago.000webhostapp.com/live/1.php?169
+#EXTINF:-1 tvg-logo="" group-title="Peru",Movistar Plus
+https://chinolistago.000webhostapp.com/live/1.php?168
+#EXTINF:-1 tvg-logo="" group-title="Peru",Panamericana
+https://chinolistago.000webhostapp.com/live/1.php?167
+#EXTINF:-1 tvg-logo="" group-title="Peru",TV Peru
+https://chinolistago.000webhostapp.com/live/1.php?166
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal Uno
+https://chinolistago.000webhostapp.com/live/1.php?164
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuador TV
+https://chinolistago.000webhostapp.com/live/1.php?163
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuavisa
+https://chinolistago.000webhostapp.com/live/1.php?162
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Gamavision
+https://chinolistago.000webhostapp.com/live/1.php?161
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Oromar
+https://chinolistago.000webhostapp.com/live/1.php?160
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",RTS
+https://chinolistago.000webhostapp.com/live/1.php?159
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",TC Television
+https://chinolistago.000webhostapp.com/live/1.php?158
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Teleamazonas
+https://chinolistago.000webhostapp.com/live/1.php?157
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Televicentro
+https://chinolistago.000webhostapp.com/live/1.php?156
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",El Canal del Futbol
+https://chinolistago.000webhostapp.com/live/1.php?155
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Cable Noticias
+https://chinolistago.000webhostapp.com/live/1.php?153
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Trece
+https://chinolistago.000webhostapp.com/live/1.php?152
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal 1
+https://chinolistago.000webhostapp.com/live/1.php?151
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Caracol
+https://chinolistago.000webhostapp.com/live/1.php?150
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Caracol Internacional
+https://chinolistago.000webhostapp.com/live/1.php?149
+#EXTINF:-1 tvg-logo="" group-title="Colombia",City TV
+https://chinolistago.000webhostapp.com/live/1.php?148
+#EXTINF:-1 tvg-logo="" group-title="Colombia",NTN24
+https://chinolistago.000webhostapp.com/live/1.php?147
+#EXTINF:-1 tvg-logo="" group-title="Colombia",RCN
+https://chinolistago.000webhostapp.com/live/1.php?146
+#EXTINF:-1 tvg-logo="" group-title="Uruguay",Vera +
+https://chinolistago.000webhostapp.com/live/1.php?145
+#EXTINF:-1 tvg-logo="" group-title="Uruguay",VTV Plus
+https://chinolistago.000webhostapp.com/live/1.php?144
+#EXTINF:-1 tvg-logo="" group-title="Uruguay",VTV
+https://chinolistago.000webhostapp.com/live/1.php?143
+#EXTINF:-1 tvg-logo="" group-title="Paraguay",Paraguay TV
+https://chinolistago.000webhostapp.com/live/1.php?142
+#EXTINF:-1 tvg-logo="" group-title="Paraguay",Telefuturo
+https://chinolistago.000webhostapp.com/live/1.php?141
+#EXTINF:-1 tvg-logo="" group-title="Paraguay",Unicanal
+https://chinolistago.000webhostapp.com/live/1.php?140
+#EXTINF:-1 tvg-logo="" group-title="Chile",Canal 13C
+https://chinolistago.000webhostapp.com/live/1.php?139
+#EXTINF:-1 tvg-logo="" group-title="Chile",Canal 13i
+https://chinolistago.000webhostapp.com/live/1.php?138
+#EXTINF:-1 tvg-logo="" group-title="Chile",Canal 13
+https://chinolistago.000webhostapp.com/live/1.php?137
+#EXTINF:-1 tvg-logo="" group-title="Chile",Canal 24 Horas
+https://chinolistago.000webhostapp.com/live/1.php?136
+#EXTINF:-1 tvg-logo="" group-title="Chile",CDO
+https://chinolistago.000webhostapp.com/live/1.php?133
+#EXTINF:-1 tvg-logo="" group-title="Chile",ChileVision
+https://chinolistago.000webhostapp.com/live/1.php?132
+#EXTINF:-1 tvg-logo="" group-title="Chile",CNN
+https://chinolistago.000webhostapp.com/live/1.php?131
+#EXTINF:-1 tvg-logo="" group-title="Chile",La Red
+https://chinolistago.000webhostapp.com/live/1.php?130
+#EXTINF:-1 tvg-logo="" group-title="Chile",Mega
+https://chinolistago.000webhostapp.com/live/1.php?129
+#EXTINF:-1 tvg-logo="" group-title="Chile",Teletrak
+https://chinolistago.000webhostapp.com/live/1.php?128
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Como conoci a tu Madre
+https://chinolistago.000webhostapp.com/live/1.php?326
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Star Series
+https://chinolistago.000webhostapp.com/live/1.php?261
+#EXTINF:-1 tvg-logo="" group-title="Argentina",HBO Pop
+https://chinolistago.000webhostapp.com/live/1.php?255
+#EXTINF:-1 tvg-logo="" group-title="Argentina",A24
+https://chinolistago.000webhostapp.com/live/1.php?126
+#EXTINF:-1 tvg-logo="" group-title="Argentina",América TV
+https://chinolistago.000webhostapp.com/live/1.php?125
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 26 Noticias
+https://chinolistago.000webhostapp.com/live/1.php?124
+#EXTINF:-1 tvg-logo="" group-title="Argentina",El Garaje
+https://chinolistago.000webhostapp.com/live/1.php?123
+#EXTINF:-1 tvg-logo="" group-title="Argentina",El Nueve
+https://chinolistago.000webhostapp.com/live/1.php?122
+#EXTINF:-1 tvg-logo="" group-title="Argentina",El trece
+https://chinolistago.000webhostapp.com/live/1.php?121
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Encuentro
+https://chinolistago.000webhostapp.com/live/1.php?120
