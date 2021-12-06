@@ -13,3 +13,5 @@ LISTA M3U
 1.-https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/live100.m3u
 
 2.-https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/live50.m3u
+
+3.- https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/live25.m3u
