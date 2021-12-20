@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,probar
+https://chinolistas.github.io/tvgratis/cinemax.m3u8
 #EXTINF:-1,A&E HD
 http://201.111.25.106:8000/play/a05y/index.m3u8
 #EXTINF:-1,AMC
