@@ -10,8 +10,6 @@ LISTA M3U
 --La lista funciona con reproductor iptv logo azul
 --La lista se estará renovando cada 3 días 
 
-1.-  https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/tv1.m3u
-
 2.-  https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/tv2.m3u
 
 3.-  Que lo disfruten
