@@ -12,4 +12,6 @@ LISTA M3U
 
 2.-  https://mrzutv.net/mzrutv2525.m3u
 
-3.-  Que lo disfruten
+3.- https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/tv2.m3u
+
+ Que lo disfruten
