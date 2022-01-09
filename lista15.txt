@@ -12,6 +12,7 @@ LISTA M3U
 
 1.- https://chinolistas.github.io/CHINOLISTASM3U/tvgratis.m3u 
 
+2.- http://45.179.140.242:8000/playlist.m3u8
 
 
  Que lo disfruten
