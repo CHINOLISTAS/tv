@@ -8,11 +8,13 @@ PORQUE SIEMPRE LO ESTARÉ RENOVANDO
 LISTA M3U
 
 --La lista funciona con reproductor iptv logo azul
---La lista se estará renovando cada 3 días 
+--La lista se actualiza todos los días debido a que son  remotas 
 
-1.- https://chinolistas.github.io/CHINOLISTASM3U/tvgratis.m3u 
+1.- http://144.126.128.123:25461/get.php?username=shortgod201&password=shortgod&type=m3u_plus 
 
 2.- http://45.179.140.242:8000/playlist.m3u8
+
+3.- http://redcoliptv.com:8090/get.php?username=Psly2BywMJ&password=Vbcgdfxdzas&type=m3u_plus
 
 
  Que lo disfruten
