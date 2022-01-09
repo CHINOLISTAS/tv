@@ -10,8 +10,8 @@ LISTA M3U
 --La lista funciona con reproductor iptv logo azul
 --La lista se estará renovando cada 3 días 
 
-2.-  https://mrzutv.net/27dcimbre.m3u
+1.-  
 
-3.- https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/tv2.m3u
+2.-
 
  Que lo disfruten
