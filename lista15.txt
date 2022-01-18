@@ -10,11 +10,11 @@ LISTA M3U
 --La lista funciona con reproductor iptv logo azul
 --La lista se actualiza todos los días debido a que son  remotas 
 
-1.- http://144.126.128.123:25461/get.php?username=shortgod201&password=descarga-shortgod.comdescarga-shortgod.comdescarga-shortgod.comdescarga-shortgod.com&type=m3u_plus
+1.- http://144.126.128.123:25461/get.php?username=ShortGod&password=jajajajjajajajjajajajjajajajjajajajjajajaj&type=m3u_plus
 
 2.- http://45.179.140.242:8000/playlist.m3u8
 
-3.- http://redcoliptv.com:8090/get.php?username=fg7g4lyESW&password=Vbcgdfxdzas&type=m3u_plus
+3.- http://redcoliptv.com:8090/get.php?username=q3c47WBfFW&password=Vbcgdfxdzas&type=m3u_plus
 
 4.- http://167.249.31.57:8000/playlist.m3u8
 
