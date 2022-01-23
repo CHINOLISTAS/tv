@@ -10,7 +10,7 @@ LISTA M3U
 --La lista funciona con reproductor iptv logo azul
 --La lista se actualiza todos los días debido a que son  remotas 
 
-1.- http://144.126.128.123:25461/get.php?username=ShortGod&password=jajajajjajajajjajajajjajajajjajajajjajajaj&type=m3u_plus
+1.- http://discusfish.xyz:25461/get.php?username=ManuviDISC1504ex&password=15042021&type=m3u_plus
 
 2.- http://45.179.140.242:8000/playlist.m3u8
 
