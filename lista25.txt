@@ -18,7 +18,7 @@ LISTA M3U
 
 4.- http://167.249.31.57:8000/playlist.m3u8
 
-
-5.- 
+5.- https://chinolistas.github.io/CHINOLISTASM3U/tv25.m3u 
+(PARA ESTA LISTA REQUIERE ACTIVACION EN EL BLOG PRINCIPAL DALE CLICK A ACTIVAR)
 
  Que lo disfruten
