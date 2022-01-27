@@ -14,11 +14,11 @@ LISTA M3U
 
 2.- http://45.179.140.242:8000/playlist.m3u8
 
-3.- http://redcoliptv.com:8090/get.php?username=q3c47WBfFW&password=Vbcgdfxdzas&type=m3u_plus
+3.- http://redcoliptv.com:8090/get.php?username=eicpd3Mbps&password=Vbcgdfxdzas&type=m3u_plus
 
 4.- http://167.249.31.57:8000/playlist.m3u8
 
 
-5.- http://144.126.128.123:25461/get.php?username=ShortGod&password=acasca9&type=m3u_plus
+5.- 
 
  Que lo disfruten
