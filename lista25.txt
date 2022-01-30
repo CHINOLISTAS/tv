@@ -14,7 +14,7 @@ LISTA M3U
 
 2.- http://45.179.140.242:8000/playlist.m3u8
 
-3.- http://redcoliptv.com:8090/get.php?username=eicpd3Mbps&password=Vbcgdfxdzas&type=m3u_plus
+3.- http://redcoliptv.com:8090/get.php?username=S0Qyl769R2&password=Vbcgdfxdzas&type=m3u_plus
 
 4.- 
 
