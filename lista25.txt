@@ -10,7 +10,7 @@ LISTA M3U
 --La lista funciona con reproductor iptv logo azul
 --La lista se actualiza todos los días debido a que son  remotas 
 
-1.- 
+1.- http://181.198.67.14:50000/playlist.m3u8
 
 2.- http://45.179.140.242:8000/playlist.m3u8
 
