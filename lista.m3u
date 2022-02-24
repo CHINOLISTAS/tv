@@ -1,37 +1,419 @@
 #EXTM3U
-#EXTINF:-1,WARNER
-https://chinolistas.github.io/tvgratis/tvcable/warner.m3u8
-#EXTINF:-1,TNT
-https://chinolistas.github.io/tvgratis/tvcable/tnt.m3u8
-#EXTINF:-1,STAR HITS
-https://chinolistas.github.io/tvgratis/tvcable/star_hits.m3u8
-#EXTINF:-1,STAR FUN
-https://chinolistas.github.io/tvgratis/tvcable/star_fun.m3u8
-#EXTINF:-1,STAR CHANNEL
-https://chinolistas.github.io/tvgratis/tvcable/star_channel.m3u8
-#EXTINF:-1,STAR ACTION
-https://chinolistas.github.io/tvgratis/tvcable/star_action.m3u8
-#EXTINF:-1,SONY
-https://chinolistas.github.io/tvgratis/tvcable/sony.m3u8
-#EXTINF:-1,PARAMOUNT
-https://chinolistas.github.io/tvgratis/tvcable/paramount.m3u8
-#EXTINF:-1,NATGEO
-https://chinolistas.github.io/tvgratis/tvcable/natgeo.m3u8
-#EXTINF:-1,HISTORY
-https://chinolistas.github.io/tvgratis/tvcable/history.m3u8
-#EXTINF:-1,HBO XTREME
-https://chinolistas.github.io/tvgratis/tvcable/hbo_xtreme.m3u8
-#EXTINF:-1,HBO PLUS
-https://chinolistas.github.io/tvgratis/tvcable/hbo_plus.m3u8
-#EXTINF:-1,HBO FAMILY
-https://chinolistas.github.io/tvgratis/tvcable/hbo_family.m3u8
-#EXTINF:-1,HBO 2
-https://chinolistas.github.io/tvgratis/tvcable/hbo_2.m3u8
-#EXTINF:-1,H2
-https://chinolistas.github.io/tvgratis/tvcable/h2.m3u8
-#EXTINF:-1,CINEMAX
-https://chinolistas.github.io/tvgratis/tvcable/cinemax.m3u8
-#EXTINF:-1,CINECANAL
-https://chinolistas.github.io/tvgratis/tvcable/cinecanal.m3u8
-#EXTINF:-1,ANIMAL PLANET
-https://chinolistas.github.io/tvgratis/tvcable/animal_planet.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="4" group-title="PREMIUM" ,A&E
+http://m3ukodi.com/servicios/playtv/app_playtv.php?A&E
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="6" group-title="PREMIUM" ,A3_Series
+http://m3ukodi.com/servicios/playtv/app_playtv.php?A3_Series
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="13" group-title="PREMIUM" ,Abc
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Abc
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="14" group-title="PREMIUM" ,Adrenalina_Sports_Network
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Adrenalina_Sports_Network
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="15" group-title="PREMIUM" ,Amc
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Amc
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="17" group-title="PREMIUM" ,Animal_Planet
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Animal_Planet
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="18" group-title="PREMIUM" ,Antena_3
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Antena_3
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="19" group-title="PREMIUM" ,Axn
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Axn
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="20" group-title="PREMIUM" ,Axstv
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Axstv
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="21" group-title="PREMIUM" ,Az Cinema
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Az Cinema
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="22" group-title="PREMIUM" ,Azteca Uno
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Azteca Uno
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="23" group-title="PREMIUM" ,Azteca_7
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Azteca_7
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="24" group-title="PREMIUM" ,Azteca_Uno
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Azteca_Uno
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="26" group-title="PREMIUM" ,Baby_Tv
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Baby_Tv
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="27" group-title="PREMIUM" ,Bandamax
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Bandamax
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="28" group-title="PREMIUM" ,Bein_Sports
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Bein_Sports
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="29" group-title="PREMIUM" ,Beinn
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Beinn
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="30" group-title="PREMIUM" ,Bet_Networks
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Bet_Networks
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="32" group-title="PREMIUM" ,Boomerang
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Boomerang
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="33" group-title="PREMIUM" ,Bravo
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Bravo
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="34" group-title="PREMIUM" ,Brazzers_Tv
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Brazzers_Tv
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="42" group-title="PREMIUM" ,Canal 5
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Canal 5
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="44" group-title="PREMIUM" ,Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=739
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="47" group-title="PREMIUM" ,Cartoon Network
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Cartoon_Network
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="48" group-title="PREMIUM" ,Cartoon_Network
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Cartoon_Network
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="49" group-title="PREMIUM" ,Cbs_Sports_Network
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Cbs_Sports_Network
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="50" group-title="PREMIUM" ,Cbs
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Cbs
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="52" group-title="PREMIUM" ,Cine_Canal_Premier
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Cine_Canal_Premier
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="53" group-title="PREMIUM" ,Cine_Canal
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Cine_Canal
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="54" group-title="PREMIUM" ,Cine_Latino Us
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Cine_Latino Us
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="55" group-title="PREMIUM" ,Cine_Latino
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Cine_Latino
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="57" group-title="PREMIUM" ,Cinecanal
+http://190.171.101.36/Cinecanal/tracks-v3a2/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="59" group-title="PREMIUM" ,Cinemax
+http://190.171.101.36/Cinemax/tracks-v3a2/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="60" group-title="PREMIUM" ,Cinemax
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Cinemax
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="61" group-title="PREMIUM" ,Cinema
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Cinema
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="62" group-title="PREMIUM" ,Claro_Sports
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Claro_Sports
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="63" group-title="PREMIUM" ,Cmt
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Cmt
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="64" group-title="PREMIUM" ,Cnbc
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Cnbc
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="65" group-title="PREMIUM" ,Cnn_En_Espanol
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Cnn_En_Espanol
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="66" group-title="PREMIUM" ,Cnn
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Cnn
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="67" group-title="PREMIUM" ,Comedy Central
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Comedy Central
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="68" group-title="PREMIUM" ,Comedy_Central
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Comedy_Central
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="69" group-title="PREMIUM" ,Cooking_Channel
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Cooking_Channel
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="72" group-title="PREMIUM" ,De_Pelicula
+http://m3ukodi.com/servicios/playtv/app_playtv.php?De_Pelicula
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="74" group-title="PREMIUM" ,Destination_America
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Destination_America
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="78" group-title="PREMIUM" ,Discovery Kids
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Discovery Kids
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="83" group-title="PREMIUM" ,Discovery_En_Espanol
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Discovery_En_Espanol
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="84" group-title="PREMIUM" ,Discovery_Family
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Discovery_Family
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="85" group-title="PREMIUM" ,Discovery_H&H
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Discovery_H&H
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="86" group-title="PREMIUM" ,Discovery_Kids
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Discovery_Kids
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="87" group-title="PREMIUM" ,Discovery_Sci
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Discovery_Sci
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="88" group-title="PREMIUM" ,Discovery_Theater
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Discovery_Theater
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="89" group-title="PREMIUM" ,Discovery_Tlc
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Discovery_Tlc
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="90" group-title="PREMIUM" ,Discovery_Turbo
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Discovery_Turbo
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="91" group-title="PREMIUM" ,Discovery_World
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Discovery_World
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="92" group-title="PREMIUM" ,Discovery
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Discovery
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="94" group-title="PREMIUM" ,Disney Channel
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Disney Channel
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="97" group-title="PREMIUM" ,Disney Xd
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Disney Xd
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="98" group-title="PREMIUM" ,Disney_Channel
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Disney_Channel
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="99" group-title="PREMIUM" ,Disney_Junior
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Disney_Junior
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="100" group-title="PREMIUM" ,Disney_Xd
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Disney_Xd
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="101" group-title="PREMIUM" ,Dpeliculas
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Dpeliculas
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="114" group-title="PREMIUM" ,Espn Deportes
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Espn_Deportes
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="115" group-title="PREMIUM" ,Espn Usa 2
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Espn_Usa 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="116" group-title="PREMIUM" ,Espn Usa
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Espn_Usa
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="117" group-title="PREMIUM" ,Espn_2
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Espn_2
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="118" group-title="PREMIUM" ,Espn_3
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Espn_3
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="119" group-title="PREMIUM" ,Espn_Deportes
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Espn_Deportes
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="120" group-title="PREMIUM" ,Espn_Extra
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Espn_Extra
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="121" group-title="PREMIUM" ,Espn_U
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Espn_U
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="122" group-title="PREMIUM" ,Espn
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Espn
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="123" group-title="PREMIUM" ,Estrella_Tv
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Estrella_Tv
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="124" group-title="PREMIUM" ,EuroMovies 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="125" group-title="PREMIUM" ,Evento_Pp2
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Evento_Pp2
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="126" group-title="PREMIUM" ,Exa_Tv
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Exa_Tv
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="138" group-title="PREMIUM" ,Fox Sports Usa
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Sports_Usa
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="139" group-title="PREMIUM" ,Fox_Action (E)
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Action (E)
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="140" group-title="PREMIUM" ,Fox_Action
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Action
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="141" group-title="PREMIUM" ,Fox_Business
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Business
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="142" group-title="PREMIUM" ,Fox_Classics
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Classics
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="143" group-title="PREMIUM" ,Fox_Fun
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Fun
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="144" group-title="PREMIUM" ,Fox_Hits (E)
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Hits (E)
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="145" group-title="PREMIUM" ,Fox_Hits
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Hits
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="146" group-title="PREMIUM" ,Fox_Life
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Life
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="147" group-title="PREMIUM" ,Fox_Max
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Max
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="148" group-title="PREMIUM" ,Fox_Mexico
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Mexico
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="149" group-title="PREMIUM" ,Fox_News
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_News
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="150" group-title="PREMIUM" ,Fox_Series (E)
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Series (E)
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="151" group-title="PREMIUM" ,Fox_Series
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Series
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="152" group-title="PREMIUM" ,Fox_Sports_2
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Sports_2
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="153" group-title="PREMIUM" ,Fox_Sports_3
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Sports_3
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="154" group-title="PREMIUM" ,Fox_Sports
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox_Sports
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="155" group-title="PREMIUM" ,Fox
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fox
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="156" group-title="PREMIUM" ,Freeform
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Freeform
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="157" group-title="PREMIUM" ,Fs1
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fs1
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="158" group-title="PREMIUM" ,Fs2
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fs2
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="159" group-title="PREMIUM" ,Fxm
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fxm
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="160" group-title="PREMIUM" ,Fxx
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fxx
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="161" group-title="PREMIUM" ,Fx
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fx
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="162" group-title="PREMIUM" ,Fy
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Fy
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="165" group-title="PREMIUM" ,Galavision
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Galavision
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="168" group-title="PREMIUM" ,Golden_Premier
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Golden_Premier
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="169" group-title="PREMIUM" ,Golf_Channel
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Golf_Channel
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="170" group-title="PREMIUM" ,Goltv
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Goltv
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="178" group-title="PREMIUM" ,Hallmark
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Hallmark
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="179" group-title="PREMIUM" ,Hbo 2
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Hbo 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="180" group-title="PREMIUM" ,Hbo Plus
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Hbo Plus
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="181" group-title="PREMIUM" ,Hbo Xtreme
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Hbo Xtreme
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="182" group-title="PREMIUM" ,Hbo_(Alt.)
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Hbo_(Alt.)
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="183" group-title="PREMIUM" ,Hbo_2
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Hbo_2
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="184" group-title="PREMIUM" ,Hbo_Family
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Hbo_Family
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="185" group-title="PREMIUM" ,Hbo_Plus
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Hbo_Plus
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="186" group-title="PREMIUM" ,Hbo_Xtreme
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Hbo_Xtreme
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="187" group-title="PREMIUM" ,Hbo
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Hbo
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="188" group-title="PREMIUM" ,Hgtv
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Hgtv
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="190" group-title="PREMIUM" ,History2
+http://m3ukodi.com/servicios/playtv/app_playtv.php?History2
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="191" group-title="PREMIUM" ,History 2
+http://m3ukodi.com/servicios/playtv/app_playtv.php?History_2
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="192" group-title="PREMIUM" ,History_2
+http://m3ukodi.com/servicios/playtv/app_playtv.php?History_2
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="193" group-title="PREMIUM" ,History
+http://m3ukodi.com/servicios/playtv/app_playtv.php?History
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="194" group-title="PREMIUM" ,Hola!_Tv
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Hola!_Tv
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="195" group-title="PREMIUM" ,Htv
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Htv
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="196" group-title="PREMIUM" ,Hustler_Tv
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Hustler_Tv
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="198" group-title="PREMIUM" ,I-Sat
+http://m3ukodi.com/servicios/playtv/app_playtv.php?I-Sat
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="199" group-title="PREMIUM" ,Id
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Id
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="200" group-title="PREMIUM" ,Investigation_Discovery
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Investigation_Discovery
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="204" group-title="PREMIUM" ,Las Estrellas
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Las Estrellas
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="205" group-title="PREMIUM" ,Las_Estrellas
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Las_Estrellas
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="206" group-title="PREMIUM" ,Lifetime
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Lifetime
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="207" group-title="PREMIUM" ,Lmn
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Lmn
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="213" group-title="PREMIUM" ,Mc
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Mc
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="214" group-title="PREMIUM" ,Megatv_Pr
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Megatv_Pr
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="217" group-title="PREMIUM" ,Mlb_Network
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Mlb_Network
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="225" group-title="PREMIUM" ,Mtv_Hits
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Mtv_Hits
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="226" group-title="PREMIUM" ,Mtv
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Mtv
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="227" group-title="PREMIUM" ,Multipremier
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Multipremier
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="232" group-title="PREMIUM" ,Nat_Geo_Kids
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Nat_Geo_Kids
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="233" group-title="PREMIUM" ,Nat_Geo_Wild
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Nat_Geo_Wild
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="234" group-title="PREMIUM" ,Natgeo Kids
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Natgeo Kids
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="236" group-title="PREMIUM" ,Natgeo_Wild
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Natgeo_Wild
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="237" group-title="PREMIUM" ,Natgeo
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Natgeo
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="238" group-title="PREMIUM" ,National_Geographic
+http://m3ukodi.com/servicios/playtv/app_playtv.php?National_Geographic
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="239" group-title="PREMIUM" ,Nba_Tv
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Nba_Tv
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="240" group-title="PREMIUM" ,Nbc_(Alt.)
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Nbc_(Alt.)
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="241" group-title="PREMIUM" ,Nbcsn
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Nbcsn
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="242" group-title="PREMIUM" ,Nbc
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Nbc
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="243" group-title="PREMIUM" ,Nick_Jr.
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Nick_Jr.
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="245" group-title="PREMIUM" ,Nickelodeon
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Nickelodeon
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="246" group-title="PREMIUM" ,Nick
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Nick
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="247" group-title="PREMIUM" ,Outdoor_Channel
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Outdoor_Channel
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="250" group-title="PREMIUM" ,Paramount_Network
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Paramount_Network
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="251" group-title="PREMIUM" ,Pasiones
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Pasiones
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="252" group-title="PREMIUM" ,Playboy
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Playboy
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="253" group-title="PREMIUM" ,Punto_2
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Punto_2
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="264" group-title="PREMIUM" ,Rt_(Espanol)
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Rt_(Espanol)
+
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="273" group-title="PREMIUM" ,Sony_Hd
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Sony_Hd
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="274" group-title="PREMIUM" ,Sony
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Sony
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="276" group-title="PREMIUM" ,Space
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Space
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="277" group-title="PREMIUM" ,Sportsman_Channel
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Sportsman_Channel
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="286" group-title="PREMIUM" ,Star Series
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Star Series
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="287" group-title="PREMIUM" ,Starz_Comedy
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Starz_Comedy
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="288" group-title="PREMIUM" ,Starz_Family
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Starz_Family
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="289" group-title="PREMIUM" ,Starz
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Starz
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="291" group-title="PREMIUM" ,Studio Universal
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Studio Universal
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="292" group-title="PREMIUM" ,Studio
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Studio
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="294" group-title="PREMIUM" ,Syfy
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Syfy
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="321" group-title="PREMIUM" ,Ten
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Ten
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="323" group-title="PREMIUM" ,The_Cowboy_Channel
+http://m3ukodi.com/servicios/playtv/app_playtv.php?The_Cowboy_Channel
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="324" group-title="PREMIUM" ,The_Movie_Channel
+http://m3ukodi.com/servicios/playtv/app_playtv.php?The_Movie_Channel
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="325" group-title="PREMIUM" ,The_Weather_Channel
+http://m3ukodi.com/servicios/playtv/app_playtv.php?The_Weather_Channel
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="326" group-title="PREMIUM" ,Tlc
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Tlc
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="327" group-title="PREMIUM" ,Tnt Series
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Tnt Series
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="328" group-title="PREMIUM" ,Tnt_Series
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Tnt_Series
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="329" group-title="PREMIUM" ,Tnt
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Tnt
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="331" group-title="PREMIUM" ,Trutv
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Trutv
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="332" group-title="PREMIUM" ,Trvl
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Trvl
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="333" group-title="PREMIUM" ,Tudn_Usa
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Tudn_Usa
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="334" group-title="PREMIUM" ,Tudn
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Tudn
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="335" group-title="PREMIUM" ,Tvc
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Tvc
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="338" group-title="PREMIUM" ,Ufc_Network
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Ufc_Network
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="339" group-title="PREMIUM" ,Unicable
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Unicable
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="340" group-title="PREMIUM" ,Unimas
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Unimas
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="342" group-title="PREMIUM" ,Universal
+http://190.171.101.36/Universal/tracks-v3a2/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="343" group-title="PREMIUM" ,Universal
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Universal
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="344" group-title="PREMIUM" ,Universo
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Universo
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="345" group-title="PREMIUM" ,Univision_Pac
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Univision_Pac
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="346" group-title="PREMIUM" ,Univision
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Univision
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="347" group-title="PREMIUM" ,Usa_Network
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Usa_Network
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="349" group-title="PREMIUM" ,Venus
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Venus
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="350" group-title="PREMIUM" ,Vh1_Europe
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Vh1_Europe
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="351" group-title="PREMIUM" ,Vh1
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Vh1
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="352" group-title="PREMIUM" ,Vice
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Vice
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="358" group-title="PREMIUM" ,Warner
+http://190.171.101.36/Warner/tracks-v3a2/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/DNh8m7a.png" tvg-id="359" group-title="PREMIUM" ,Warner
+http://m3ukodi.com/servicios/playtv/app_playtv.php?Warner
