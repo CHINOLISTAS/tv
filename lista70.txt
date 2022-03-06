@@ -16,6 +16,6 @@ LISTA M3U
 
 3.- https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/lista2.m3u
 
-4.- http://144.126.128.123:25461/get.php?username=shortgodddddd&password=descarga-enz-shortgod.com&type=m3u_plus
+4.- 
 
  Que lo disfruten
