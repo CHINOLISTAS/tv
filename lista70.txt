@@ -18,4 +18,6 @@ LISTA M3U
 
 4.- https://mrzutv.net/mexiqueandosite09.m3u
 
+http://23.237.22.47:25461/get.php?username=Monicajdjfjfkfidk&password=Monicajdksjdheiwkej&type=m3u_plus
+
  Que lo disfruten
