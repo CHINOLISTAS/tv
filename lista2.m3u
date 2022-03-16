@@ -1,117 +1,564 @@
-#EXTM3U
-#EXTINF:-1,AE Mundo
-http://45.189.108.58:10000/play/a00j/index.m3u8
-#EXTINF:-1,AMC HD
-http://45.189.108.58:10000/play/a020/index.m3u8
-#EXTINF:-1,AMERICAHD
-http://45.189.108.58:10000/play/a00r/index.m3u8
-#EXTINF:-1,ATV NOTICIASHD
-http://45.189.108.58:10000/play/a00w/index.m3u8
-#EXTINF:-1,ATVHD
-http://45.189.108.58:10000/play/a00v/index.m3u8
-#EXTINF:-1,AZ click HD
-http://45.189.108.58:10000/play/a021/index.m3u8
-#EXTINF:-1,Animal Planet
-http://45.189.108.58:10000/play/a00a/index.m3u8
-#EXTINF:-1,CNN Chile
-http://45.189.108.58:10000/play/a01g/index.m3u8
-#EXTINF:-1,CUBAVISION INTERNACIONAL
-http://45.189.108.58:10000/play/a00y/index.m3u8
-#EXTINF:-1,Canal Estrellas
-http://45.189.108.58:10000/play/a00n/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://45.189.108.58:10000/play/a01k/index.m3u8
-#EXTINF:-1,Cinecanal
-http://45.189.108.58:10000/play/a01a/index.m3u8
-#EXTINF:-1,Claro Sports
-http://45.189.108.58:10000/play/a01m/index.m3u8
-#EXTINF:-1,Comedy Central HD
-http://45.189.108.58:10000/play/a01u/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://45.189.108.58:10000/play/a009/index.m3u8
-#EXTINF:-1,Disney Channel
-http://45.189.108.58:10000/play/a008/index.m3u8
-#EXTINF:-1,Disney 😆
-http://45.189.108.58:10000/play/a017/index.m3u8
-#EXTINF:-1,E Entertainment
-http://45.189.108.58:10000/play/a00c/index.m3u8
-#EXTINF:-1,ESPN
-http://45.189.108.58:10000/play/a00f/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://45.189.108.58:10000/play/a00e/index.m3u8
-#EXTINF:-1,EXITOSAHD
-http://45.189.108.58:10000/play/a00z/index.m3u8
-#EXTINF:-1,Enlace
-http://45.189.108.58:10000/play/a01p/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://45.189.108.58:10000/play/a00o/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://45.189.108.58:10000/play/a00p/index.m3u8
-#EXTINF:-1,HOLA! TV HD
-http://45.189.108.58:10000/play/a01t/index.m3u8
-#EXTINF:-1,History Channel
-http://45.189.108.58:10000/play/a019/index.m3u8
-#EXTINF:-1,I-Sat
-http://45.189.108.58:10000/play/a01c/index.m3u8
-#EXTINF:-1,IPEHD
-http://45.189.108.58:10000/play/a013/index.m3u8
-#EXTINF:-1,KARIBENAHD
-http://45.189.108.58:10000/play/a010/index.m3u8
-#EXTINF:-1,LATINAHD
-http://45.189.108.58:10000/play/a006/index.m3u8
-#EXTINF:-1,MTV
-http://45.189.108.58:10000/play/a01d/index.m3u8
-#EXTINF:-1,MULTIVISION
-http://45.189.108.58:10000/play/a001/index.m3u8
-#EXTINF:-1,Nat Geo
-http://45.189.108.58:10000/play/a018/index.m3u8
-#EXTINF:-1,NatGeo Kids
-http://45.189.108.58:10000/play/a01j/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://45.189.108.58:10000/play/a016/index.m3u8
-#EXTINF:-1,PANAMERICANAHD
-http://45.189.108.58:10000/play/a002/index.m3u8
-#EXTINF:-1,RADIOZ
-http://45.189.108.58:10000/play/a011/index.m3u8
-#EXTINF:-1,STAR CHANNEL
-http://45.189.108.58:10000/play/a01h/index.m3u8
-#EXTINF:-1,STAR LIFE
-http://45.189.108.58:10000/play/a01f/index.m3u8
-#EXTINF:-1,TCM
-http://45.189.108.58:10000/play/a01i/index.m3u8
-#EXTINF:-1,TLC
-http://45.189.108.58:10000/play/a00l/index.m3u8
-#EXTINF:-1,TNT
-http://45.189.108.58:10000/play/a01l/index.m3u8
-#EXTINF:-1,TNT HD
-http://45.189.108.58:10000/play/a01r/index.m3u8
-#EXTINF:-1,TVE
-http://45.189.108.58:10000/play/a01q/index.m3u8
-#EXTINF:-1,TVPERUHD
-http://45.189.108.58:10000/play/a00t/index.m3u8
-#EXTINF:-1,TVPERUNOTICIASHD
-http://45.189.108.58:10000/play/a012/index.m3u8
-#EXTINF:-1,Telemundo
-http://45.189.108.58:10000/play/a00q/index.m3u8
-#EXTINF:-1,TyC
-http://45.189.108.58:10000/play/a00h/index.m3u8
-#EXTINF:-1,UNIVERSAL CRIME HD
-http://45.189.108.58:10000/play/a01y/index.m3u8
-#EXTINF:-1,UNIVERSAL PREMIERE HD
-http://45.189.108.58:10000/play/a01v/index.m3u8
-#EXTINF:-1,UNIVERSAL PREMIERE O HD
-http://45.189.108.58:10000/play/a01w/index.m3u8
-#EXTINF:-1,UNIVERSAL REALITY HD
-http://45.189.108.58:10000/play/a01x/index.m3u8
-#EXTINF:-1,Universal
-http://45.189.108.58:10000/play/a01b/index.m3u8
-#EXTINF:-1,Venus
-http://45.189.108.58:10000/play/a00k/index.m3u8
-#EXTINF:-1,ViaX
-http://45.189.108.58:10000/play/a00m/index.m3u8
-#EXTINF:-1,WILLAXHD
-http://45.189.108.58:10000/play/a005/index.m3u8
-#EXTINF:-1,Warner
-http://45.189.108.58:10000/play/a00b/index.m3u8
-#EXTINF:-1,Zona Latina
-http://45.189.108.58:10000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",A&E
+http://m3ukodi.com/servicios/transco/app_transco.php?A&E
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",A&E_USA
+http://m3ukodi.com/servicios/transco/app_transco.php?A&E_USA
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",A&E_SD
+http://m3ukodi.com/servicios/transco/app_transco.php?A&E_SD
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",A3_Series
+http://m3ukodi.com/servicios/transco/app_transco.php?A3_Series
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",A3_Series
+http://m3ukodi.com/servicios/transco/app_transco.php?A3_Series
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Abc
+http://m3ukodi.com/servicios/transco/app_transco.php?Abc
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Adrenalina_Sports_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Adrenalina_Sports_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Amc
+http://m3ukodi.com/servicios/transco/app_transco.php?Amc
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Animal_Planet
+http://m3ukodi.com/servicios/transco/app_transco.php?Animal_Planet
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Animal_Planet_Usa
+http://m3ukodi.com/servicios/transco/app_transco.php?Animal_Planet_Usa
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Antena_3
+http://m3ukodi.com/servicios/transco/app_transco.php?Antena_3
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Axn
+http://m3ukodi.com/servicios/transco/app_transco.php?Axn
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Axn
+http://m3ukodi.com/servicios/transco/app_transco.php?Axn
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Axn
+http://m3ukodi.com/servicios/transco/app_transco.php?Axn
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Axstv
+http://m3ukodi.com/servicios/transco/app_transco.php?Axstv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Az Cinema
+http://m3ukodi.com/servicios/transco/app_transco.php?Az Cinema
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Azteca Uno
+http://m3ukodi.com/servicios/transco/app_transco.php?Azteca Uno
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Azteca_7
+http://m3ukodi.com/servicios/transco/app_transco.php?Azteca_7
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Azteca_Uno
+http://m3ukodi.com/servicios/transco/app_transco.php?Azteca_Uno
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Baby_Tv
+http://m3ukodi.com/servicios/transco/app_transco.php?Baby_Tv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Bandamax
+http://m3ukodi.com/servicios/transco/app_transco.php?Bandamax
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Bandamax
+http://m3ukodi.com/servicios/transco/app_transco.php?Bandamax
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Bein_Sports
+http://m3ukodi.com/servicios/transco/app_transco.php?Bein_Sports
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Beinn
+http://m3ukodi.com/servicios/transco/app_transco.php?Beinn
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Beinn
+http://m3ukodi.com/servicios/transco/app_transco.php?Beinn
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Bet_Networks
+http://m3ukodi.com/servicios/transco/app_transco.php?Bet_Networks
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Boomerang
+http://m3ukodi.com/servicios/transco/app_transco.php?Boomerang
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Bravo
+http://m3ukodi.com/servicios/transco/app_transco.php?Bravo
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Canal 5
+http://m3ukodi.com/servicios/transco/app_transco.php?Canal 5
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cartoon Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Cartoon Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cartoon_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Cartoon_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cartoon_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Cartoon_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cbs
+http://m3ukodi.com/servicios/transco/app_transco.php?Cbs
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cbs_Sports_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Cbs_Sports_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cine_Canal
+http://m3ukodi.com/servicios/transco/app_transco.php?Cine_Canal
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cine_Canal_Premier
+http://m3ukodi.com/servicios/transco/app_transco.php?Cine_Canal_Premier
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cine_Latino
+http://m3ukodi.com/servicios/transco/app_transco.php?Cine_Latino
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cine_Latino Us
+http://m3ukodi.com/servicios/transco/app_transco.php?Cine_Latino Us
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cinema
+http://m3ukodi.com/servicios/transco/app_transco.php?Cinema
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cinema
+http://m3ukodi.com/servicios/transco/app_transco.php?Cinema
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cinemax
+http://m3ukodi.com/servicios/transco/app_transco.php?Cinemax
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Claro_Sports
+http://m3ukodi.com/servicios/transco/app_transco.php?Claro_Sports
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cmt
+http://m3ukodi.com/servicios/transco/app_transco.php?Cmt
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cnbc
+http://m3ukodi.com/servicios/transco/app_transco.php?Cnbc
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cnn
+http://m3ukodi.com/servicios/transco/app_transco.php?Cnn
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cnn_En_Espanol
+http://m3ukodi.com/servicios/transco/app_transco.php?Cnn_En_Espanol
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Comedy Central
+http://m3ukodi.com/servicios/transco/app_transco.php?Comedy Central
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Comedy_Central
+http://m3ukodi.com/servicios/transco/app_transco.php?Comedy_Central
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Comedy_Central
+http://m3ukodi.com/servicios/transco/app_transco.php?Comedy_Central
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Cooking_Channel
+http://m3ukodi.com/servicios/transco/app_transco.php?Cooking_Channel
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",De_Pelicula
+http://m3ukodi.com/servicios/transco/app_transco.php?De_Pelicula
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Destination_America
+http://m3ukodi.com/servicios/transco/app_transco.php?Destination_America
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery Kids
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery Kids
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery_En_Espanol
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery_En_Espanol
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery_Family
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery_Family
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery_H&H
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery_H&H
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery_H&H
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery_H&H
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery_Kids
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery_Kids
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery_Sci
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery_Sci
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery_Theater
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery_Theater
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery_Theater
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery_Theater
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery_Tlc
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery_Tlc
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery_Turbo
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery_Turbo
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery_Turbo
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery_Turbo
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Discovery_World
+http://m3ukodi.com/servicios/transco/app_transco.php?Discovery_World
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Disney Channel
+http://m3ukodi.com/servicios/transco/app_transco.php?Disney Channel
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Disney Xd
+http://m3ukodi.com/servicios/transco/app_transco.php?Disney Xd
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Disney_Channel
+http://m3ukodi.com/servicios/transco/app_transco.php?Disney_Channel
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Disney_Channel
+http://m3ukodi.com/servicios/transco/app_transco.php?Disney_Channel
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Disney_Channel
+http://m3ukodi.com/servicios/transco/app_transco.php?Disney_Channel
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Disney_Junior
+http://m3ukodi.com/servicios/transco/app_transco.php?Disney_Junior
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Disney_Xd
+http://m3ukodi.com/servicios/transco/app_transco.php?Disney_Xd
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Dpeliculas
+http://m3ukodi.com/servicios/transco/app_transco.php?Dpeliculas
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",E!
+http://m3ukodi.com/servicios/transco/app_transco.php?E!
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",E!
+http://m3ukodi.com/servicios/transco/app_transco.php?E!
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",El Gourmet
+http://m3ukodi.com/servicios/transco/app_transco.php?El Gourmet
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",El_Gourmet
+http://m3ukodi.com/servicios/transco/app_transco.php?El_Gourmet
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Espn
+http://m3ukodi.com/servicios/transco/app_transco.php?Espn
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Espn
+http://m3ukodi.com/servicios/transco/app_transco.php?Espn
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Espn Deportes
+http://m3ukodi.com/servicios/transco/app_transco.php?Espn Deportes
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Espn Usa
+http://m3ukodi.com/servicios/transco/app_transco.php?Espn Usa
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Espn Usa 2
+http://m3ukodi.com/servicios/transco/app_transco.php?Espn Usa 2
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Espn_2
+http://m3ukodi.com/servicios/transco/app_transco.php?Espn_2
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Espn_2
+http://m3ukodi.com/servicios/transco/app_transco.php?Espn_2
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Espn_2
+http://m3ukodi.com/servicios/transco/app_transco.php?Espn_2
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Espn_3
+http://m3ukodi.com/servicios/transco/app_transco.php?Espn_3
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Espn_Deportes
+http://m3ukodi.com/servicios/transco/app_transco.php?Espn_Deportes
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Espn_Extra
+http://m3ukodi.com/servicios/transco/app_transco.php?Espn_Extra
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Espn_U
+http://m3ukodi.com/servicios/transco/app_transco.php?Espn_U
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Estrella_Tv
+http://m3ukodi.com/servicios/transco/app_transco.php?Estrella_Tv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Evento_Pp2
+http://m3ukodi.com/servicios/transco/app_transco.php?Evento_Pp2
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Exa_Tv
+http://m3ukodi.com/servicios/transco/app_transco.php?Exa_Tv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Exa_Tv
+http://m3ukodi.com/servicios/transco/app_transco.php?Exa_Tv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Food_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Food_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox Sports Mx 2
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox Sports Mx 2
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox Sports Usa
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox Sports Usa
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Action
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Action
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Action (E)
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Action (E)
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Business
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Business
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Classics
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Classics
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Fun
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Fun
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Hits
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Hits
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Hits (E)
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Hits (E)
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Life
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Life
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Max
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Max
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Mexico
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Mexico
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_News
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_News
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Series
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Series
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Series (E)
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Series (E)
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Sports
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Sports
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Sports
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Sports
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Sports_2
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Sports_2
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Sports_2
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Sports_2
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fox_Sports_3
+http://m3ukodi.com/servicios/transco/app_transco.php?Fox_Sports_3
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Freeform
+http://m3ukodi.com/servicios/transco/app_transco.php?Freeform
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fs1
+http://m3ukodi.com/servicios/transco/app_transco.php?Fs1
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fs2
+http://m3ukodi.com/servicios/transco/app_transco.php?Fs2
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fx
+http://m3ukodi.com/servicios/transco/app_transco.php?Fx
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fx
+http://m3ukodi.com/servicios/transco/app_transco.php?Fx
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fx
+http://m3ukodi.com/servicios/transco/app_transco.php?Fx
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fx
+http://m3ukodi.com/servicios/transco/app_transco.php?Fx
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fxm
+http://m3ukodi.com/servicios/transco/app_transco.php?Fxm
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fxx
+http://m3ukodi.com/servicios/transco/app_transco.php?Fxx
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Fy
+http://m3ukodi.com/servicios/transco/app_transco.php?Fy
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Galavision
+http://m3ukodi.com/servicios/transco/app_transco.php?Galavision
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Golden_Premier
+http://m3ukodi.com/servicios/transco/app_transco.php?Golden_Premier
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Golf_Channel
+http://m3ukodi.com/servicios/transco/app_transco.php?Golf_Channel
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Goltv
+http://m3ukodi.com/servicios/transco/app_transco.php?Goltv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Hallmark
+http://m3ukodi.com/servicios/transco/app_transco.php?Hallmark
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Hbo
+http://m3ukodi.com/servicios/transco/app_transco.php?Hbo
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Hbo
+http://m3ukodi.com/servicios/transco/app_transco.php?Hbo
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Hbo
+http://m3ukodi.com/servicios/transco/app_transco.php?Hbo
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Hbo 2
+http://m3ukodi.com/servicios/transco/app_transco.php?Hbo 2
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Hbo Plus
+http://m3ukodi.com/servicios/transco/app_transco.php?Hbo Plus
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Hbo Xtreme
+http://m3ukodi.com/servicios/transco/app_transco.php?Hbo Xtreme
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Hbo_(Alt.)
+http://m3ukodi.com/servicios/transco/app_transco.php?Hbo_(Alt.)
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Hbo_2
+http://m3ukodi.com/servicios/transco/app_transco.php?Hbo_2
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Hbo_Family
+http://m3ukodi.com/servicios/transco/app_transco.php?Hbo_Family
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Hbo_Plus
+http://m3ukodi.com/servicios/transco/app_transco.php?Hbo_Plus
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Hbo_Xtreme
+http://m3ukodi.com/servicios/transco/app_transco.php?Hbo_Xtreme
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Hgtv
+http://m3ukodi.com/servicios/transco/app_transco.php?Hgtv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",History
+http://m3ukodi.com/servicios/transco/app_transco.php?History
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",History
+http://m3ukodi.com/servicios/transco/app_transco.php?History
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",History
+http://m3ukodi.com/servicios/transco/app_transco.php?History
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",History
+http://m3ukodi.com/servicios/transco/app_transco.php?History
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",History 2
+http://m3ukodi.com/servicios/transco/app_transco.php?History 2
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",History_2
+http://m3ukodi.com/servicios/transco/app_transco.php?History_2
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",History2
+http://m3ukodi.com/servicios/transco/app_transco.php?History2
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Hola!_Tv
+http://m3ukodi.com/servicios/transco/app_transco.php?Hola!_Tv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Htv
+http://m3ukodi.com/servicios/transco/app_transco.php?Htv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Id
+http://m3ukodi.com/servicios/transco/app_transco.php?Id
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Investigation_Discovery
+http://m3ukodi.com/servicios/transco/app_transco.php?Investigation_Discovery
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Investigation_Discovery
+http://m3ukodi.com/servicios/transco/app_transco.php?Investigation_Discovery
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",I-Sat
+http://m3ukodi.com/servicios/transco/app_transco.php?I-Sat
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Las Estrellas
+http://m3ukodi.com/servicios/transco/app_transco.php?Las Estrellas
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Las_Estrellas
+http://m3ukodi.com/servicios/transco/app_transco.php?Las_Estrellas
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Lifetime
+http://m3ukodi.com/servicios/transco/app_transco.php?Lifetime
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Lifetime
+http://m3ukodi.com/servicios/transco/app_transco.php?Lifetime
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Lmn
+http://m3ukodi.com/servicios/transco/app_transco.php?Lmn
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Mc
+http://m3ukodi.com/servicios/transco/app_transco.php?Mc
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Megatv_Pr
+http://m3ukodi.com/servicios/transco/app_transco.php?Megatv_Pr
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Mlb_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Mlb_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Motor_Trend
+http://m3ukodi.com/servicios/transco/app_transco.php?Motor_Trend
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Mtv
+http://m3ukodi.com/servicios/transco/app_transco.php?Mtv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Mtv
+http://m3ukodi.com/servicios/transco/app_transco.php?Mtv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Mtv
+http://m3ukodi.com/servicios/transco/app_transco.php?Mtv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Mtv_Hits
+http://m3ukodi.com/servicios/transco/app_transco.php?Mtv_Hits
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Multipremier
+http://m3ukodi.com/servicios/transco/app_transco.php?Multipremier
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Nat_Geo_Kids
+http://m3ukodi.com/servicios/transco/app_transco.php?Nat_Geo_Kids
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Nat_Geo_Wild
+http://m3ukodi.com/servicios/transco/app_transco.php?Nat_Geo_Wild
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Nat_Geo_Wild
+http://m3ukodi.com/servicios/transco/app_transco.php?Nat_Geo_Wild
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Natgeo
+http://m3ukodi.com/servicios/transco/app_transco.php?Natgeo
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Natgeo Kids
+http://m3ukodi.com/servicios/transco/app_transco.php?Natgeo Kids
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Natgeo_Wild
+http://m3ukodi.com/servicios/transco/app_transco.php?Natgeo_Wild
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",National_Geographic
+http://m3ukodi.com/servicios/transco/app_transco.php?National_Geographic
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",National_Geographic
+http://m3ukodi.com/servicios/transco/app_transco.php?National_Geographic
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",National_Geographic
+http://m3ukodi.com/servicios/transco/app_transco.php?National_Geographic
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Nba_Tv
+http://m3ukodi.com/servicios/transco/app_transco.php?Nba_Tv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Nbc
+http://m3ukodi.com/servicios/transco/app_transco.php?Nbc
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Nbc_(Alt.)
+http://m3ukodi.com/servicios/transco/app_transco.php?Nbc_(Alt.)
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Nbcsn
+http://m3ukodi.com/servicios/transco/app_transco.php?Nbcsn
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Nick
+http://m3ukodi.com/servicios/transco/app_transco.php?Nick
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Nick
+http://m3ukodi.com/servicios/transco/app_transco.php?Nick
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Nick_Jr.
+http://m3ukodi.com/servicios/transco/app_transco.php?Nick_Jr.
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Nickelodeon
+http://m3ukodi.com/servicios/transco/app_transco.php?Nickelodeon
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Outdoor_Channel
+http://m3ukodi.com/servicios/transco/app_transco.php?Outdoor_Channel
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Paramount_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Paramount_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Paramount_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Paramount_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Pasiones
+http://m3ukodi.com/servicios/transco/app_transco.php?Pasiones
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Punto_2
+http://m3ukodi.com/servicios/transco/app_transco.php?Punto_2
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Rt_(Espanol)
+http://m3ukodi.com/servicios/transco/app_transco.php?Rt_(Espanol)
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Showtime_(W)
+http://m3ukodi.com/servicios/transco/app_transco.php?Showtime_(W)
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Sony
+http://m3ukodi.com/servicios/transco/app_transco.php?Sony
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Sony_Hd
+http://m3ukodi.com/servicios/transco/app_transco.php?Sony_Hd
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Space
+http://m3ukodi.com/servicios/transco/app_transco.php?Space
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Space
+http://m3ukodi.com/servicios/transco/app_transco.php?Space
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Space
+http://m3ukodi.com/servicios/transco/app_transco.php?Space
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Sportsman_Channel
+http://m3ukodi.com/servicios/transco/app_transco.php?Sportsman_Channel
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Star Hits
+http://m3ukodi.com/servicios/transco/app_transco.php?Star Hits
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Star Series
+http://m3ukodi.com/servicios/transco/app_transco.php?Star Series
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Starz
+http://m3ukodi.com/servicios/transco/app_transco.php?Starz
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Starz_Comedy
+http://m3ukodi.com/servicios/transco/app_transco.php?Starz_Comedy
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Starz_Family
+http://m3ukodi.com/servicios/transco/app_transco.php?Starz_Family
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Studio
+http://m3ukodi.com/servicios/transco/app_transco.php?Studio
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Studio Universal
+http://m3ukodi.com/servicios/transco/app_transco.php?Studio Universal
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Syfy
+http://m3ukodi.com/servicios/transco/app_transco.php?Syfy
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Syfy
+http://m3ukodi.com/servicios/transco/app_transco.php?Syfy
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Syfy
+http://m3ukodi.com/servicios/transco/app_transco.php?Syfy
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tbs
+http://m3ukodi.com/servicios/transco/app_transco.php?Tbs
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tbs
+http://m3ukodi.com/servicios/transco/app_transco.php?Tbs
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tbs
+http://m3ukodi.com/servicios/transco/app_transco.php?Tbs
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tele11
+http://m3ukodi.com/servicios/transco/app_transco.php?Tele11
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Teleformula
+http://m3ukodi.com/servicios/transco/app_transco.php?Teleformula
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Telehit_Musica
+http://m3ukodi.com/servicios/transco/app_transco.php?Telehit_Musica
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Telemundo
+http://m3ukodi.com/servicios/transco/app_transco.php?Telemundo
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Telemundo
+http://m3ukodi.com/servicios/transco/app_transco.php?Telemundo
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Telemundo
+http://m3ukodi.com/servicios/transco/app_transco.php?Telemundo
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Telemundo_Pac
+http://m3ukodi.com/servicios/transco/app_transco.php?Telemundo_Pac
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Telemundo_Pr
+http://m3ukodi.com/servicios/transco/app_transco.php?Telemundo_Pr
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Teleritmo
+http://m3ukodi.com/servicios/transco/app_transco.php?Teleritmo
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tennis_Channel
+http://m3ukodi.com/servicios/transco/app_transco.php?Tennis_Channel
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",The_Cowboy_Channel
+http://m3ukodi.com/servicios/transco/app_transco.php?The_Cowboy_Channel
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",The_Movie_Channel
+http://m3ukodi.com/servicios/transco/app_transco.php?The_Movie_Channel
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",The_Weather_Channel
+http://m3ukodi.com/servicios/transco/app_transco.php?The_Weather_Channel
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tlc
+http://m3ukodi.com/servicios/transco/app_transco.php?Tlc
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tlc
+http://m3ukodi.com/servicios/transco/app_transco.php?Tlc
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tnt
+http://m3ukodi.com/servicios/transco/app_transco.php?Tnt
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tnt
+http://m3ukodi.com/servicios/transco/app_transco.php?Tnt
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tnt
+http://m3ukodi.com/servicios/transco/app_transco.php?Tnt
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tnt
+http://m3ukodi.com/servicios/transco/app_transco.php?Tnt
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tnt Series
+http://m3ukodi.com/servicios/transco/app_transco.php?Tnt Series
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tnt_Series
+http://m3ukodi.com/servicios/transco/app_transco.php?Tnt_Series
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tnt_Series
+http://m3ukodi.com/servicios/transco/app_transco.php?Tnt_Series
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Trutv
+http://m3ukodi.com/servicios/transco/app_transco.php?Trutv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Trvl
+http://m3ukodi.com/servicios/transco/app_transco.php?Trvl
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tudn
+http://m3ukodi.com/servicios/transco/app_transco.php?Tudn
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tudn_Usa
+http://m3ukodi.com/servicios/transco/app_transco.php?Tudn_Usa
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Tvc
+http://m3ukodi.com/servicios/transco/app_transco.php?Tvc
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Ufc_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Ufc_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Ufc_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Ufc_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Ufc_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Ufc_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Ufc_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Ufc_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Ufc_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Ufc_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Ufc_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Ufc_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Ufc_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Ufc_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Ufc_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Ufc_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Ufc_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Ufc_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Unicable
+http://m3ukodi.com/servicios/transco/app_transco.php?Unicable
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Unicable
+http://m3ukodi.com/servicios/transco/app_transco.php?Unicable
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Unimas
+http://m3ukodi.com/servicios/transco/app_transco.php?Unimas
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Universal
+http://m3ukodi.com/servicios/transco/app_transco.php?Universal
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Universal
+http://m3ukodi.com/servicios/transco/app_transco.php?Universal
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Universal
+http://m3ukodi.com/servicios/transco/app_transco.php?Universal
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Universo
+http://m3ukodi.com/servicios/transco/app_transco.php?Universo
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Univision
+http://m3ukodi.com/servicios/transco/app_transco.php?Univision
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Univision
+http://m3ukodi.com/servicios/transco/app_transco.php?Univision
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Univision_Pac
+http://m3ukodi.com/servicios/transco/app_transco.php?Univision_Pac
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Usa_Network
+http://m3ukodi.com/servicios/transco/app_transco.php?Usa_Network
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Vh1
+http://m3ukodi.com/servicios/transco/app_transco.php?Vh1
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Vh1
+http://m3ukodi.com/servicios/transco/app_transco.php?Vh1
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Vh1_Europe
+http://m3ukodi.com/servicios/transco/app_transco.php?Vh1_Europe
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Vice
+http://m3ukodi.com/servicios/transco/app_transco.php?Vice
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Videorola
+http://m3ukodi.com/servicios/transco/app_transco.php?Videorola
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Wapa
+http://m3ukodi.com/servicios/transco/app_transco.php?Wapa
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Wapa_Deportes
+http://m3ukodi.com/servicios/transco/app_transco.php?Wapa_Deportes
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Warner
+http://m3ukodi.com/servicios/transco/app_transco.php?Warner
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Warner
+http://m3ukodi.com/servicios/transco/app_transco.php?Warner
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",We_Tv
+http://m3ukodi.com/servicios/transco/app_transco.php?We_Tv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Wipr
+http://m3ukodi.com/servicios/transco/app_transco.php?Wipr
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Realextreme
+http://m3ukodi.com/servicios/transco/app_transco.php?Realextreme
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Brazzers_Tv
+http://m3ukodi.com/servicios/transco/app_transco.php?Brazzers_Tv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Ten
+http://m3ukodi.com/servicios/transco/app_transco.php?Ten
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Rk
+http://m3ukodi.com/servicios/transco/app_transco.php?Rk
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Hustler_Tv
+http://m3ukodi.com/servicios/transco/app_transco.php?Hustler_Tv
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Xtsy
+http://m3ukodi.com/servicios/transco/app_transco.php?Xtsy
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Playboy
+http://m3ukodi.com/servicios/transco/app_transco.php?Playboy
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Venus
+http://m3ukodi.com/servicios/transco/app_transco.php?Venus
+#EXTINF:-1 tvg-logo="https://rotf.lol/logom3ukodi" group-title="Canales",Sextreme
+http://m3ukodi.com/servicios/transco/app_transco.php?Sextreme
