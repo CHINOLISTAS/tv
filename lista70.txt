@@ -12,12 +12,8 @@ LISTA M3U
 
 1.- http://latinosiptv.online:8090/get.php?username=notocar&password=xmauc84bx1&type=m3u_plus
 
-2.- https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/lista.m3u
+2.- https://chinolistas.github.io/CHINOLISTASM3U/lista.m3u
 
-3.- https://raw.githubusercontent.com/CHINOLISTAS/CHINOLISTASM3U/main/lista2.m3u
-
-4.- https://mrzutv.net/mexiqueandosite09.m3u
-
-http://23.237.22.47:25461/get.php?username=Monicajdjfjfkfidk&password=Monicajdksjdheiwkej&type=m3u_plus
+3.- https://chinolistas.github.io/CHINOLISTASM3U/lista2.m3u
 
  Que lo disfruten
