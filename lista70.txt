@@ -10,10 +10,7 @@ LISTA M3U
 --La lista funciona con reproductor iptv logo azul
 --La lista se actualiza todos los días debido a que son  remotas 
 
-1.- http://latinosiptv.online:8090/get.php?username=notocar&password=xmauc84bx1&type=m3u_plus
 
-2.- https://chinolistas.github.io/CHINOLISTASM3U/lista.m3u
-
-3.- https://chinolistas.github.io/CHINOLISTASM3U/lista2.m3u
+1.- https://chinolistas.github.io/CHINOLISTASM3U/lista.m3u
 
  Que lo disfruten
