@@ -12,5 +12,6 @@ LISTA M3U
 
 
 1.- https://chinolistas.github.io/CHINOLISTASM3U/lista.m3u
+2.- https://chinolistas.github.io/CHINOLISTASM3U/lista2.m3u
 
  Que lo disfruten
