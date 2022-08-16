@@ -11,7 +11,6 @@ LISTA M3U
 --La lista se actualiza todos los días debido a que son  remotas 
 
 
-1.- https://chinolistas.github.io/CHINOLISTASM3U/lista.m3u
-2.- https://chinolistas.github.io/CHINOLISTASM3U/lista2.m3u
+https://chinolistas.github.io/tv/chinolista.m3u
 
  Que lo disfruten
