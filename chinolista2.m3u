@@ -141,3 +141,48 @@ http://45.238.21.106:6688/play/a00q/index.m3u8
 http://45.238.21.106:6688/play/a00f/index.m3u8
 #EXTINF:-1 group-title="CHINOTV2",Zona Latina
 http://45.238.21.106:6688/play/a01p/index.m3u8
+---------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNJc3dV/taahm.jpg" tvg-group="24/7", TWO AND A HALF MEN
+https://api55.tvgratis.live/streams3/master.m3u8?id=675
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4sTztF/tomyjerry.png" tvg-group="24/7", TOM Y JERRY
+https://api55.tvgratis.live/streams3/master.m3u8?id=421
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FxVFts/tbbt.jpg" tvg-group="24/7", THE BIG BANG THEORY
+https://api55.tvgratis.live/streams3/master.m3u8?id=676
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c2dwthG/southpark.jpg" tvg-group="24/7", SOUTH PARK
+https://api55.tvgratis.live/streams3/master.m3u8?id=674
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Npcvc5R/simpsons.jpg" tvg-group="24/7", LOS SIMPSONS
+https://api55.tvgratis.live/streams3/master.m3u8?id=797
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q1nzXjG/scoobydoo.jpg" tvg-group="24/7", SCOOBY DOO
+https://api55.tvgratis.live/streams3/master.m3u8?id=422
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bdtX3My/peppapig.jpg" tvg-group="24/7", PEPPA PIG
+https://api55.tvgratis.live/streams3/master.m3u8?id=787
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2dPRQmB/naruto.jpg" tvg-group="24/7", NARUTO
+https://api55.tvgratis.live/streams3/master.m3u8?id=523
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nrBPn1m/ooneytunes.jpg" tvg-group="24/7", LOONEY TUNES
+https://api55.tvgratis.live/streams3/master.m3u8?id=524
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dQXxjJS/gardfield.jpg" tvg-group="24/7", GARDFIELD
+https://api55.tvgratis.live/streams3/master.m3u8?id=812
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2YqBFZ/futurama.png" tvg-group="24/7", FUTURAMA
+https://api55.tvgratis.live/streams3/master.m3u8?id=793
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s5Z3s0y/chavo.jpg" tvg-group="24/7", EL CHAVO
+https://api55.tvgratis.live/streams3/master.m3u8?id=400
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DrBsFxC/dragonballz.jpg" tvg-group="24/7", DRAGON BALL Z
+https://api55.tvgratis.live/streams3/master.m3u8?id=33
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KKZF5qT/chapulin.jpg" tvg-group="24/7", CHAPULIN COLORADO
+https://api55.tvgratis.live/streams3/master.m3u8?id=418
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TRfcqwz/coraje.jpg" tvg-group="24/7", CORAJE
+https://api55.tvgratis.live/streams3/master.m3u8?id=519
