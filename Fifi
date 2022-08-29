@@ -1,0 +1,504 @@
+#EXTM3U
+#EXTINF:-1 group-title="CHINOTV2",24 Horas
+http://45.238.21.106:6688/play/a01e/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",AE Mundo
+http://45.238.21.106:6688/play/a00n/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",AXN
+http://45.238.21.106:6688/play/a03e/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Animal Planet
+http://45.238.21.106:6688/play/a00e/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",CANAL 13
+http://45.238.21.106:6688/play/a04m/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",CDF Basico
+http://45.238.21.106:6688/play/a00m/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",CDF PREMIUM
+http://45.238.21.106:6688/play/a013/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",CHV
+http://45.238.21.106:6688/play/a010/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",CNN Chile
+http://45.238.21.106:6688/play/a01r/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",CNN Espanol
+http://45.238.21.106:6688/play/a00w/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Canal Claro
+http://45.238.21.106:6688/play/a025/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Canal Institucional
+http://45.238.21.106:6688/play/a04j/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Canal de Las estrellas
+http://45.238.21.106:6688/play/a00r/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Capital TV
+http://45.238.21.106:6688/play/a024/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Cartoon Network
+http://45.238.21.106:6688/play/a01u/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Cinecanal
+http://45.238.21.106:6688/play/a01k/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Cinemax
+http://45.238.21.106:6688/play/a03c/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Claro Cinema
+http://45.238.21.106:6688/play/a03n/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",ClaroSports
+http://45.238.21.106:6688/play/a01w/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Claromusic
+http://45.238.21.106:6688/play/a02h/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Discovery Channel
+http://45.238.21.106:6688/play/a00d/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Discovery ID
+http://45.238.21.106:6688/play/a023/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Discovery Kids
+http://45.238.21.106:6688/play/a00v/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Discovery Turbo
+http://45.238.21.106:6688/play/a03p/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Disney Channel
+http://45.238.21.106:6688/play/a00c/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Disney Jr
+http://45.238.21.106:6688/play/a01c/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",E Entertainment
+http://45.238.21.106:6688/play/a00g/index.m3u8
+#EXTINF:-1 group-title="DEPORTE",ESPN
+http://45.238.21.106:6688/play/a00i/index.m3u8
+#EXTINF:-1 group-title="DEPORTE",ESPN 2
+http://45.238.21.106:6688/play/a00j/index.m3u8
+#EXTINF:-1 group-title="DEPORTE",ESPN 2 CO
+http://45.238.21.106:6688/play/a032/index.m3u8
+#EXTINF:-1 group-title="DEPORTE",ESPN 3
+http://45.238.21.106:6688/play/a03r/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Enlace
+http://45.238.21.106:6688/play/a01z/index.m3u8
+#EXTINF:-1 group-title="DEPORTE",EsneTV
+http://45.238.21.106:6688/play/a03q/index.m3u8
+#EXTINF:-1 group-title="DEPORTE",FX
+http://45.238.21.106:6688/play/a03g/index.m3u8
+#EXTINF:-1 group-title="DEPORTE",Fox Sports
+http://45.238.21.106:6688/play/a00h/index.m3u8
+#EXTINF:-1 group-title="DEPORTE",Fox Sports 2
+http://45.238.21.106:6688/play/a00s/index.m3u8
+#EXTINF:-1 group-title="DEPORTE",Fox Sports 3
+http://45.238.21.106:6688/play/a00t/index.m3u8
+#EXTINF:-1 group-title="DEPORTE",Fox Sports Premium
+http://45.238.21.106:6688/play/a014/index.m3u8
+#EXTINF:-1 group-title="DEPORTE",France 24
+http://45.238.21.106:6688/play/a045/index.m3u8
+#EXTINF:-1 group-title="DEPORTE",GOL TV
+http://45.238.21.106:6688/play/a04p/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",HBO
+http://45.238.21.106:6688/play/a03b/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",HBO 2
+http://45.238.21.106:6688/play/a018/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",HBO Family
+http://45.238.21.106:6688/play/a01b/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",HBO Plus
+http://45.238.21.106:6688/play/a019/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",HBO XTREME
+http://45.238.21.106:6688/play/a01a/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",History Channel
+http://45.238.21.106:6688/play/a01j/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Home and Health
+http://45.238.21.106:6688/play/a027/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",I-Sat
+http://45.238.21.106:6688/play/a01n/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",La Red
+http://45.238.21.106:6688/play/a00x/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",MTV
+http://45.238.21.106:6688/play/a01o/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Mega
+http://45.238.21.106:6688/play/a00z/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Nat Geo
+http://45.238.21.106:6688/play/a01i/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Nick Jr
+http://45.238.21.106:6688/play/a03o/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Nickelodeon
+http://45.238.21.106:6688/play/a01g/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",RCN Novelas
+http://45.238.21.106:6688/play/a022/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Sin Limites
+http://45.238.21.106:6688/play/a046/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Sony
+http://45.238.21.106:6688/play/a03d/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Space
+http://45.238.21.106:6688/play/a03f/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",TBS
+http://45.238.21.106:6688/play/a026/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",TCM
+http://45.238.21.106:6688/play/a01s/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",TNT
+http://45.238.21.106:6688/play/a01v/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",TVE
+http://45.238.21.106:6688/play/a020/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",TVN
+http://45.238.21.106:6688/play/a00y/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Telemundo
+http://45.238.21.106:6688/play/a00u/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Travel and Living
+http://45.238.21.106:6688/play/a00p/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",TyC
+http://45.238.21.106:6688/play/a04q/index.m3u8
+#EXTINF:-1 group-title="DEPORTE",TyC Sports
+http://45.238.21.106:6688/play/a04l/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Universal
+http://45.238.21.106:6688/play/a01l/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",ViaX
+http://45.238.21.106:6688/play/a00q/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Warner
+http://45.238.21.106:6688/play/a00f/index.m3u8
+#EXTINF:-1 group-title="CHINOTV2",Zona Latina
+http://45.238.21.106:6688/play/a01p/index.m3u8
+---------------------------------------------------------
+#EXTINF:-1 group-title="CHINOTV",A&E
+http://190.61.102.67:3000/play/a04y
+#EXTINF:-1 group-title="CHINOTV",A&E HD
+http://190.61.102.67:3000/play/a02g
+#EXTINF:-1 group-title="CHINOTV",AMC
+http://190.61.102.67:3000/play/a020
+#EXTINF:-1 group-title="CHINOTV",AMC HD
+http://190.61.102.67:3000/play/a02h
+#EXTINF:-1 group-title="CHINOTV",AXN
+http://190.61.102.67:3000/play/a01y
+#EXTINF:-1 group-title="CHINOTV",AXN HD
+http://190.61.102.67:3000/play/a04m
+#EXTINF:-1 group-title="CHINOTV",AZ click HD
+http://190.61.102.67:3000/play/a02n
+#EXTINF:-1 group-title="CHINOTV",Animal Planet
+http://190.61.102.67:3000/play/a033
+#EXTINF:-1 group-title="CHINOTV",Animal Planet HD
+http://190.61.102.67:3000/play/a02d
+#EXTINF:-1 group-title="CHINOTV",Azcorazon
+http://190.61.102.67:3000/play/a01p
+#EXTINF:-1 group-title="CHINOTV",Azmundo
+http://190.61.102.67:3000/play/a02w
+#EXTINF:-1 group-title="CHINOTV",BBC World
+http://190.61.102.67:3000/play/a022
+#EXTINF:-1 group-title="CHINOTV",Baby First
+http://190.61.102.67:3000/play/a00p
+#EXTINF:-1 group-title="CHINOTV",Baby TV
+http://190.61.102.67:3000/play/a003
+#EXTINF:-1 group-title="CHINOTV",CINECANAL HD
+http://190.61.102.67:3000/play/a03d
+#EXTINF:-1 group-title="CHINOTV",CNNE
+http://190.61.102.67:3000/play/a021
+#EXTINF:-1 group-title="CHINOTV",Canal 11 - GUA
+http://190.61.102.67:3000/play/a00o
+#EXTINF:-1 group-title="CHINOTV",Canal 13-GUA-e1
+http://190.61.102.67:3000/play/a00n
+#EXTINF:-1 group-title="CHINOTV",Canal 3 - GUA
+http://190.61.102.67:3000/play/a02u
+#EXTINF:-1 group-title="CHINOTV",Canal 7 - GUA
+http://190.61.102.67:3000/play/a02t
+#EXTINF:-1 group-title="CHINOTV",Canal Antigua - GUA
+http://190.61.102.67:3000/play/a02r
+#EXTINF:-1 group-title="CHINOTV",Canal Azteca - GUA
+http://190.61.102.67:3000/play/a02s
+#EXTINF:-1 group-title="CHINOTV",Canal Claro
+http://190.61.102.67:3000/play/a01f
+#EXTINF:-1 group-title="CHINOTV",Cartoon Network
+http://190.61.102.67:3000/play/a01h
+#EXTINF:-1 group-title="CHINOTV",Cartoonito
+http://190.61.102.67:3000/play/a01j
+#EXTINF:-1 group-title="CHINOTV",Cine Latino
+http://190.61.102.67:3000/play/a049
+#EXTINF:-1 group-title="CHINOTV",CineCanal
+http://190.61.102.67:3000/play/a04c
+#EXTINF:-1 group-title="CHINOTV",CineMax
+http://190.61.102.67:3000/play/a04a
+#EXTINF:-1 group-title="CHINOTV",Claro Cinema
+http://190.61.102.67:3000/play/a039
+#EXTINF:-1 group-title="CHINOTV",Claro Musica
+http://190.61.102.67:3000/play/a010
+#EXTINF:-1 group-title="DEPORTE",Claro Sports SD
+http://190.61.102.67:3000/play/a00w
+#EXTINF:-1 group-title="CHINOTV",Comedy Central HD
+http://190.61.102.67:3000/play/a03m
+#EXTINF:-1 group-title="CHINOTV",Concert Channel
+http://190.61.102.67:3000/play/a045
+#EXTINF:-1 group-title="CHINOTV",DHE
+http://190.61.102.67:3000/play/a00d
+#EXTINF:-1 group-title="CHINOTV",DHE HD
+http://190.61.102.67:3000/play/a02m
+#EXTINF:-1 group-title="CHINOTV",DISC THEATHER HD
+http://190.61.102.67:3000/play/a03j
+#EXTINF:-1 group-title="CHINOTV",Discovery Channel
+http://190.61.102.67:3000/play/a032
+#EXTINF:-1 group-title="CHINOTV",Discovery Home & Health
+http://190.61.102.67:3000/play/a040
+#EXTINF:-1 group-title="CHINOTV",Discovery ID
+http://190.61.102.67:3000/play/a041
+#EXTINF:-1 group-title="CHINOTV",Discovery Kids
+http://190.61.102.67:3000/play/a03v
+#EXTINF:-1 group-title="CHINOTV",Discovery Science
+http://190.61.102.67:3000/play/a007
+#EXTINF:-1 group-title="CHINOTV",Discovery Turbo
+http://190.61.102.67:3000/play/a03z
+#EXTINF:-1 group-title="CHINOTV",Disney
+http://190.61.102.67:3000/play/a03x
+#EXTINF:-1 group-title="CHINOTV",Disney JR
+http://190.61.102.67:3000/play/a01k
+#EXTINF:-1 group-title="CHINOTV",E!
+http://190.61.102.67:3000/play/a02z
+#EXTINF:-1 group-title="CHINOTV",E! Entertairment HD
+http://190.61.102.67:3000/play/a02e
+#EXTINF:-1 group-title="DEPORTE",ESPN
+http://190.61.102.67:3000/play/a036
+#EXTINF:-1 group-title="DEPORTE",ESPN  +
+http://190.61.102.67:3000/play/a027
+#EXTINF:-1 group-title="DEPORTE",ESPN 2
+http://190.61.102.67:3000/play/a037
+#EXTINF:-1 group-title="DEPORTE",ESPN 3
+http://190.61.102.67:3000/play/a00x
+#EXTINF:-1 group-title="DEPORTE",ESPN 4
+http://190.61.102.67:3000/play/a043
+#EXTINF:-1 group-title="DEPORTE",ESPN 4  HD
+http://190.61.102.67:3000/play/a04l
+#EXTINF:-1 group-title="CHINOTV",EURO Channel
+http://190.61.102.67:3000/play/a00s
+#EXTINF:-1 group-title="CHINOTV",EWTN
+http://190.61.102.67:3000/play/a025
+#EXTINF:-1 group-title="CHINOTV",El Gourmet
+http://190.61.102.67:3000/play/a00u
+#EXTINF:-1 group-title="CHINOTV",Emm1
+http://190.61.102.67:3000/play/a04p
+#EXTINF:-1 group-title="CHINOTV",Emm3
+http://190.61.102.67:3000/play/a04s
+#EXTINF:-1 group-title="CHINOTV",Europa HD
+http://190.61.102.67:3000/play/a02k
+#EXTINF:-1 group-title="CHINOTV",Exa TV
+http://190.61.102.67:3000/play/a038
+#EXTINF:-1 group-title="DEPORTE",FOX SPORTS 2 HD
+http://190.61.102.67:3000/play/a03h
+#EXTINF:-1 group-title="DEPORTE",FOX Sports 2
+http://190.61.102.67:3000/play/a00y
+#EXTINF:-1 group-title="CHINOTV",FX
+http://190.61.102.67:3000/play/a00q
+#EXTINF:-1 group-title="CHINOTV",FX HD
+http://190.61.102.67:3000/play/a02j
+#EXTINF:-1 group-title="CHINOTV",Film & Arts
+http://190.61.102.67:3000/play/a00c
+#EXTINF:-1 group-title="CHINOTV",Film & arts HD
+http://190.61.102.67:3000/play/a02f
+#EXTINF:-1 group-title="DEPORTE",Fox Sport 3
+http://190.61.102.67:3000/play/a01v
+#EXTINF:-1 group-title="CHINOTV",France24
+http://190.61.102.67:3000/play/a023
+#EXTINF:-1 group-title="CHINOTV",Golden
+http://190.61.102.67:3000/play/a013
+#EXTINF:-1 group-title="CHINOTV",Golf Channel HD
+http://190.61.102.67:3000/play/a02p
+#EXTINF:-1 group-title="CHINOTV",Guatevision - GUA
+http://190.61.102.67:3000/play/a01g
+#EXTINF:-1 group-title="CHINOTV",H2
+http://190.61.102.67:3000/play/a00t
+#EXTINF:-1 group-title="CHINOTV",HBO
+http://190.61.102.67:3000/play/a04d
+#EXTINF:-1 group-title="CHINOTV",HBO Family
+http://190.61.102.67:3000/play/a04g
+#EXTINF:-1 group-title="CHINOTV",HBO Family HD
+http://190.61.102.67:3000/play/a00k
+#EXTINF:-1 group-title="CHINOTV",HBO HD
+http://190.61.102.67:3000/play/a00h
+#EXTINF:-1 group-title="CHINOTV",HBO Plus
+http://190.61.102.67:3000/play/a04f
+#EXTINF:-1 group-title="CHINOTV",HBO Plus HD
+http://190.61.102.67:3000/play/a00j
+#EXTINF:-1 group-title="CHINOTV",HBO XTREME
+http://190.61.102.67:3000/play/a04h
+#EXTINF:-1 group-title="CHINOTV",HBO XTREME
+http://190.61.102.67:3000/play/a00l
+#EXTINF:-1 group-title="CHINOTV",HBO2
+http://190.61.102.67:3000/play/a04e
+#EXTINF:-1 group-title="CHINOTV",HBO2 HD
+http://190.61.102.67:3000/play/a00i
+#EXTINF:-1 group-title="CHINOTV",HOLA! TV HD
+http://190.61.102.67:3000/play/a03l
+#EXTINF:-1 group-title="CHINOTV",HTV
+http://190.61.102.67:3000/play/a012
+#EXTINF:-1 group-title="CHINOTV",History Channel
+http://190.61.102.67:3000/play/a034
+#EXTINF:-1 group-title="CHINOTV",History HD
+http://190.61.102.67:3000/play/a026
+#EXTINF:-1 group-title="CHINOTV",Hola!TV
+http://190.61.102.67:3000/play/a008
+#EXTINF:-1 group-title="CHINOTV",Home & Health HD
+http://190.61.102.67:3000/play/a03k
+#EXTINF:-1 group-title="CHINOTV",Home Garden Latino
+http://190.61.102.67:3000/play/a006
+#EXTINF:-1 group-title="CHINOTV",ISAT
+http://190.61.102.67:3000/play/a047
+#EXTINF:-1 group-title="CHINOTV",LIFE TIME
+http://190.61.102.67:3000/play/a01u
+#EXTINF:-1 group-title="CHINOTV",La voz de Maria
+http://190.61.102.67:3000/play/a042
+#EXTINF:-1 group-title="CHINOTV",Latin America Sport
+http://190.61.102.67:3000/play/a00z
+#EXTINF:-1 group-title="CHINOTV",MTV
+http://190.61.102.67:3000/play/a044
+#EXTINF:-1 group-title="CHINOTV",MTV 00s
+http://190.61.102.67:3000/play/a011
+#EXTINF:-1 group-title="CHINOTV",MTV 00s HD
+http://190.61.102.67:3000/play/a03o
+#EXTINF:-1 group-title="CHINOTV",MTV 80s
+http://190.61.102.67:3000/play/a01x
+#EXTINF:-1 group-title="CHINOTV",MTV HD
+http://190.61.102.67:3000/play/a028
+#EXTINF:-1 group-title="CHINOTV",MTV Hits
+http://190.61.102.67:3000/play/a01w
+#EXTINF:-1 group-title="CHINOTV",MTV SIM HD
+http://190.61.102.67:3000/play/a03n
+#EXTINF:-1 group-title="CHINOTV",Mas Chic
+http://190.61.102.67:3000/play/a005
+#EXTINF:-1 group-title="CHINOTV",Multicinema
+http://190.61.102.67:3000/play/a009
+#EXTINF:-1 group-title="CHINOTV",Multipremier
+http://190.61.102.67:3000/play/a048
+#EXTINF:-1 group-title="CHINOTV",National Geographic
+http://190.61.102.67:3000/play/a01t
+#EXTINF:-1 group-title="CHINOTV",Nicarao TV
+http://190.61.102.67:3000/play/a01l
+#EXTINF:-1 group-title="CHINOTV",Nick Jr
+http://190.61.102.67:3000/play/a01i
+#EXTINF:-1 group-title="CHINOTV",Nick SIM HD
+http://190.61.102.67:3000/play/a03g
+#EXTINF:-1 group-title="CHINOTV",Nickelodeon
+http://190.61.102.67:3000/play/a03w
+#EXTINF:-1 group-title="CHINOTV",Paramount
+http://190.61.102.67:3000/play/a00e
+#EXTINF:-1 group-title="CHINOTV",Pasiones HD
+http://190.61.102.67:3000/play/a04t
+#EXTINF:-1 group-title="CHINOTV",RCN - GUA
+http://190.61.102.67:3000/play/a002
+#EXTINF:-1 group-title="CHINOTV",RCN Novelas
+http://190.61.102.67:3000/play/a00r
+#EXTINF:-1 group-title="CHINOTV",RHEMA TV
+http://190.61.102.67:3000/play/a04k
+#EXTINF:-1 group-title="CHINOTV",SEMILLITAS
+http://190.61.102.67:3000/play/a01m
+#EXTINF:-1 group-title="CHINOTV",SONY
+http://190.61.102.67:3000/play/a02x
+#EXTINF:-1 group-title="CHINOTV",SONY HD
+http://190.61.102.67:3000/play/a03c
+#EXTINF:-1 group-title="CHINOTV",SPACE
+http://190.61.102.67:3000/play/a01q
+#EXTINF:-1 group-title="CHINOTV",SPACE HD
+http://190.61.102.67:3000/play/a04n
+#EXTINF:-1 group-title="CHINOTV",STAR CHANNEL
+http://190.61.102.67:3000/play/a03y
+#EXTINF:-1 group-title="CHINOTV",STAR CHANNEL HD
+http://190.61.102.67:3000/play/a03a
+#EXTINF:-1 group-title="CHINOTV",Sony Movies HD
+http://190.61.102.67:3000/play/a02l
+#EXTINF:-1 group-title="CHINOTV",Star TVE HD
+http://190.61.102.67:3000/play/a02o
+#EXTINF:-1 group-title="CHINOTV",Studio Universal
+http://190.61.102.67:3000/play/a04b
+#EXTINF:-1 group-title="CHINOTV",Studio Universal HD
+http://190.61.102.67:3000/play/a02b
+#EXTINF:-1 group-title="CHINOTV",Sun Channel
+http://190.61.102.67:3000/play/a00v
+#EXTINF:-1 group-title="CHINOTV",SyFy
+http://190.61.102.67:3000/play/a031
+#EXTINF:-1 group-title="CHINOTV",SyFy HD
+http://190.61.102.67:3000/play/a02c
+#EXTINF:-1 group-title="CHINOTV",TBN Enlace
+http://190.61.102.67:3000/play/a024
+#EXTINF:-1 group-title="CHINOTV",TBS
+http://190.61.102.67:3000/play/a01s
+#EXTINF:-1 group-title="CHINOTV",TCM
+http://190.61.102.67:3000/play/a014
+#EXTINF:-1 group-title="CHINOTV",TD+2 HD CR
+http://190.61.102.67:3000/play/a01d
+#EXTINF:-1 group-title="CHINOTV",TD+HD CR
+http://190.61.102.67:3000/play/a01c
+#EXTINF:-1 group-title="CHINOTV",TLC
+http://190.61.102.67:3000/play/a035
+#EXTINF:-1 group-title="CHINOTV",TNT
+http://190.61.102.67:3000/play/a01z
+#EXTINF:-1 group-title="CHINOTV",TNT HD
+http://190.61.102.67:3000/play/a03i
+#EXTINF:-1 group-title="CHINOTV",TNT Series
+http://190.61.102.67:3000/play/a01r
+#EXTINF:-1 group-title="CHINOTV",Teen Nick HD
+http://190.61.102.67:3000/play/a02a
+#EXTINF:-1 group-title="CHINOTV",Telemundo
+http://190.61.102.67:3000/play/a01o
+#EXTINF:-1 group-title="CHINOTV",Telemundo HD
+http://190.61.102.67:3000/play/a02i
+#EXTINF:-1 group-title="CHINOTV",Televida RD
+http://190.61.102.67:3000/play/a04r
+#EXTINF:-1 group-title="DEPORTE",Tigo Sports HD
+http://190.61.102.67:3000/play/a03f
+#EXTINF:-1 group-title="CHINOTV",Tooncast
+http://190.61.102.67:3000/play/a02v
+#EXTINF:-1 group-title="CHINOTV",Tru TV
+http://190.61.102.67:3000/play/a01n
+#EXTINF:-1 group-title="CHINOTV",UNIVERSAL CINEMA
+http://190.61.102.67:3000/play/a00f
+#EXTINF:-1 group-title="CHINOTV",UNIVERSAL COMEDY
+http://190.61.102.67:3000/play/a017
+#EXTINF:-1 group-title="CHINOTV",UNIVERSAL COMEDY HD
+http://190.61.102.67:3000/play/a03t
+#EXTINF:-1 group-title="CHINOTV",UNIVERSAL CRIME
+http://190.61.102.67:3000/play/a016
+#EXTINF:-1 group-title="CHINOTV",UNIVERSAL CRIME HD
+http://190.61.102.67:3000/play/a03s
+#EXTINF:-1 group-title="CHINOTV",UNIVERSAL PREMIERE
+http://190.61.102.67:3000/play/a04i
+#EXTINF:-1 group-title="CHINOTV",UNIVERSAL PREMIERE HD
+http://190.61.102.67:3000/play/a03p
+#EXTINF:-1 group-title="CHINOTV",UNIVERSAL PREMIERE O
+http://190.61.102.67:3000/play/a04j
+#EXTINF:-1 group-title="CHINOTV",UNIVERSAL PREMIERE O HD
+http://190.61.102.67:3000/play/a03q
+#EXTINF:-1 group-title="CHINOTV",UNIVERSAL REALITY
+http://190.61.102.67:3000/play/a015
+#EXTINF:-1 group-title="CHINOTV",UNIVERSAL REALITY HD
+http://190.61.102.67:3000/play/a03r
+#EXTINF:-1 group-title="CHINOTV",Universal
+http://190.61.102.67:3000/play/a046
+#EXTINF:-1 group-title="CHINOTV",Univision HD
+http://190.61.102.67:3000/play/a04u
+#EXTINF:-1 group-title="CHINOTV",WARNER HD
+http://190.61.102.67:3000/play/a03b
+#EXTINF:-1 group-title="CHINOTV",Warner
+http://190.61.102.67:3000/play/a02y
+#EXTINF:-1 group-title="CHINOTV",ZooMoo
+http://190.61.102.67:3000/play/a004
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNJc3dV/taahm.jpg" group-title="24/7", TWO AND A HALF MEN
+https://api55.tvgratis.live/streams3/master.m3u8?id=675
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4sTztF/tomyjerry.png" group-title="24/7", TOM Y JERRY
+https://api55.tvgratis.live/streams3/master.m3u8?id=421
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FxVFts/tbbt.jpg" group-title="24/7", THE BIG BANG THEORY
+https://api55.tvgratis.live/streams3/master.m3u8?id=676
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c2dwthG/southpark.jpg" group-title="24/7", SOUTH PARK
+https://api55.tvgratis.live/streams3/master.m3u8?id=674
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Npcvc5R/simpsons.jpg" group-title="24/7", LOS SIMPSONS
+https://api55.tvgratis.live/streams3/master.m3u8?id=797
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q1nzXjG/scoobydoo.jpg" group-title="24/7", SCOOBY DOO
+https://api55.tvgratis.live/streams3/master.m3u8?id=422
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bdtX3My/peppapig.jpg" group-title="24/7", PEPPA PIG
+https://api55.tvgratis.live/streams3/master.m3u8?id=787
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2dPRQmB/naruto.jpg" group-title="24/7", NARUTO
+https://api55.tvgratis.live/streams3/master.m3u8?id=523
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nrBPn1m/ooneytunes.jpg" group-title="24/7", LOONEY TUNES
+https://api55.tvgratis.live/streams3/master.m3u8?id=524
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dQXxjJS/gardfield.jpg" group-title="24/7", GARDFIELD
+https://api55.tvgratis.live/streams3/master.m3u8?id=812
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2YqBFZ/futurama.png" group-title="24/7", FUTURAMA
+https://api55.tvgratis.live/streams3/master.m3u8?id=793
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s5Z3s0y/chavo.jpg" group-title="24/7", EL CHAVO
+https://api55.tvgratis.live/streams3/master.m3u8?id=400
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DrBsFxC/dragonballz.jpg" group-title="24/7", DRAGON BALL Z
+https://api55.tvgratis.live/streams3/master.m3u8?id=33
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KKZF5qT/chapulin.jpg" group-title="24/7", CHAPULIN COLORADO
+https://api55.tvgratis.live/streams3/master.m3u8?id=418
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TRfcqwz/coraje.jpg" group-title="24/7", CORAJE
+https://api55.tvgratis.live/streams3/master.m3u8?id=519
