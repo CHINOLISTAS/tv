@@ -1,0 +1,9 @@
+LISTA M3U
+
+--La lista funciona con reproductor iptv logo azul
+--La lista se actualiza todos los días debido a que son  remotas 
+
+
+https://chinolistas.github.io/tv/chinolistapremium.m3u
+
+ Que lo disfruten
