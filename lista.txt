@@ -1,4 +1,4 @@
-BIENVENIDOS A CHINOLISTA 
+3BIENVENIDOS A CHINOLISTA 
 DEBIDO A QUE YA NO CUENTO CON EL SERVIDOR,
 AHORA EN ADELANTE SOLO COLOCARE LISTAS M3U LIBRES 
 QUE ENCUENTRE , RECUERDEN QUE ENTREN TODOS LOS DIAS
@@ -11,6 +11,6 @@ LISTA M3U
 --La lista se actualiza todos los días debido a que son  remotas 
 
 
-https://chinolistas.github.io/tv/chinolista2.m3u
+https://chinolistas.github.io/tv/listachino.m3u
 
  Que lo disfruten
