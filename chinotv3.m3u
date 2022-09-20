@@ -1,4 +1,442 @@
-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="227" group-title="PREMIUM" ,UNIVERSAL HD
+#EXTM3U
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="3" group-title="PREMIUM" ,A&E HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2628
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="4" group-title="PREMIUM" ,A&E
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2629
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="5" group-title="PREMIUM" ,A+
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2549
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="6" group-title="PREMIUM" ,A3 SERIES
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2548
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="7" group-title="PREMIUM" ,ADN 40
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2547
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="8" group-title="PREMIUM" ,AFIZZIONADOS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2468
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="9" group-title="PREMIUM" ,AMC :ES
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2626
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="10" group-title="PREMIUM" ,AMC HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2625
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="11" group-title="PREMIUM" ,AMC
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2627
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="12" group-title="PREMIUM" ,AMÉRICA TV
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2546
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="13" group-title="PREMIUM" ,ANTENA 3
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2545
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="14" group-title="PREMIUM" ,AXN :ES
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2623
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="15" group-title="PREMIUM" ,AXN HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2622
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="16" group-title="PREMIUM" ,AXN WHITE :ES
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2621
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="17" group-title="PREMIUM" ,AXN
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2624
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="18" group-title="PREMIUM" ,AYM SPORTS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2467
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="19" group-title="PREMIUM" ,AZ CINEMA
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2544
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="20" group-title="PREMIUM" ,AZ CLICK
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2543
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="21" group-title="PREMIUM" ,AZ CORAZÓN HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2541
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="22" group-title="PREMIUM" ,AZ CORAZÓN
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2542
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="23" group-title="PREMIUM" ,AZTECA 1 HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2539
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="24" group-title="PREMIUM" ,AZTECA 1
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2540
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="25" group-title="PREMIUM" ,AZTECA 7 HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2537
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="26" group-title="PREMIUM" ,AZTECA 7
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2538
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="27" group-title="PREMIUM" ,BEIN HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2466
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="28" group-title="PREMIUM" ,BEIN SPORTS HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2464
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="29" group-title="PREMIUM" ,BEIN SPORTS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2465
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="30" group-title="PREMIUM" ,BEIN SPORTS Ñ HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2462
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="31" group-title="PREMIUM" ,BEIN SPORTS Ñ
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2463
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="32" group-title="PREMIUM" ,BOLIVISION
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2536
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="33" group-title="PREMIUM" ,Bloomberg
+http://190.171.101.36/Bloomberg/index.m3u8?null=0
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="34" group-title="PREMIUM" ,CANAL + ACCIÓN
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2531
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="35" group-title="PREMIUM" ,CANAL + TOROS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2460
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="36" group-title="PREMIUM" ,CANAL 5 HONDURAS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2534
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="37" group-title="PREMIUM" ,CANAL 5
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2535
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="38" group-title="PREMIUM" ,CARACOL (COL)
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2530
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="39" group-title="PREMIUM" ,CARACOL
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2529
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="40" group-title="PREMIUM" ,CDF PREMIUM HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2458
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="41" group-title="PREMIUM" ,CDF PREMIUM
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2459
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="42" group-title="PREMIUM" ,CDN SPORTSMAX
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2457
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="43" group-title="PREMIUM" ,CDO PREMIUM
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2456
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="44" group-title="PREMIUM" ,CINECANAL HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2619
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="45" group-title="PREMIUM" ,CINECANAL
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2620
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="46" group-title="PREMIUM" ,CINEMAX HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2617
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="47" group-title="PREMIUM" ,CINEMAX
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2618
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="48" group-title="PREMIUM" ,CLARO SPORTS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2455
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="49" group-title="PREMIUM" ,CNN ESPAÑOL
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2528
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="50" group-title="PREMIUM" ,CNN
+http://190.171.101.36/CNN/index.m3u8?null=0
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="51" group-title="PREMIUM" ,COMEDY CENTRAL HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2525
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="52" group-title="PREMIUM" ,COMEDY CENTRAL HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2526
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="53" group-title="PREMIUM" ,COMEDY CENTRAL
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2527
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="54" group-title="PREMIUM" ,CULIACAN
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="55" group-title="PREMIUM" ,Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=739
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="56" group-title="PREMIUM" ,Caracol
+http://mdstrm.com:80/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="57" group-title="PREMIUM" ,Cartoon Network
+https://chinolistas.github.io/tvgratis/developer/twich/twich.php?canal=111kkctoon&f=.m3u8
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="58" group-title="PREMIUM" ,Cartoonito
+https://chinolistas.github.io/tvgratis/developer/ok-ru/ok-ru.php?https://ok.ru/videoembed/4123310628395&f=.m3u8
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="59" group-title="PREMIUM" ,Cinecanal
+http://190.171.101.36/Cinecanal/index.m3u8?null=0
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="60" group-title="PREMIUM" ,Cinemax
+https://chinolistas.github.io/tvgratis/developer/twich/twich.php?canal=cc_x2t3x&f=.m3u8
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="61" group-title="PREMIUM" ,DE PELÍCULA HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2615
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="62" group-title="PREMIUM" ,DE PELÍCULA
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2616
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="63" group-title="PREMIUM" ,DHE
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2524
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="64" group-title="PREMIUM" ,DIRECTV SPORTS 2
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2453
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="65" group-title="PREMIUM" ,DIRECTV SPORTS PERÚ
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2452
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="66" group-title="PREMIUM" ,DIRECTV SPORTS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2454
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="67" group-title="PREMIUM" ,DISTRITO COMEDIA
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2523
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="68" group-title="PREMIUM" ,Disney channel
+https://chinolistas.github.io/tvgratis/developer/twich/twich.php?canal=dk_0150&f=.m3u8
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="69" group-title="PREMIUM" ,ECUAVISA
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2522
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="70" group-title="PREMIUM" ,EL CANAL DEL FÚTBOL
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2461
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="71" group-title="PREMIUM" ,EL GOURMET
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2520
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="72" group-title="PREMIUM" ,EL NUEVE
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2519
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="73" group-title="PREMIUM" ,EL TRECE ARGENTINA
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2521
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="74" group-title="PREMIUM" ,EL TRECE
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2517
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="75" group-title="PREMIUM" ,EL TRECE
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2518
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="76" group-title="PREMIUM" ,ESPN 2 HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2449
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="77" group-title="PREMIUM" ,ESPN 2 MX
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2448
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="78" group-title="PREMIUM" ,ESPN 2
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2450
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="79" group-title="PREMIUM" ,ESPN 3 HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2447
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="80" group-title="PREMIUM" ,ESPN CHILE
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2446
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="81" group-title="PREMIUM" ,ESPN HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2445
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="82" group-title="PREMIUM" ,ESPN MX
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2444
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="83" group-title="PREMIUM" ,ESPN PLUS HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2442
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="84" group-title="PREMIUM" ,ESPN PLUS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2443
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="85" group-title="PREMIUM" ,ESPN
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2451
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="86" group-title="PREMIUM" ,ESTRELLA TV
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2516
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="87" group-title="PREMIUM" ,EuroMovies 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="88" group-title="PREMIUM" ,ExtremaTV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="89" group-title="PREMIUM" ,F1 TV
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2441
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="90" group-title="PREMIUM" ,FILMS & ARTS HD (EN)
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2515
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="91" group-title="PREMIUM" ,FOX SPORTS 2 HD ARGENTINA
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2438
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="92" group-title="PREMIUM" ,FOX SPORTS 2 HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2437
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="93" group-title="PREMIUM" ,FOX SPORTS 2 MX
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2436
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="94" group-title="PREMIUM" ,FOX SPORTS 2
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2439
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="95" group-title="PREMIUM" ,FOX SPORTS 3 HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2434
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="96" group-title="PREMIUM" ,FOX SPORTS 3
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2435
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="97" group-title="PREMIUM" ,FOX SPORTS HD ARGENTINA
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2433
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="98" group-title="PREMIUM" ,FOX SPORTS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2440
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="99" group-title="PREMIUM" ,FX HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2613
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="100" group-title="PREMIUM" ,FXM HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2611
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="101" group-title="PREMIUM" ,FXM
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2612
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="102" group-title="PREMIUM" ,FX
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2614
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="103" group-title="PREMIUM" ,GALA TV HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2513
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="104" group-title="PREMIUM" ,GALA TV
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2514
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="105" group-title="PREMIUM" ,GAMAVISIÓN
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2512
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="106" group-title="PREMIUM" ,GLITZ
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2511
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="107" group-title="PREMIUM" ,GOLDEN EDGE
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2609
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="108" group-title="PREMIUM" ,GOLDEN HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2608
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="109" group-title="PREMIUM" ,GOLDEN
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2610
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="110" group-title="PREMIUM" ,HBO (EN)
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2606
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="111" group-title="PREMIUM" ,HBO 2 (EN)
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2602
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="112" group-title="PREMIUM" ,HBO 2 (EN)
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2604
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="113" group-title="PREMIUM" ,HBO 2 HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2603
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="114" group-title="PREMIUM" ,HBO 2
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2605
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="115" group-title="PREMIUM" ,HBO FAMILY
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2601
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="116" group-title="PREMIUM" ,HBO HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2600
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="117" group-title="PREMIUM" ,HBO PLUS (EN)
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2598
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="118" group-title="PREMIUM" ,HBO PLUS HD OESTE
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2596
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="119" group-title="PREMIUM" ,HBO PLUS HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2597
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="120" group-title="PREMIUM" ,HBO PLUS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2599
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="121" group-title="PREMIUM" ,HBO XTREME 2
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2594
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="122" group-title="PREMIUM" ,HBO XTREME
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2595
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="123" group-title="PREMIUM" ,HBO
+http://190.171.101.36/HBO/index.m3u8?null=0
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="124" group-title="PREMIUM" ,HBO
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2607
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="125" group-title="PREMIUM" ,HCH
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2510
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="126" group-title="PREMIUM" ,HOLA TV
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2509
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="127" group-title="PREMIUM" ,I.SAT
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2508
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="128" group-title="PREMIUM" ,IMAGEN TV HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2506
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="129" group-title="PREMIUM" ,IMAGEN TV
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2507
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="130" group-title="PREMIUM" ,LAS ESTRELLAS HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2532
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="131" group-title="PREMIUM" ,LAS ESTRELLAS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2533
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="132" group-title="PREMIUM" ,LATINA TV
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2505
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="133" group-title="PREMIUM" ,LIFE TIME
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2504
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="134" group-title="PREMIUM" ,MAS CHIC
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2503
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="135" group-title="PREMIUM" ,MAX PRIME HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2593
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="136" group-title="PREMIUM" ,MAX UP HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2592
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="137" group-title="PREMIUM" ,MAZATLAN
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="138" group-title="PREMIUM" ,MEGA (ES)
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2500
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="139" group-title="PREMIUM" ,MEGA CINE HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2591
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="140" group-title="PREMIUM" ,MEGA MUNDIAL
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/chunklist_w1262991099.m3u8
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="141" group-title="PREMIUM" ,MEGA
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2501
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="142" group-title="PREMIUM" ,MEGA
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2502
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="143" group-title="PREMIUM" ,MOCHIS
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="144" group-title="PREMIUM" ,MOVIE MAX
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2590
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="145" group-title="PREMIUM" ,MOVISTAR COMEDIA
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2499
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="146" group-title="PREMIUM" ,MTV
+http://190.171.101.36/MTV/index.m3u8?null=0
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="147" group-title="PREMIUM" ,MULTIMEDIOS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2498
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="148" group-title="PREMIUM" ,MULTIPREMIER
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2497
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="149" group-title="PREMIUM" ,Mosaico Deportes
+https://d2x688xcrrjspd.cloudfront.net/out/v1/0588d261b972443d850d7343e75a763d/deportes.mpd
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="150" group-title="PREMIUM" ,Mosaico HBO
+https://dwupwmhnd5p0c.cloudfront.net/out/v1/8932c386929845d1b627af64e9d3e0aa/mhbo.mpd
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="151" group-title="PREMIUM" ,Mosaico Información
+https://d1hacfkxse5lx7.cloudfront.net/out/v1/913093bdf54743ceb561692caeab7e4e/informacion.mpd
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="152" group-title="PREMIUM" ,Mosaico Kids
+https://d12bww9t7e6mtv.cloudfront.net/out/v1/ec80106d36e44980a295c5fc10c133c2/ninos.mpd
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="153" group-title="PREMIUM" ,Mosaico Peliculas
+https://d23krjoz8267fm.cloudfront.net/out/v1/2ea9d7594d1a4e6ea9fe18089bfc4cec/peliculas.mpd
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="154" group-title="PREMIUM" ,Mosaico Star
+https://d3mspciwfw6hm0.cloudfront.net/out/v1/edccab1d5fd94afe8da020e20efcfa33/mfox.mpd
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="155" group-title="PREMIUM" ,NEOX (ES)
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2496
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="156" group-title="PREMIUM" ,NOVA (ES)
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2495
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="157" group-title="PREMIUM" ,Nick
+https://chinolistas.github.io/tvgratis/developer/twich/twich.php?canal=teen013&f=.m3u8
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="158" group-title="PREMIUM" ,PARAMOUMT HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2588
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="159" group-title="PREMIUM" ,PARAMOUMT
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2589
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="160" group-title="PREMIUM" ,PASIONES HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2494
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="161" group-title="PREMIUM" ,PERÚ LATINA
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2493
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="162" group-title="PREMIUM" ,RCN (COL)
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2492
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="163" group-title="PREMIUM" ,RTP
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2491
+
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="170" group-title="PREMIUM" ,SHOWTIME
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2490
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="171" group-title="PREMIUM" ,SONY HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2586
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="172" group-title="PREMIUM" ,SONY
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2587
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="173" group-title="PREMIUM" ,SPACE HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2584
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="174" group-title="PREMIUM" ,SPACE
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2585
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="175" group-title="PREMIUM" ,STAR ACTION HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2581
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="176" group-title="PREMIUM" ,STAR ACTION
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2582
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="177" group-title="PREMIUM" ,STAR CHANEL HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2576
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="178" group-title="PREMIUM" ,STAR CHANEL
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2583
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="179" group-title="PREMIUM" ,STAR CINEMA
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2580
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="180" group-title="PREMIUM" ,STAR CLASICS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2579
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="181" group-title="PREMIUM" ,STAR FUN HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2577
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="182" group-title="PREMIUM" ,STAR FUN
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2578
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="183" group-title="PREMIUM" ,STAR HITS HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2574
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="184" group-title="PREMIUM" ,STAR HITS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2575
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="185" group-title="PREMIUM" ,STAR LIFE HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2572
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="186" group-title="PREMIUM" ,STAR LIFE
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2573
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="187" group-title="PREMIUM" ,STAR SERIES HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2570
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="188" group-title="PREMIUM" ,STAR SERIES
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2571
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="189" group-title="PREMIUM" ,STARZ CINEMA
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2569
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="190" group-title="PREMIUM" ,STARZ COMEDY
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2568
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="191" group-title="PREMIUM" ,STARZ ENCORE ACTION
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2567
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="192" group-title="PREMIUM" ,STARZ ENCORE BLACK
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2566
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="193" group-title="PREMIUM" ,STARZ ENCORE FAMILY
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2565
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="194" group-title="PREMIUM" ,STARZ HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2564
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="195" group-title="PREMIUM" ,STUDIO UNIVERSAL HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2562
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="196" group-title="PREMIUM" ,STUDIO UNIVERSAL
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2563
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="197" group-title="PREMIUM" ,SYFY HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2560
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="198" group-title="PREMIUM" ,SYFY
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2561
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="199" group-title="PREMIUM" ,TBS VERY FUNNY HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2558
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="200" group-title="PREMIUM" ,TBS VERY FUNNY
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2559
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="201" group-title="PREMIUM" ,TC ECUADOR
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2489
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="202" group-title="PREMIUM" ,TCM
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2488
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="203" group-title="PREMIUM" ,TELEAMAZONAS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2486
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="204" group-title="PREMIUM" ,TELEFE
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2485
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="205" group-title="PREMIUM" ,TELEMUNDO HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2483
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="206" group-title="PREMIUM" ,TELEMUNDO
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2484
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="207" group-title="PREMIUM" ,TELEVICENTRO
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2482
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="208" group-title="PREMIUM" ,TELE
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2487
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="209" group-title="PREMIUM" ,TLC
+http://190.171.101.36/TLC/index.m3u8?null=0
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="210" group-title="PREMIUM" ,TLC
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2481
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="211" group-title="PREMIUM" ,TL NOVELAS HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2479
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="212" group-title="PREMIUM" ,TL NOVELAS
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2480
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="213" group-title="PREMIUM" ,TNT (ES)
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2556
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="214" group-title="PREMIUM" ,TNT HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2555
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="215" group-title="PREMIUM" ,TNT SERIES HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2553
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="216" group-title="PREMIUM" ,TNT SERIES
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2554
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="217" group-title="PREMIUM" ,TNT
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2557
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="218" group-title="PREMIUM" ,TRECE
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2478
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="219" group-title="PREMIUM" ,TRU TV HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2476
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="220" group-title="PREMIUM" ,TRU TV
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2477
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="221" group-title="PREMIUM" ,TV5
+http://190.171.101.36/TV5/index.m3u8?null=0
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="222" group-title="PREMIUM" ,TV Azteca Honduras
+http://190.122.96.187:8888/http/002
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="223" group-title="PREMIUM" ,TVE
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2475
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="224" group-title="PREMIUM" ,TasteMade Mexico
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="225" group-title="PREMIUM" ,UNICABLE HD
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2473
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="226" group-title="PREMIUM" ,UNICABLE
+https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2474
+#EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="227" group-title="PREMIUM" ,UNIVERSAL HD
 https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2551
 #EXTINF:0 tvg-logo="https://chinolistas.github.io/tv/chinolista.png" tvg-id="228" group-title="PREMIUM" ,UNIVERSAL
 https://chinolistas.github.io/tvgratis/developer/cineapp/cineapp.php?2552
