@@ -4,6 +4,6 @@ LISTA M3U
 --La lista se actualiza todos los días debido a que son  remotas 
 
 
-https://chinolistas.github.io/tv/tv2.m3u
+https://chinolistas.github.io/tv/tvprem20.m3u
 
  Que lo disfruten
