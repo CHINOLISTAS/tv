@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="I183.46318.schedulesdirect.org" tvg-name="07 | GAMATV" tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/gamatv-500x500.png" group-title="ECUADOR ",07 | GAMATV
+#EXTINF:-1 tvg-id="AEPanregional.us" tvg-name="07 | GAMATV" tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/gamatv-500x500.png" group-title="ECUADOR ",07 | GAMATV
 http://magmas5.com:8000/malotv/gratis/2569
 #EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="08 | TC TELEVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR ",08 | TC TELEVISION HD
 http://magmas5.com:8000/malotv/gratis/2571
@@ -19,11 +19,11 @@ http://magmas5.com:8000/malotv/gratis/3595
 http://magmas5.com:8000/malotv/gratis/4781
 #EXTINF:-1 tvg-id="StarLifeMexico.mx" tvg-name="SUR | STAR LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | STAR LIFE
 http://magmas5.com:8000/malotv/gratis/4782
-#EXTINF:-1 tvg-id="" tvg-name="SUR | STAR ACTION" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Action_pack.png" group-title="CANALES AMÉRICA SUR STD",SUR | STAR ACTION
+#EXTINF:-1 tvg-id="" tvg-name="SUR | DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISTRITO COMEDIA
 http://magmas5.com:8000/malotv/gratis/4783
 #EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="SUR | STAR CHANNEL" tvg-logo="https://www.jing.fm/clipimg/full/128-1288451_star-movies-logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | STAR CHANNEL
 http://magmas5.com:8000/malotv/gratis/4784
-#EXTINF:-1 tvg-id="" tvg-name="SUR | STAR SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/1200px-Star_Series_2020.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | STAR SERIES
+#EXTINF:-1 tvg-id="" tvg-name="SUR | TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANALES AMÉRICA SUR STD",SUR | TNT SERIES
 http://magmas5.com:8000/malotv/gratis/4785
 #EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="SUR | FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | FOX SPORTS PREMIUM
 http://magmas5.com:8000/malotv/gratis/4787
@@ -299,21 +299,21 @@ http://magmas5.com:8000/malotv/gratis/4940
 http://magmas5.com:8000/malotv/gratis/4941
 #EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SD" tvg-logo="https://assets.stickpng.com/images/5842f04ea6515b1e0ad75b14.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX SD
 http://magmas5.com:8000/malotv/gratis/4942
-#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX ACTION SD
+#EXTINF:-1 tvg-id="" tvg-name="ARG | SYFI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | SYFI SD
 http://magmas5.com:8000/malotv/gratis/4943
 #EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="ARG | STAR CHANNEL CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | STAR CHANNEL CINEMA
 http://magmas5.com:8000/malotv/gratis/4944
-#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX CLASSIC SD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023531111/FOX_Classics_HD.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX CLASSIC SD
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TYC SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/TYC94.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | TYC SD
 http://magmas5.com:8000/malotv/gratis/4945
-#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX COMEDY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX COMEDY SD
+#EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-name="ARG | Universal Channel SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/1280px-Universal_Channel_Brasil.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | Universal Channel SD
 http://magmas5.com:8000/malotv/gratis/4946
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-name="ARG | UNIVERSAL CRIME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | UNIVERSAL CRIME SD
 http://magmas5.com:8000/malotv/gratis/4947
 #EXTINF:-1 tvg-id="" tvg-name="ARG | FOX LIFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX LIFE SD
 http://magmas5.com:8000/malotv/gratis/4948
-#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX MOVIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX MOVIES SD
+#EXTINF:-1 tvg-id="" tvg-name="ARG | STAR CHANNEL SD" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | STAR CHANNEL SD
 http://magmas5.com:8000/malotv/gratis/4949
-#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SERIES SD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023495632/FOX_Series_HD.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX SERIES SD
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SERIES SD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023495632/FOX_Series_HD.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | TNT SERIES SD
 http://magmas5.com:8000/malotv/gratis/4950
 #EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="ARG | FOX SPORTS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX SPORTS SD
 http://magmas5.com:8000/malotv/gratis/4951
@@ -361,8 +361,6 @@ http://magmas5.com:8000/malotv/gratis/5024
 http://magmas5.com:8000/malotv/gratis/5064
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="ARG | HBO POP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | HBO POP SD
 http://magmas5.com:8000/malotv/gratis/5065
-#EXTINF:-1 tvg-id="BloombergTelevision.us" tvg-name="28 | EL FINANCIERO BLOOMBERG MX UHD® " tvg-logo="https://forounivers.com/uploads/monthly_2018_04/large.582a6dcaec649_ElFinancieroBloomberg.png.5abb18babe2390c6c29b401f42340660.png" group-title="VARIEDADES",28 | EL FINANCIERO BLOOMBERG MX UHD® 
-http://magmas5.com:8000/malotv/gratis/3604
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Accion" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 | Cine Accion
 http://magmas5.com:8000/malotv/gratis/2544
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Accion HD" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 | Cine Accion HD
@@ -377,15 +375,15 @@ http://magmas5.com:8000/malotv/gratis/2548
 http://magmas5.com:8000/malotv/gratis/2549
 #EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Ficcion/Fantasia 1" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 |Cine Ficcion/Fantasia 1
 http://magmas5.com:8000/malotv/gratis/2550
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Ficcion/Fantasia 2" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 |Cine Ficcion/Fantasia 2
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Tres veces Ana " tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 | Tres veces Ana 
 http://magmas5.com:8000/malotv/gratis/2551
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Ficcion/Fantasia HD" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 |Cine Ficcion/Fantasia HD
+#EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Clásicos HD" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 |Cine Clásicos HD
 http://magmas5.com:8000/malotv/gratis/2552
 #EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Ficcion/Fantasia Sagas" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES 24/7",24/7 |Cine Ficcion/Fantasia Sagas
 http://magmas5.com:8000/malotv/gratis/2553
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Infantil" tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download.png" group-title="CANALES 24/7",24/7 | Cine Infantil
 http://magmas5.com:8000/malotv/gratis/2554
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dibujos Infantiles HD" tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download.png" group-title="CANALES 24/7",24/7 | Dibujos Infantiles HD
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CINE Retro HD" tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download.png" group-title="CANALES 24/7",24/7 | CINE Retro HD
 http://magmas5.com:8000/malotv/gratis/2555
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine KIDS FHD" tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download.png" group-title="CANALES 24/7",24/7 | Cine KIDS FHD
 http://magmas5.com:8000/malotv/gratis/2556
@@ -401,7 +399,7 @@ http://magmas5.com:8000/malotv/gratis/2560
 http://magmas5.com:8000/malotv/gratis/2561
 #EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Romance HD" tvg-logo="https://i.dlpng.com/static/png/6866470_preview.png" group-title="CANALES 24/7",24/7 |Cine Romance HD
 http://magmas5.com:8000/malotv/gratis/2562
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Terror" tvg-logo="https://logopond.com/logos/52877450ae36699b3fc6ae6ef30f0015.png" group-title="CANALES 24/7",24/7 | Cine Terror
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | THE BIG BANG THEORY" tvg-logo="https://logopond.com/logos/52877450ae36699b3fc6ae6ef30f0015.png" group-title="CANALES 24/7",24/7 | THE BIG BANG THEORY
 http://magmas5.com:8000/malotv/gratis/2563
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Terror HD" tvg-logo="https://logopond.com/logos/52877450ae36699b3fc6ae6ef30f0015.png" group-title="CANALES 24/7",24/7 | Cine Terror HD
 http://magmas5.com:8000/malotv/gratis/2564
@@ -467,7 +465,7 @@ http://magmas5.com:8000/malotv/gratis/125924
 http://magmas5.com:8000/malotv/gratis/125925
 #EXTINF:-1 tvg-id="" tvg-name="02| HON-CHOLUSAT" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cholusat-Sur-Canal-36-en-vivo-Online-324x160.png" group-title="HONDURAS",02| HON-CHOLUSAT
 http://magmas5.com:8000/malotv/gratis/125926
-#EXTINF:-1 tvg-id="" tvg-name="03| HON-MAYA TV" tvg-logo="https://hondu.tv/wp-content/uploads/2016/10/Canal-maya-tv.png" group-title="HONDURAS",03| HON-MAYA TV
+#EXTINF:-1 tvg-id="" tvg-name="03| HON-RHC TV" tvg-logo="https://hondu.tv/wp-content/uploads/2016/10/Canal-maya-tv.png" group-title="HONDURAS",03| HON-RHC TV
 http://magmas5.com:8000/malotv/gratis/125927
 #EXTINF:-1 tvg-id="" tvg-name="04| HON-Que Hubo TV" tvg-logo="https://qhubotv.com/wp-content/uploads/2020/03/1Mesa-de-trabajo-1.png" group-title="HONDURAS",04| HON-Que Hubo TV
 http://magmas5.com:8000/malotv/gratis/125928
@@ -579,9 +577,9 @@ http://magmas5.com:8000/malotv/gratis/3572
 http://magmas5.com:8000/malotv/gratis/3573
 #EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-name="05 | CARACOL NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="COLOMBIA  ",05 | CARACOL NOTICIAS HD
 http://magmas5.com:8000/malotv/gratis/3574
-#EXTINF:-1 tvg-id="RCNTV.co" tvg-name="06 | RCN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA  ",06 | RCN FHD
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="06 | RCN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA  ",06 | RCN FHD
 http://magmas5.com:8000/malotv/gratis/3575
-#EXTINF:-1 tvg-id="RCNTV.co" tvg-name="07 | RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA  ",07 | RCN HD
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="07 | RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA  ",07 | RCN HD
 http://magmas5.com:8000/malotv/gratis/3576
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="08 | RCN NOVELAS" tvg-logo="https://es.wikipedia.org/wiki/RCN_Novelas#/media/Archivo:RCN_Novelas_logo.svg" group-title="COLOMBIA  ",08 | RCN NOVELAS
 http://magmas5.com:8000/malotv/gratis/3577
@@ -687,9 +685,9 @@ http://magmas5.com:8000/malotv/gratis/129353
 http://magmas5.com:8000/malotv/gratis/129354
 #EXTINF:-1 tvg-id="" tvg-name="Pinky y Cerebro" tvg-logo="https://image.tmdb.org/t/p/w185/eLew1HttT40izNwLfdhEyx6zFBd.jpg" group-title="CANALES 24/7",Pinky y Cerebro
 http://magmas5.com:8000/malotv/gratis/129355
-#EXTINF:-1 tvg-id="" tvg-name="Elfen Lied" tvg-logo="https://image.tmdb.org/t/p/w185/yQwi3q0zjKR9fyf0TaaHsp01JW6.jpg" group-title="CANALES 24/7",Elfen Lied
+#EXTINF:-1 tvg-id="" tvg-name="Papá a toda madre UHD 24/7" tvg-logo="https://image.tmdb.org/t/p/w185/yQwi3q0zjKR9fyf0TaaHsp01JW6.jpg" group-title="CANALES 24/7",Papá a toda madre UHD 24/7
 http://magmas5.com:8000/malotv/gratis/129357
-#EXTINF:-1 tvg-id="" tvg-name="ZOIDS UHD" tvg-logo="https://image.tmdb.org/t/p/w185/vxuoMW6YBt6UsxvMfRNwRl9LtWS.jpg" group-title="CANALES 24/7",ZOIDS UHD
+#EXTINF:-1 tvg-id="" tvg-name="Cuidado con el Ángel UHD 24/7" tvg-logo="https://image.tmdb.org/t/p/w185/vxuoMW6YBt6UsxvMfRNwRl9LtWS.jpg" group-title="CANALES 24/7",Cuidado con el Ángel UHD 24/7
 http://magmas5.com:8000/malotv/gratis/129360
 #EXTINF:-1 tvg-id="" tvg-name="Cinema: EL ESPECTACULAR HOMBRE ARAÑA" tvg-logo="https://repelis.live/wp-content/uploads/2018/02/el-conjuro-1-poster.jpeg" group-title="CANALES 24/7",Cinema: EL ESPECTACULAR HOMBRE ARAÑA
 http://magmas5.com:8000/malotv/gratis/129362
@@ -725,13 +723,13 @@ http://magmas5.com:8000/malotv/gratis/129377
 http://magmas5.com:8000/malotv/gratis/129378
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas Resident Evil" tvg-logo="https://n3.sdlcdn.com/imgs/h/5/6/Resident-Evil-All-6-Parts-SDL071003500-1-7bf66.jpeg" group-title="CANALES 24/7",Peliculas Resident Evil
 http://magmas5.com:8000/malotv/gratis/129379
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas Scary Movie" tvg-logo="https://image.tmdb.org/t/p/w185/zHy065u9JCDHA9IJ93MK7isSSMw.jpg" group-title="CANALES 24/7",Peliculas Scary Movie
+#EXTINF:-1 tvg-id="" tvg-name="Películas EXTRATERRESTRES Sci-Fi" tvg-logo="https://image.tmdb.org/t/p/w185/zHy065u9JCDHA9IJ93MK7isSSMw.jpg" group-title="CANALES 24/7",Películas EXTRATERRESTRES Sci-Fi
 http://magmas5.com:8000/malotv/gratis/129380
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas Matrix" tvg-logo="https://www.impactohd.cl/32766/4k-uhd-matrix-la-trilogia.jpg" group-title="CANALES 24/7",Peliculas Matrix
 http://magmas5.com:8000/malotv/gratis/129381
-#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="07 | RCN Novelas SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png" group-title="NOVELAS",07 | RCN Novelas SD
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="07 | RCN NOVELAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png" group-title="NOVELAS",07 | RCN NOVELAS HD
 http://magmas5.com:8000/malotv/gratis/129383
-#EXTINF:-1 tvg-id="" tvg-name="La  Familia Addams" tvg-logo="https://image.tmdb.org/t/p/w185/aBZynbuxspjz01mxrWpP5ZyDIyq.jpg" group-title="CANALES 24/7",La  Familia Addams
+#EXTINF:-1 tvg-id="" tvg-name="Amores Verdaderos 24/7" tvg-logo="https://image.tmdb.org/t/p/w185/aBZynbuxspjz01mxrWpP5ZyDIyq.jpg" group-title="CANALES 24/7",Amores Verdaderos 24/7
 http://magmas5.com:8000/malotv/gratis/129384
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Astro Boy" tvg-logo="https://image.tmdb.org/t/p/w185/8UsTkq6xgvrlTtYhSpzvfpCpe7O.jpg?pfdrid_c=true" group-title="CANALES 24/7",24/7 | Astro Boy
 http://magmas5.com:8000/malotv/gratis/129385
@@ -755,7 +753,7 @@ http://magmas5.com:8000/malotv/gratis/131623
 http://magmas5.com:8000/malotv/gratis/131624
 #EXTINF:-1 tvg-id="" tvg-name="18| CAMPUS TV HD" tvg-logo="" group-title="HONDURAS",18| CAMPUS TV HD
 http://magmas5.com:8000/malotv/gratis/131625
-#EXTINF:-1 tvg-id="" tvg-name="19| TVC HD" tvg-logo="" group-title="HONDURAS",19| TVC HD
+#EXTINF:-1 tvg-id="" tvg-name="19| TVCopán HD" tvg-logo="" group-title="HONDURAS",19| TVCopán HD
 http://magmas5.com:8000/malotv/gratis/131626
 #EXTINF:-1 tvg-id="Canal5ElLider.hn" tvg-name="20| CANAL 5 HD" tvg-logo="" group-title="HONDURAS",20| CANAL 5 HD
 http://magmas5.com:8000/malotv/gratis/131627
@@ -767,7 +765,7 @@ http://magmas5.com:8000/malotv/gratis/131629
 http://magmas5.com:8000/malotv/gratis/131630
 #EXTINF:-1 tvg-id="HCH.hn" tvg-name="24| HCH TV" tvg-logo="" group-title="HONDURAS",24| HCH TV
 http://magmas5.com:8000/malotv/gratis/131631
-#EXTINF:-1 tvg-id="" tvg-name="25 | MAYA TV" tvg-logo="https://hondu.tv/wp-content/uploads/2016/10/Canal-maya-tv.png" group-title="HONDURAS",25 | MAYA TV
+#EXTINF:-1 tvg-id="" tvg-name="25 | Canal 5" tvg-logo="https://hondu.tv/wp-content/uploads/2016/10/Canal-maya-tv.png" group-title="HONDURAS",25 | Canal 5
 http://magmas5.com:8000/malotv/gratis/131632
 #EXTINF:-1 tvg-id="" tvg-name="26| MEGATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/01_mega_logo.svg/1280px-01_mega_logo.svg.png" group-title="HONDURAS",26| MEGATV
 http://magmas5.com:8000/malotv/gratis/131633
@@ -783,7 +781,7 @@ http://magmas5.com:8000/malotv/gratis/131637
 http://magmas5.com:8000/malotv/gratis/131638
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="33| TODO DEPORTE TDTV+" tvg-logo="" group-title="HONDURAS",33| TODO DEPORTE TDTV+
 http://magmas5.com:8000/malotv/gratis/131639
-#EXTINF:-1 tvg-id="" tvg-name="34| TVC HD" tvg-logo="" group-title="HONDURAS",34| TVC HD
+#EXTINF:-1 tvg-id="" tvg-name="34| TVCopán HD" tvg-logo="" group-title="HONDURAS",34| TVCopán HD
 http://magmas5.com:8000/malotv/gratis/131640
 #EXTINF:-1 tvg-id="" tvg-name="35| VICATV" tvg-logo="" group-title="HONDURAS",35| VICATV
 http://magmas5.com:8000/malotv/gratis/131641
@@ -931,7 +929,7 @@ http://magmas5.com:8000/malotv/gratis/131731
 http://magmas5.com:8000/malotv/gratis/131871
 #EXTINF:-1 tvg-id="" tvg-name="RD | Ame 47" tvg-logo="https://1.bp.blogspot.com/-cdMp-zoXeOk/W00OYXJCLEI/AAAAAAAAGZQ/5UmHP4-cGjwx1RSRPfoJcTVk7nAFKq5VgCLcBGAs/s1600/Amen%2B47%2Ben%2Bvivo.png" group-title="REPUBLICA DOMINICANA",RD | Ame 47
 http://magmas5.com:8000/malotv/gratis/131872
-#EXTINF:-1 tvg-id="" tvg-name="RD | Boreal TV" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_borealTV.png.670436e2072d13a97442d954c3c8a45e.png" group-title="REPUBLICA DOMINICANA",RD | Boreal TV
+#EXTINF:-1 tvg-id="" tvg-name="RD | Digital809 TV" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_borealTV.png.670436e2072d13a97442d954c3c8a45e.png" group-title="REPUBLICA DOMINICANA",RD | Digital809 TV
 http://magmas5.com:8000/malotv/gratis/131873
 #EXTINF:-1 tvg-id="" tvg-name="RD | Canal 25 Santiago" tvg-logo="https://canal25rd.com/images/canal25_logo_2017_small.png" group-title="REPUBLICA DOMINICANA",RD | Canal 25 Santiago
 http://magmas5.com:8000/malotv/gratis/131874
@@ -953,7 +951,7 @@ http://magmas5.com:8000/malotv/gratis/131881
 http://magmas5.com:8000/malotv/gratis/131882
 #EXTINF:-1 tvg-id="" tvg-name="RD | La Voz de María " tvg-logo="https://www.altice.com.do/sites/default/files/cnt/grilla_canales/img/logos/LaVozDelTropico.png" group-title="REPUBLICA DOMINICANA",RD | La Voz de María 
 http://magmas5.com:8000/malotv/gratis/131883
-#EXTINF:-1 tvg-id="" tvg-name="RD | MPA TV HD" tvg-logo="https://image.roku.com/developer_channels/prod/66451f86ef328ce0d919ae7e88f109f622aef754fd6fe3303b499daf8ed11edc.png" group-title="REPUBLICA DOMINICANA",RD | MPA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="RD | TV Daja HD" tvg-logo="https://image.roku.com/developer_channels/prod/66451f86ef328ce0d919ae7e88f109f622aef754fd6fe3303b499daf8ed11edc.png" group-title="REPUBLICA DOMINICANA",RD | TV Daja HD
 http://magmas5.com:8000/malotv/gratis/131884
 #EXTINF:-1 tvg-id="" tvg-name="RD | Megavision Canal 43" tvg-logo="https://logo.stocklight.com/NASDAQ/MVIS_original.png" group-title="REPUBLICA DOMINICANA",RD | Megavision Canal 43
 http://magmas5.com:8000/malotv/gratis/131885
@@ -971,7 +969,7 @@ http://magmas5.com:8000/malotv/gratis/131890
 http://magmas5.com:8000/malotv/gratis/131891
 #EXTINF:-1 tvg-id="" tvg-name="RD | Super TV 55" tvg-logo="https://img.apksum.com/07/app96.sportshd/1.0/icon.png" group-title="REPUBLICA DOMINICANA",RD | Super TV 55
 http://magmas5.com:8000/malotv/gratis/131892
-#EXTINF:-1 tvg-id="" tvg-name="RD | HOT 7 TV" tvg-logo="https://3.bp.blogspot.com/-Kq3nLk1j950/Wr0DiMXZ1QI/AAAAAAAAdFQ/xrPPhrTKHqIJoxguu6UenVwJ7iYfuo8jACLcBGAs/s1600/Telebendicion.png" group-title="REPUBLICA DOMINICANA",RD | HOT 7 TV
+#EXTINF:-1 tvg-id="" tvg-name="RD | Cascara TV HD" tvg-logo="https://3.bp.blogspot.com/-Kq3nLk1j950/Wr0DiMXZ1QI/AAAAAAAAdFQ/xrPPhrTKHqIJoxguu6UenVwJ7iYfuo8jACLcBGAs/s1600/Telebendicion.png" group-title="REPUBLICA DOMINICANA",RD | Cascara TV HD
 http://magmas5.com:8000/malotv/gratis/131893
 #EXTINF:-1 tvg-id="" tvg-name="RD | Telecanal 28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="REPUBLICA DOMINICANA",RD | Telecanal 28
 http://magmas5.com:8000/malotv/gratis/131894
@@ -1011,7 +1009,7 @@ http://magmas5.com:8000/malotv/gratis/131910
 http://magmas5.com:8000/malotv/gratis/131911
 #EXTINF:-1 tvg-id="" tvg-name="RD | Zol FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ubk7TuBu8T.png" group-title="REPUBLICA DOMINICANA",RD | Zol FM
 http://magmas5.com:8000/malotv/gratis/131912
-#EXTINF:-1 tvg-id="" tvg-name="RD | ACENTO TV SD DO (c)" tvg-logo="https://olbengc.com/wp-content/uploads/2018/04/acento-tv-logo.png" group-title="REPUBLICA DOMINICANA",RD | ACENTO TV SD DO (c)
+#EXTINF:-1 tvg-id="" tvg-name="RD | CASCARA TV HD DO (c)" tvg-logo="https://olbengc.com/wp-content/uploads/2018/04/acento-tv-logo.png" group-title="REPUBLICA DOMINICANA",RD | CASCARA TV HD DO (c)
 http://magmas5.com:8000/malotv/gratis/131913
 #EXTINF:-1 tvg-id="" tvg-name="RD | Antena 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Antena_7.png" group-title="REPUBLICA DOMINICANA",RD | Antena 7
 http://magmas5.com:8000/malotv/gratis/131914
@@ -1049,9 +1047,9 @@ http://magmas5.com:8000/malotv/gratis/131929
 http://magmas5.com:8000/malotv/gratis/131930
 #EXTINF:-1 tvg-id="" tvg-name="RD | Z101 TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Zee_TV_HD_Logo_2014.png" group-title="REPUBLICA DOMINICANA",RD | Z101 TV HD
 http://magmas5.com:8000/malotv/gratis/131931
-#EXTINF:-1 tvg-id="" tvg-name="RD | SABOR A MERENGUE TV" tvg-logo="https://saboramerengue.com/wp-content/themes/saboramerengue/img/logo-sabor.png" group-title="REPUBLICA DOMINICANA",RD | SABOR A MERENGUE TV
+#EXTINF:-1 tvg-id="" tvg-name="RD | PH TV" tvg-logo="https://saboramerengue.com/wp-content/themes/saboramerengue/img/logo-sabor.png" group-title="REPUBLICA DOMINICANA",RD | PH TV
 http://magmas5.com:8000/malotv/gratis/131933
-#EXTINF:-1 tvg-id="" tvg-name="RD | MPA TV" tvg-logo="https://hughstephensblog.files.wordpress.com/2019/10/mpa-logo.png" group-title="REPUBLICA DOMINICANA",RD | MPA TV
+#EXTINF:-1 tvg-id="" tvg-name="RD | Teleimpacto TV" tvg-logo="https://hughstephensblog.files.wordpress.com/2019/10/mpa-logo.png" group-title="REPUBLICA DOMINICANA",RD | Teleimpacto TV
 http://magmas5.com:8000/malotv/gratis/131934
 #EXTINF:-1 tvg-id="" tvg-name="RD | LA DIFERENCIA TV NY" tvg-logo="" group-title="REPUBLICA DOMINICANA",RD | LA DIFERENCIA TV NY
 http://magmas5.com:8000/malotv/gratis/131935
@@ -1061,9 +1059,9 @@ http://magmas5.com:8000/malotv/gratis/131937
 http://magmas5.com:8000/malotv/gratis/131938
 #EXTINF:-1 tvg-id="" tvg-name="RD | Telenord 12" tvg-logo="https://www.telenord.com/images/Logo_Telenord.png" group-title="REPUBLICA DOMINICANA",RD | Telenord 12
 http://magmas5.com:8000/malotv/gratis/131939
-#EXTINF:-1 tvg-id="" tvg-name="RD | Somos TopoPoint TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s294213g.png" group-title="REPUBLICA DOMINICANA",RD | Somos TopoPoint TV
+#EXTINF:-1 tvg-id="" tvg-name="RD | TNI Canal 51 HD" tvg-logo="https://cdn-radiotime-logos.tunein.com/s294213g.png" group-title="REPUBLICA DOMINICANA",RD | TNI Canal 51 HD
 http://magmas5.com:8000/malotv/gratis/131940
-#EXTINF:-1 tvg-id="" tvg-name="RD | WMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/WMS_Industries_logo.png" group-title="REPUBLICA DOMINICANA",RD | WMS
+#EXTINF:-1 tvg-id="" tvg-name="RD | ENTELEVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/WMS_Industries_logo.png" group-title="REPUBLICA DOMINICANA",RD | ENTELEVISION HD
 http://magmas5.com:8000/malotv/gratis/131941
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="01 | WIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="COLOMBIA -PRIMERA A⚽",01 | WIN SPORTS HD
 http://magmas5.com:8000/malotv/gratis/131982
@@ -1088,1646 +1086,4 @@ http://magmas5.com:8000/malotv/gratis/131995
 #EXTINF:-1 tvg-id="" tvg-name="Trump vs the Illuminati (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWj62oObVBYgSQys6nBguw2Ij63.jpg" group-title="CRIMEN-GUERRA-ARTES MARCIALES",Trump vs the Illuminati (2020)
 http://magmas5.com:8000/movie/malotv/gratis/126555.mp4
 #EXTINF:-1 tvg-id="" tvg-name="¡Comidos vivos! (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKVRMzPKB0gFlgPdBDMa7duAaxo.jpg" group-title="ACCION-CIENCIA FICCION-AVENTURA",¡Comidos vivos! (1980)
-http://magmas5.com:8000/movie/malotv/gratis/126920.mp4
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-name="02 | FOX SPORTS ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES SD",02 | FOX SPORTS ARG
-http://magmas5.com:8000/malotv/gratis/132268
-#EXTINF:-1 tvg-id="FoxSports2Mexico.mx" tvg-name="03 | FOX SPORTS 2 MX" tvg-logo="https://www.kindpng.com/picc/m/748-7484701_fox-sports-2-logo-png-fox-sports-2.png" group-title="DEPORTES SD",03 | FOX SPORTS 2 MX
-http://magmas5.com:8000/malotv/gratis/132269
-#EXTINF:-1 tvg-id="FoxSports2Argentina.ar" tvg-name="04 | FOX SPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES SD",04 | FOX SPORTS 2 ARG
-http://magmas5.com:8000/malotv/gratis/132270
-#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-name="05 | FOX SPORTS 3 MX SD " tvg-logo="https://4.bp.blogspot.com/-D9RFOEZOH3A/W6louC7CdJI/AAAAAAAAAJA/zg96Hmgid1A96NgrbQpC0aZ9AgBjHeWIQCPcBGAYYCw/s1600/foxsports2mexico.png" group-title="DEPORTES SD",05 | FOX SPORTS 3 MX SD 
-http://magmas5.com:8000/malotv/gratis/132271
-#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="06 | FOX SPORTS 3 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES SD",06 | FOX SPORTS 3 ARG
-http://magmas5.com:8000/malotv/gratis/132272
-#EXTINF:-1 tvg-id="ESPNHDArgentina.ar" tvg-name="07 | ESPN SUR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES SD",07 | ESPN SUR 
-http://magmas5.com:8000/malotv/gratis/132275
-#EXTINF:-1 tvg-id="ESPN2HDArgentina.ar" tvg-name="08 | ESPN 2 SUR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="DEPORTES SD",08 | ESPN 2 SUR SD
-http://magmas5.com:8000/malotv/gratis/132276
-#EXTINF:-1 tvg-id="ESPN3HDArgentina.ar" tvg-name="09 | ESPN 3 SUR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES SD",09 | ESPN 3 SUR SD
-http://magmas5.com:8000/malotv/gratis/132277
-#EXTINF:-1 tvg-id="ESPNMexico.mx" tvg-name="10 | ESPN  MX SD" tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="DEPORTES SD",10 | ESPN  MX SD
-http://magmas5.com:8000/malotv/gratis/132278
-#EXTINF:-1 tvg-id="I561.3679.tvguide.com" tvg-name="11 | ESPN 2 MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="DEPORTES SD",11 | ESPN 2 MX SD
-http://magmas5.com:8000/malotv/gratis/132279
-#EXTINF:-1 tvg-id="" tvg-name="12 | ESPN 3 MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES SD",12 | ESPN 3 MX SD
-http://magmas5.com:8000/malotv/gratis/132280
-#EXTINF:-1 tvg-id="GolTV.us" tvg-name="13 | GOLTV LATINOAMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1200px-GolTV_logo.svg.png" group-title="DEPORTES SD",13 | GOLTV LATINOAMERICA
-http://magmas5.com:8000/malotv/gratis/132281
-#EXTINF:-1 tvg-id="" tvg-name="14 | DIRECTV SPORTS (Col)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="DEPORTES SD",14 | DIRECTV SPORTS (Col)
-http://magmas5.com:8000/malotv/gratis/132282
-#EXTINF:-1 tvg-id="" tvg-name="15 | DIRECTV SPORTS 2 (Col)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="DEPORTES SD",15 | DIRECTV SPORTS 2 (Col)
-http://magmas5.com:8000/malotv/gratis/132283
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="16  | TYC SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="DEPORTES SD",16  | TYC SPORTS SD
-http://magmas5.com:8000/malotv/gratis/132284
-#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="17 | TNT SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES SD",17 | TNT SPORTS SD
-http://magmas5.com:8000/malotv/gratis/132285
-#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="18 | CDF PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cdf_p.png" group-title="DEPORTES SD",18 | CDF PREMIUM SD
-http://magmas5.com:8000/malotv/gratis/132286
-#EXTINF:-1 tvg-id="CL - CDF Básico" tvg-name="19 | ECDF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES SD",19 | ECDF SD
-http://magmas5.com:8000/malotv/gratis/132288
-#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="20 | MOVISTAR DEPORTES" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES SD",20 | MOVISTAR DEPORTES
-http://magmas5.com:8000/malotv/gratis/132289
-#EXTINF:-1 tvg-id="" tvg-name="21 | GOL PERU" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES SD",21 | GOL PERU
-http://magmas5.com:8000/malotv/gratis/132292
-#EXTINF:-1 tvg-id="I17.99240.tvguide.com" tvg-name="25 | FUTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/640px-Logo_de_FUTV.svg.png" group-title="DEPORTES SD",25 | FUTV SD
-http://magmas5.com:8000/malotv/gratis/132301
-#EXTINF:-1 tvg-id="" tvg-name="26 | TVC DEPORTES SD" tvg-logo="https://i.pinimg.com/originals/4a/ca/5e/4aca5ea12674ef3a00890275dfddd70a.png" group-title="DEPORTES SD",26 | TVC DEPORTES SD
-http://magmas5.com:8000/malotv/gratis/132302
-#EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-name="01 | DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTILES SD",01 | DISCOVERY KIDS
-http://magmas5.com:8000/malotv/gratis/132316
-#EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="02 | CARTOON NETWORK SD" tvg-logo="https://assets.stickpng.com/images/589a41e25aa6293a4aac48ab.png" group-title="INFANTILES SD",02 | CARTOON NETWORK SD
-http://magmas5.com:8000/malotv/gratis/132317
-#EXTINF:-1 tvg-id="NickJrSouth.us" tvg-name="03 | NICK JR. MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES SD",03 | NICK JR. MX SD
-http://magmas5.com:8000/malotv/gratis/132318
-#EXTINF:-1 tvg-id="ComedyCentralSouth.us" tvg-name="04 | DISNEY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="INFANTILES SD",04 | DISNEY CHANNEL SD
-http://magmas5.com:8000/malotv/gratis/132319
-#EXTINF:-1 tvg-id="DisneyJuniorWest.us" tvg-name="05 | DISNEY JR. MX" tvg-logo="https://w7.pngwing.com/pngs/673/844/png-transparent-disney-junior-disney-channel-the-walt-disney-company-television-show-family-channel-nick-jr-television-text-logo.png" group-title="INFANTILES SD",05 | DISNEY JR. MX
-http://magmas5.com:8000/malotv/gratis/132320
-#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="06 | BOOMERANG SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="INFANTILES SD",06 | BOOMERANG SD
-http://magmas5.com:8000/malotv/gratis/132321
-#EXTINF:-1 tvg-id="DiscoveryKidsHDPanregional.us" tvg-name="07 | DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="INFANTILES SD",07 | DISNEY XD
-http://magmas5.com:8000/malotv/gratis/132322
-#EXTINF:-1 tvg-id="ZooMooLatinAmerica.nz" tvg-name="08 | ZOOMO SD" tvg-logo="https://logodix.com/logo/2104975.png" group-title="INFANTILES SD",08 | ZOOMO SD
-http://magmas5.com:8000/malotv/gratis/132323
-#EXTINF:-1 tvg-id="NatGeoKidsPanregional.us" tvg-name="09 | NATGEO KIDS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="INFANTILES SD",09 | NATGEO KIDS SD
-http://magmas5.com:8000/malotv/gratis/132324
-#EXTINF:-1 tvg-id="CO - Tooncast" tvg-name="10 | TOONCAST MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="INFANTILES SD",10 | TOONCAST MX SD
-http://magmas5.com:8000/malotv/gratis/132325
-#EXTINF:-1 tvg-id="NickJrPanregional.us" tvg-name="11 | NICK 2 MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="INFANTILES SD",11 | NICK 2 MX SD
-http://magmas5.com:8000/malotv/gratis/132326
-#EXTINF:-1 tvg-id="" tvg-name="16 | GOLTV ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="ECUADOR ",16 | GOLTV ECUADOR
-http://magmas5.com:8000/malotv/gratis/132884
-#EXTINF:-1 tvg-id="" tvg-name="08 | Telenovelas USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_de_Telenovela.png" group-title="NOVELAS",08 | Telenovelas USA
-http://magmas5.com:8000/malotv/gratis/131156
-#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="01 | TELENOVELAS SONY UHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="NOVELAS",01 | TELENOVELAS SONY UHD
-http://magmas5.com:8000/malotv/gratis/2050
-#EXTINF:-1 tvg-id="Enlace.cr" tvg-name="02 | ENLACE " tvg-logo="https://www.pngkit.com/png/full/266-2662055_enlace-tbn-canal-23-enlace-logo-png.png" group-title="RELIGION",02 | ENLACE 
-http://magmas5.com:8000/malotv/gratis/132890
-#EXTINF:-1 tvg-id="Cristovision.co" tvg-name="03 | CRISTO VISION " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Cristovisi%C3%B3n_Logo.png" group-title="RELIGION",03 | CRISTO VISION 
-http://magmas5.com:8000/malotv/gratis/132891
-#EXTINF:-1 tvg-id="" tvg-name="04 | CBN ESPAÑOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1280px-CBN_logo.svg.png" group-title="RELIGION",04 | CBN ESPAÑOL HD
-http://magmas5.com:8000/malotv/gratis/132892
-#EXTINF:-1 tvg-id="" tvg-name="05 | ALIENTO VISION " tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/07/f0/43/07f0433c-6b33-a955-f8d0-b1df72aafba7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="RELIGION",05 | ALIENTO VISION 
-http://magmas5.com:8000/malotv/gratis/132893
-#EXTINF:-1 tvg-id="" tvg-name="-------PREMIUM LOW---------" tvg-logo="" group-title="LOW CHANNEL",-------PREMIUM LOW---------
-http://magmas5.com:8000/malotv/gratis/3838
-#EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="02 | AXN (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="LOW CHANNEL",02 | AXN (Low)
-http://magmas5.com:8000/malotv/gratis/3840
-#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-name="03 | Boomerang (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="LOW CHANNEL",03 | Boomerang (Low)
-http://magmas5.com:8000/malotv/gratis/3841
-#EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="04 | Cartoon Network (Low)" tvg-logo="https://assets.stickpng.com/images/589a41e25aa6293a4aac48ab.png" group-title="LOW CHANNEL",04 | Cartoon Network (Low)
-http://magmas5.com:8000/malotv/gratis/3842
-#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="05 | Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="LOW CHANNEL",05 | Cinecanal
-http://magmas5.com:8000/malotv/gratis/3843
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="06 | Cinemax" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cinemax-1-logo-png-transparent.png" group-title="LOW CHANNEL",06 | Cinemax
-http://magmas5.com:8000/malotv/gratis/3844
-#EXTINF:-1 tvg-id="ComedyCentralSouth.us" tvg-name="07 | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="LOW CHANNEL",07 | Comedy Central
-http://magmas5.com:8000/malotv/gratis/3845
-#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-name="08 | Discovery Channel" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="LOW CHANNEL",08 | Discovery Channel
-http://magmas5.com:8000/malotv/gratis/3846
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="09 | Discovery Home & Healt" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="LOW CHANNEL",09 | Discovery Home & Healt
-http://magmas5.com:8000/malotv/gratis/3847
-#EXTINF:-1 tvg-id="" tvg-name="10 | Discovery Turbo (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="LOW CHANNEL",10 | Discovery Turbo (L)
-http://magmas5.com:8000/malotv/gratis/3848
-#EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-name="11 | Disney Junior (L)" tvg-logo="https://nuvera.net/wp-content/uploads/2018/01/DisneyJR-Logo-Black-300x169.png" group-title="LOW CHANNEL",11 | Disney Junior (L)
-http://magmas5.com:8000/malotv/gratis/3849
-#EXTINF:-1 tvg-id="I292.60006.zap2it.com" tvg-name="12 | Disney XD (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="LOW CHANNEL",12 | Disney XD (L)
-http://magmas5.com:8000/malotv/gratis/3850
-#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-name="13 | ESPN (Low)" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png" group-title="LOW CHANNEL",13 | ESPN (Low)
-http://magmas5.com:8000/malotv/gratis/3851
-#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-name="14 | ESPN 2 (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="LOW CHANNEL",14 | ESPN 2 (Low)
-http://magmas5.com:8000/malotv/gratis/3852
-#EXTINF:-1 tvg-id="ESPN3HDArgentina.ar" tvg-name="15 |  ESPN 3 (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="LOW CHANNEL",15 |  ESPN 3 (Low)
-http://magmas5.com:8000/malotv/gratis/3853
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="16 | Star Action (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="LOW CHANNEL",16 | Star Action (Low)
-http://magmas5.com:8000/malotv/gratis/3854
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="17 |  Star Channel (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="LOW CHANNEL",17 |  Star Channel (L)
-http://magmas5.com:8000/malotv/gratis/3855
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="18 |  Star Channel (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title="LOW CHANNEL",18 |  Star Channel (L)
-http://magmas5.com:8000/malotv/gratis/3856
-#EXTINF:-1 tvg-id="I212.49263.schedulesdirect.org" tvg-name="19 |  Star Life (L)" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png" group-title="LOW CHANNEL",19 |  Star Life (L)
-http://magmas5.com:8000/malotv/gratis/3857
-#EXTINF:-1 tvg-id="I562.71662.schedulesdirect.org" tvg-name="20 |  Star Cinema (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png" group-title="LOW CHANNEL",20 |  Star Cinema (L)
-http://magmas5.com:8000/malotv/gratis/3858
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="21 | Star Channel (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png" group-title="LOW CHANNEL",21 | Star Channel (L)
-http://magmas5.com:8000/malotv/gratis/3859
-#EXTINF:-1 tvg-id="" tvg-name="22 | Fox Series (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fox_Premium_Series_%28Latin_America%29_-_2017_Logo.png" group-title="LOW CHANNEL",22 | Fox Series (Low)
-http://magmas5.com:8000/malotv/gratis/3860
-#EXTINF:-1 tvg-id="I219.82547.zap2it.com" tvg-name="23 |  Fox Sports (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="LOW CHANNEL",23 |  Fox Sports (L)
-http://magmas5.com:8000/malotv/gratis/3861
-#EXTINF:-1 tvg-id="FoxSports2HDSouth.us" tvg-name="24 |  Fox Sports 2 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="LOW CHANNEL",24 |  Fox Sports 2 (L)
-http://magmas5.com:8000/malotv/gratis/3862
-#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="25 |  Fox Sports 3 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="LOW CHANNEL",25 |  Fox Sports 3 (L)
-http://magmas5.com:8000/malotv/gratis/3863
-#EXTINF:-1 tvg-id="FXSouth.us" tvg-name="26 |  FX (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png" group-title="LOW CHANNEL",26 |  FX (L)
-http://magmas5.com:8000/malotv/gratis/3864
-#EXTINF:-1 tvg-id="History2HDPanregional.us" tvg-name="27 |  H2 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="LOW CHANNEL",27 |  H2 (L)
-http://magmas5.com:8000/malotv/gratis/3865
-#EXTINF:-1 tvg-id="HBOHDLatinAmerica.us" tvg-name="28 |  HBO (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1200px-HBO_Latino_Logo.svg.png" group-title="LOW CHANNEL",28 |  HBO (L)
-http://magmas5.com:8000/malotv/gratis/3866
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="29 |  HBO 2 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="LOW CHANNEL",29 |  HBO 2 (L)
-http://magmas5.com:8000/malotv/gratis/3867
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="30 |  HBO Family (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="LOW CHANNEL",30 |  HBO Family (L)
-http://magmas5.com:8000/malotv/gratis/3868
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="31 |  Las Estrellas (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="LOW CHANNEL",31 |  Las Estrellas (L)
-http://magmas5.com:8000/malotv/gratis/3869
-#EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-name="32 | TNT SERIES (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="LOW CHANNEL",32 | TNT SERIES (L)
-http://magmas5.com:8000/malotv/gratis/132337
-#EXTINF:-1 tvg-id="ClaroSportsChile.cl" tvg-name="33 | CLARO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="LOW CHANNEL",33 | CLARO SPORTS
-http://magmas5.com:8000/malotv/gratis/132338
-#EXTINF:-1 tvg-id="Cinear.ar" tvg-name="34 | CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="LOW CHANNEL",34 | CINEAR
-http://magmas5.com:8000/malotv/gratis/132574
-#EXTINF:-1 tvg-id="" tvg-name="17 | TVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/TVC_logo.png" group-title="ECUADOR ",17 | TVC
-http://magmas5.com:8000/malotv/gratis/133667
-#EXTINF:-1 tvg-id="" tvg-name="18 | RTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR ",18 | RTS SD
-http://magmas5.com:8000/malotv/gratis/134867
-#EXTINF:-1 tvg-id="" tvg-name="23 | CANAL 2 CALI" tvg-logo="https://www.canal2.co/wp-content/uploads/2017/02/logo-2.png" group-title="COLOMBIA  ",23 | CANAL 2 CALI
-http://magmas5.com:8000/malotv/gratis/135035
-#EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="24 | CANAL CAPITAL" tvg-logo="https://conexioncapital.co/wp-content/uploads/2020/03/logo-canal-2020e.png" group-title="COLOMBIA  ",24 | CANAL CAPITAL
-http://magmas5.com:8000/malotv/gratis/135036
-#EXTINF:-1 tvg-id="" tvg-name="25 | CANAL TDI COLOMBIA HD" tvg-logo="https://tdicolombia.com.co/wp-content/uploads/2021/11/TDI.gif" group-title="COLOMBIA  ",25 | CANAL TDI COLOMBIA HD
-http://magmas5.com:8000/malotv/gratis/135037
-#EXTINF:-1 tvg-id="" tvg-name="26 | CANAL CNC HD" tvg-logo="http://www.cncpasto.com/wp-content/uploads/2018/04/Untitled-1.png" group-title="COLOMBIA  ",26 | CANAL CNC HD
-http://magmas5.com:8000/malotv/gratis/135038
-#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="28 | CANAL MUNDO MAS" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="COLOMBIA  ",28 | CANAL MUNDO MAS
-http://magmas5.com:8000/malotv/gratis/135040
-#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="29 | CANAL SURAM FHD" tvg-logo="https://suram.com.co/wp-content/uploads/2020/02/LOGO-SURAM.png" group-title="COLOMBIA  ",29 | CANAL SURAM FHD
-http://magmas5.com:8000/malotv/gratis/135041
-#EXTINF:-1 tvg-id="" tvg-name="30 | CANAL 2 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png" group-title="COLOMBIA  ",30 | CANAL 2 UHD
-http://magmas5.com:8000/malotv/gratis/135042
-#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="31 | AVIVAMIENTO ABN FHD" tvg-logo="https://media.info/i/tb/1456/1544726087/1373255396.jpg" group-title="COLOMBIA  ",31 | AVIVAMIENTO ABN FHD
-http://magmas5.com:8000/malotv/gratis/135043
-#EXTINF:-1 tvg-id="" tvg-name="25 | CANAL 15 UCR FHD" tvg-logo="https://www.pngkit.com/png/full/150-1508834_logo-con-sombra-logo-de-canal-ucr.png" group-title="COSTA RICA",25 | CANAL 15 UCR FHD
-http://magmas5.com:8000/malotv/gratis/135044
-#EXTINF:-1 tvg-id="" tvg-name="26 | CANAL EXTREMA TV" tvg-logo="http://radioextremacr.com/img/logo.png" group-title="COSTA RICA",26 | CANAL EXTREMA TV
-http://magmas5.com:8000/malotv/gratis/135045
-#EXTINF:-1 tvg-id="" tvg-name="27 | Multimedios Canal 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Multimedios_Canal_Ocho_Logo.svg.png" group-title="COSTA RICA",27 | Multimedios Canal 8 HD
-http://magmas5.com:8000/malotv/gratis/135046
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="28 | TELESUR CR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="COSTA RICA",28 | TELESUR CR HD
-http://magmas5.com:8000/malotv/gratis/135047
-#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="14 |CHILEVISION HD" tvg-logo="https://cdn.elobservatodo.cl/sites/elobservatodo.cl/files/imagecache/380x285/imagen_noticia/canales.png" group-title="CHILE",14 |CHILEVISION HD
-http://magmas5.com:8000/malotv/gratis/135058
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="ARG | DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | DIRECTV SPORTS
-http://magmas5.com:8000/malotv/gratis/135642
-#EXTINF:-1 tvg-id="DirecTVSports2HD.us" tvg-name="ARG | DIRCTV SPORTS 2" tvg-logo="https://i.pinimg.com/originals/30/94/9f/30949f70bcca0fd475a8015001065755.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | DIRCTV SPORTS 2
-http://magmas5.com:8000/malotv/gratis/135643
-#EXTINF:-1 tvg-id="DirecTVSportsPlusHD.us" tvg-name="ARG | DIRECTV SPORTS +" tvg-logo="https://i.pinimg.com/originals/30/94/9f/30949f70bcca0fd475a8015001065755.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | DIRECTV SPORTS +
-http://magmas5.com:8000/malotv/gratis/135644
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-name="ARG | FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX SPORTS
-http://magmas5.com:8000/malotv/gratis/135645
-#EXTINF:-1 tvg-id="FoxSports2Argentina.ar" tvg-name="ARG | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX SPORTS 2
-http://magmas5.com:8000/malotv/gratis/135646
-#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="ARG | FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX SPORTS 3
-http://magmas5.com:8000/malotv/gratis/135647
-#EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="SUR | CNN CHILE" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png" group-title="CANALES AMÉRICA SUR STD",SUR | CNN CHILE
-http://magmas5.com:8000/malotv/gratis/135651
-#EXTINF:-1 tvg-id="NTN24.co" tvg-name="SUR | NTN 24" tvg-logo="https://uscpr.org/wp-content/uploads/2019/08/bbc-world-news-logo-png-6.png" group-title="CANALES AMÉRICA SUR STD",SUR | NTN 24
-http://magmas5.com:8000/malotv/gratis/135652
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="ARG | FOX NEWS " tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-news-logo-black-and-white.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX NEWS 
-http://magmas5.com:8000/malotv/gratis/135654
-#EXTINF:-1 tvg-id="BBCWorldNewsNorthAmerica.uk" tvg-name="SUR | BBC WORLD NEWS" tvg-logo="https://uscpr.org/wp-content/uploads/2019/08/bbc-world-news-logo-png-6.png" group-title="CANALES AMÉRICA SUR STD",SUR | BBC WORLD NEWS
-http://magmas5.com:8000/malotv/gratis/135655
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="SUR | CNN INTERNACIONAL" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="CANALES AMÉRICA SUR STD",SUR | CNN INTERNACIONAL
-http://magmas5.com:8000/malotv/gratis/135657
-#EXTINF:-1 tvg-id="" tvg-name="SUR | FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | FOOD NETWORK
-http://magmas5.com:8000/malotv/gratis/135658
-#EXTINF:-1 tvg-id="StudioUniversalSouth.us" tvg-name="ARG | STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | STUDIO UNIVERSAL
-http://magmas5.com:8000/malotv/gratis/135659
-#EXTINF:-1 tvg-id="WOBI.ar" tvg-name="SUR | WOBI " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | WOBI 
-http://magmas5.com:8000/malotv/gratis/135660
-#EXTINF:-1 tvg-id="" tvg-name="SUR | DISCOVERY CIVILITATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISCOVERY CIVILITATION
-http://magmas5.com:8000/malotv/gratis/135661
-#EXTINF:-1 tvg-id="ISatSouth.us" tvg-name="ARG | I-SAT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | I-SAT 
-http://magmas5.com:8000/malotv/gratis/135662
-#EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-name="ARG | UNIVERSAL CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | UNIVERSAL CHANNEL SD
-http://magmas5.com:8000/malotv/gratis/135663
-#EXTINF:-1 tvg-id="HolaTVLatinAmerica.es" tvg-name="SUR | HOLA TV" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="CANALES AMÉRICA SUR STD",SUR | HOLA TV
-http://magmas5.com:8000/malotv/gratis/135665
-#EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-name="ARG | WARNER SD" tvg-logo="https://image.flaticon.com/icons/png/512/870/870980.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | WARNER SD
-http://magmas5.com:8000/malotv/gratis/135664
-#EXTINF:-1 tvg-id="" tvg-name="SUR | DISCOVERY WORLD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISCOVERY WORLD SD
-http://magmas5.com:8000/malotv/gratis/135666
-#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="SUR | DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISCOVERY SCIENCE
-http://magmas5.com:8000/malotv/gratis/135667
-#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="SUR | HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CANALES AMÉRICA SUR STD",SUR | HISTORY 2
-http://magmas5.com:8000/malotv/gratis/135668
-#EXTINF:-1 tvg-id="" tvg-name="SUR | HLN" tvg-logo="http://assets.stickpng.com/images/5848270acef1014c0b5e49df.png" group-title="CANALES AMÉRICA SUR STD",SUR | HLN
-http://magmas5.com:8000/malotv/gratis/135669
-#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-name="ARG | PARAMOUNT NETWORK" tvg-logo="http://assets.stickpng.com/images/58483b6584e35b574e745380.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | PARAMOUNT NETWORK
-http://magmas5.com:8000/malotv/gratis/135670
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.us" tvg-name=" SUR | DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANALES AMÉRICA SUR STD", SUR | DISCOVERY H&H
-http://magmas5.com:8000/malotv/gratis/135671
-#EXTINF:-1 tvg-id="NationalGeographicWildPanregional.us" tvg-name="SUR | NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | NAT GEO WILD
-http://magmas5.com:8000/malotv/gratis/135672
-#EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-name="SUR | ID INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | ID INVESTIGATION DISCOVERY
-http://magmas5.com:8000/malotv/gratis/135673
-#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="ARG | HBO MUNDI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | HBO MUNDI SD
-http://magmas5.com:8000/malotv/gratis/135674
-#EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-name="SUR | NATIONAL GEOGRAPHIC" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | NATIONAL GEOGRAPHIC
-http://magmas5.com:8000/malotv/gratis/135675
-#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="SUR | EL GOURMET" tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="CANALES AMÉRICA SUR STD",SUR | EL GOURMET
-http://magmas5.com:8000/malotv/gratis/135676
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="ARG | HBO XTREME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | HBO XTREME SD
-http://magmas5.com:8000/malotv/gratis/135677
-#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="ARG | DISCOVERY THEATER SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/800px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | DISCOVERY THEATER SD
-http://magmas5.com:8000/malotv/gratis/135678
-#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="ARG | EUROPA EUROPA SD" tvg-logo="http://4.bp.blogspot.com/-N2JWj9sGY3g/VM0ud4XFH6I/AAAAAAAAACI/d_CFWzH9pVQ/s1600/europaeuropa.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | EUROPA EUROPA SD
-http://magmas5.com:8000/malotv/gratis/135679
-#EXTINF:-1 tvg-id="DisneyJuniorWest.us" tvg-name="SUR | DISNEY JR." tvg-logo="https://i1.wp.com/kindpng.com/picc/m/19-194195_disney-junior-logo-disney-junior-channel-logo-hd.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISNEY JR.
-http://magmas5.com:8000/malotv/gratis/135709
-#EXTINF:-1 tvg-id="AESouth.us" tvg-name="ARG | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | A&E
-http://magmas5.com:8000/malotv/gratis/135653
-#EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-name="ARG | FILM&ARTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FILM&ARTS SD
-http://magmas5.com:8000/malotv/gratis/135781
-#EXTINF:-1 tvg-id="ClaroCinema.mx" tvg-name="ARG | CLARO CINEMA" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2SzoSJd5lT0ZmR0PxMxktc/cc2214cecf0cc9d307d6b7ef54a46b98/41_ClaroCinema.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | CLARO CINEMA
-http://magmas5.com:8000/malotv/gratis/135782
-#EXTINF:-1 tvg-id="TNTSouth.us" tvg-name="ARG | TNT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | TNT SD
-http://magmas5.com:8000/malotv/gratis/135783
-#EXTINF:-1 tvg-id="ESPN2HDArgentina.ar" tvg-name="ARG | ESPN 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | ESPN 2 SD
-http://magmas5.com:8000/malotv/gratis/135784
-#EXTINF:-1 tvg-id="CDMInternacional.pr" tvg-name="Puerto Rico|| CDM Internacional" tvg-logo="https://4.bp.blogspot.com/-D--Pt2otOhA/WoHsvQlirsI/AAAAAAAAcGQ/J7Oa7fInBOAzpJ3FS77Y0JMRwrsWTyTXQCLcBGAs/s1600/CDMinternacional.png" group-title="PUERTO RICO",Puerto Rico|| CDM Internacional
-http://magmas5.com:8000/malotv/gratis/135789
-#EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-name="ARG | INVESTIGATION DISCOVERY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | INVESTIGATION DISCOVERY SD
-http://magmas5.com:8000/malotv/gratis/135790
-#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="ARG | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | Discovery Science
-http://magmas5.com:8000/malotv/gratis/135791
-#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="ARG | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | History 2
-http://magmas5.com:8000/malotv/gratis/135792
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="ARG | Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | Discovery Home & Health
-http://magmas5.com:8000/malotv/gratis/135793
-#EXTINF:-1 tvg-id="DiscoveryWorldHDPanregional.us" tvg-name="ARG | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | Discovery World
-http://magmas5.com:8000/malotv/gratis/135794
-#EXTINF:-1 tvg-id="HGTVPanregional.us" tvg-name="ARG | DISCOVERY CIVILIZATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | DISCOVERY CIVILIZATION
-http://magmas5.com:8000/malotv/gratis/135821
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="ARG | CNN ESPAÑOL" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | CNN ESPAÑOL
-http://magmas5.com:8000/malotv/gratis/135867
-#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="ARG | EL GOURMET" tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | EL GOURMET
-http://magmas5.com:8000/malotv/gratis/135878
-#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="26 | EL GOURMET SUR" tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="CANALES AMÉRICA SUR HD",26 | EL GOURMET SUR
-http://magmas5.com:8000/malotv/gratis/135879
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="27 | TV5 MONDE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/1280px-TV5Monde_Logo.svg.png" group-title="CANALES AMÉRICA SUR HD",27 | TV5 MONDE HD
-http://magmas5.com:8000/malotv/gratis/135880
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TV5 MONDE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/1280px-TV5Monde_Logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | TV5 MONDE SD
-http://magmas5.com:8000/malotv/gratis/135881
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SIMPSONS HD" tvg-logo="http://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="CANALES 24/7",24/7 | LOS SIMPSONS HD
-http://magmas5.com:8000/malotv/gratis/136246
-#EXTINF:-1 tvg-id="" tvg-name="27 | CLARO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1024px-Claro_Sports_logo.svg.png" group-title="DEPORTES SD",27 | CLARO SPORTS
-http://magmas5.com:8000/malotv/gratis/136449
-#EXTINF:-1 tvg-id="" tvg-name="28 | Ticavision Canal 52 HD" tvg-logo="https://forounivers.com/uploads/monthly_2018_11/large.logo_ticavision.png.9acd16e9068c43e42fafe94726d01da4.png" group-title="COSTA RICA",28 | Ticavision Canal 52 HD
-http://magmas5.com:8000/malotv/gratis/137079
-#EXTINF:-1 tvg-id="" tvg-name="30 | ESPN EXTRA MX" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png" group-title="DEPORTES SD",30 | ESPN EXTRA MX
-http://magmas5.com:8000/malotv/gratis/138192
-#EXTINF:-1 tvg-id="HispanTV.ir" tvg-name="67 | HISPAN TV NOTICIAS HD" tvg-logo="https://i.pinimg.com/originals/32/fc/33/32fc3339b7be189bc9bc498eb6655f4b.jpg" group-title="VARIEDADES",67 | HISPAN TV NOTICIAS HD
-http://magmas5.com:8000/malotv/gratis/139474
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peppa Pig FHD" tvg-logo="https://as01.epimg.net/meristation/imagenes/2021/05/24/videos/1621837794_049380_1621837848_portada_normal.jpg" group-title="CANALES 24/7",24/7 | Peppa Pig FHD
-http://magmas5.com:8000/malotv/gratis/140377
-#EXTINF:-1 tvg-id="" tvg-name="31 | FUTV TV OPC. 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/640px-Logo_de_FUTV.svg.png" group-title="DEPORTES SD",31 | FUTV TV OPC. 2 SD
-http://magmas5.com:8000/malotv/gratis/140409
-#EXTINF:-1 tvg-id="CitytvBogota.co" tvg-name="34 | CITY TV" tvg-logo="" group-title="COLOMBIA  ",34 | CITY TV
-http://magmas5.com:8000/malotv/gratis/140410
-#EXTINF:-1 tvg-id="" tvg-name="------------BOLIVIA--------------" tvg-logo="" group-title="BOLIVIA",------------BOLIVIA--------------
-http://magmas5.com:8000/malotv/gratis/140411
-#EXTINF:-1 tvg-id="" tvg-name="--------- Series -----------" tvg-logo="" group-title="ESPAÑA SERIES",--------- Series -----------
-http://magmas5.com:8000/malotv/gratis/126349
-#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="ES || MOVISTAR SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFhhhPnK5f889L6BjbbeP_vcq9AJnH1P-xlngMI7bQpARQv6SZckldjOPvkNtxOQooR5Y&usqp=CAU" group-title="ESPAÑA SERIES",ES || MOVISTAR SERIES
-http://magmas5.com:8000/malotv/gratis/126350
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES || MOVISTAR SERIES HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || MOVISTAR SERIES HD
-http://magmas5.com:8000/malotv/gratis/126351
-#EXTINF:-1 tvg-id="I24.91195.schedulesdirect.org" tvg-name="ES || MOVISTAR SERIES FULLHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || MOVISTAR SERIES FULLHD
-http://magmas5.com:8000/malotv/gratis/126352
-#EXTINF:-1 tvg-id="HBOXtremeHDLatinAmerica.us" tvg-name="ES || XTREM HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || XTREM HD
-http://magmas5.com:8000/malotv/gratis/126353
-#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="ES || TNT HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || TNT HD
-http://magmas5.com:8000/malotv/gratis/126354
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES || MOVISTAR SERIESMANIA" tvg-logo="" group-title="ESPAÑA SERIES",ES || MOVISTAR SERIESMANIA
-http://magmas5.com:8000/malotv/gratis/126355
-#EXTINF:-1 tvg-id="I24.91195.schedulesdirect.org" tvg-name="ES || MOVISTAR SERIESMANIA FULLHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || MOVISTAR SERIESMANIA FULLHD
-http://magmas5.com:8000/malotv/gratis/126356
-#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES || CALLE 13" tvg-logo="" group-title="ESPAÑA SERIES",ES || CALLE 13
-http://magmas5.com:8000/malotv/gratis/126357
-#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES || CALLE 13 FULLHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || CALLE 13 FULLHD
-http://magmas5.com:8000/malotv/gratis/126358
-#EXTINF:-1 tvg-id="FoxSpain.es" tvg-name="ES || FOX FULLHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || FOX FULLHD
-http://magmas5.com:8000/malotv/gratis/126360
-#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="ES || FOX LIFE" tvg-logo="" group-title="ESPAÑA SERIES",ES || FOX LIFE
-http://magmas5.com:8000/malotv/gratis/126361
-#EXTINF:-1 tvg-id="FoxLifeSpain.es" tvg-name="ES || FOX LIFE FHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || FOX LIFE FHD
-http://magmas5.com:8000/malotv/gratis/126362
-#EXTINF:-1 tvg-id="I12.86996.schedulesdirect.org" tvg-name="ES || AXN" tvg-logo="" group-title="ESPAÑA SERIES",ES || AXN
-http://magmas5.com:8000/malotv/gratis/126363
-#EXTINF:-1 tvg-id="AXNEurope.gr" tvg-name="ES || AXN HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || AXN HD
-http://magmas5.com:8000/malotv/gratis/126364
-#EXTINF:-1 tvg-id="AXNEurope.gr" tvg-name="ES || AXN FULL HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || AXN FULL HD
-http://magmas5.com:8000/malotv/gratis/126365
-#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="ES || AXN  WHITE" tvg-logo="" group-title="ESPAÑA SERIES",ES || AXN  WHITE
-http://magmas5.com:8000/malotv/gratis/126366
-#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="ES || AXN  WHITE FHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || AXN  WHITE FHD
-http://magmas5.com:8000/malotv/gratis/126367
-#EXTINF:-1 tvg-id="I14.87057.schedulesdirect.org" tvg-name="ES || AMC" tvg-logo="" group-title="ESPAÑA SERIES",ES || AMC
-http://magmas5.com:8000/malotv/gratis/126368
-#EXTINF:-1 tvg-id="AMCSpain.es" tvg-name="ES || AMC FHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || AMC FHD
-http://magmas5.com:8000/malotv/gratis/126369
-#EXTINF:-1 tvg-id="I10.87056.schedulesdirect.org" tvg-name="ES || FOX LIVE HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || FOX LIVE HD
-http://magmas5.com:8000/malotv/gratis/126370
-#EXTINF:-1 tvg-id="I10.87056.schedulesdirect.org" tvg-name="ES || FOX HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || FOX HD
-http://magmas5.com:8000/malotv/gratis/126371
-#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="ES || TNT" tvg-logo="" group-title="ESPAÑA SERIES",ES || TNT
-http://magmas5.com:8000/malotv/gratis/126372
-#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="ES || TNT FHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || TNT FHD
-http://magmas5.com:8000/malotv/gratis/126373
-#EXTINF:-1 tvg-id="I244.58623.schedulesdirect.org" tvg-name="ES || SYFY" tvg-logo="" group-title="ESPAÑA SERIES",ES || SYFY
-http://magmas5.com:8000/malotv/gratis/126374
-#EXTINF:-1 tvg-id="SyfySpain.us" tvg-name="ES || SYFY HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || SYFY HD
-http://magmas5.com:8000/malotv/gratis/126375
-#EXTINF:-1 tvg-id="SyfySpain.us" tvg-name="ES || SYFY FHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || SYFY FHD
-http://magmas5.com:8000/malotv/gratis/126376
-#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES || CALLE 13 HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || CALLE 13 HD
-http://magmas5.com:8000/malotv/gratis/126377
-#EXTINF:-1 tvg-id="" tvg-name="ES || COSMOS" tvg-logo="" group-title="ESPAÑA SERIES",ES || COSMOS
-http://magmas5.com:8000/malotv/gratis/126378
-#EXTINF:-1 tvg-id="" tvg-name="ES || COSMOS HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || COSMOS HD
-http://magmas5.com:8000/malotv/gratis/126379
-#EXTINF:-1 tvg-id="CosmopolitanTV.es" tvg-name="ES || COSMOPOLITAN  FULLHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || COSMOPOLITAN  FULLHD
-http://magmas5.com:8000/malotv/gratis/126380
-#EXTINF:-1 tvg-id="ComedyCentralSpain.es" tvg-name="ES || COMEDY  CENTRAL" tvg-logo="" group-title="ESPAÑA SERIES",ES || COMEDY  CENTRAL
-http://magmas5.com:8000/malotv/gratis/126381
-#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="ES || AXN WHITE HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || AXN WHITE HD
-http://magmas5.com:8000/malotv/gratis/126382
-#EXTINF:-1 tvg-id="ComedyCentralSpain.es" tvg-name="ES || COMEDY CENTRAL FULLHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || COMEDY CENTRAL FULLHD
-http://magmas5.com:8000/malotv/gratis/126383
-#EXTINF:-1 tvg-id="" tvg-name="ES || MTV" tvg-logo="" group-title="ESPAÑA SERIES",ES || MTV
-http://magmas5.com:8000/malotv/gratis/126384
-#EXTINF:-1 tvg-id="" tvg-name="ES || FDF" tvg-logo="" group-title="ESPAÑA SERIES",ES || FDF
-http://magmas5.com:8000/malotv/gratis/126385
-#EXTINF:-1 tvg-id="I62.99862.schedulesdirect.org" tvg-name="ES || DKISS" tvg-logo="" group-title="ESPAÑA SERIES",ES || DKISS
-http://magmas5.com:8000/malotv/gratis/126386
-#EXTINF:-1 tvg-id="" tvg-name="ES || A3SERIES" tvg-logo="" group-title="ESPAÑA SERIES",ES || A3SERIES
-http://magmas5.com:8000/malotv/gratis/126387
-#EXTINF:-1 tvg-id="I10.87056.schedulesdirect.org" tvg-name="ES || FOX" tvg-logo="" group-title="ESPAÑA SERIES",ES || FOX
-http://magmas5.com:8000/malotv/gratis/126359
-#EXTINF:-1 tvg-id="" tvg-name="01 | GOL PERU HD" tvg-logo="" group-title="PERU - LIGA 1⚽",01 | GOL PERU HD
-http://magmas5.com:8000/malotv/gratis/140568
-#EXTINF:-1 tvg-id="" tvg-name="02 | GOL PERU FHD" tvg-logo="" group-title="PERU - LIGA 1⚽",02 | GOL PERU FHD
-http://magmas5.com:8000/malotv/gratis/140569
-#EXTINF:-1 tvg-id="" tvg-name="03 | LATINA" tvg-logo="" group-title="PERU - LIGA 1⚽",03 | LATINA
-http://magmas5.com:8000/malotv/gratis/140570
-#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="04 | MOVISTAR DEPORTES" tvg-logo="" group-title="PERU - LIGA 1⚽",04 | MOVISTAR DEPORTES
-http://magmas5.com:8000/malotv/gratis/140572
-#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="05 | MOVISTAR DEPORTES" tvg-logo="" group-title="PERU - LIGA 1⚽",05 | MOVISTAR DEPORTES
-http://magmas5.com:8000/malotv/gratis/140574
-#EXTINF:-1 tvg-id="" tvg-name="19 | ACV VISIÓN HD AZOGUES" tvg-logo="https://static.wixstatic.com/media/d75a0b_9687b20db9334e2dac1b89c4e43347f3~mv2.png" group-title="ECUADOR ",19 | ACV VISIÓN HD AZOGUES
-http://magmas5.com:8000/malotv/gratis/140814
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Blooppers HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/250px-AFHV_new_logo_%28main%29.png" group-title="CANALES 24/7",24/7 | Blooppers HD
-http://magmas5.com:8000/malotv/gratis/140815
-#EXTINF:-1 tvg-id="" tvg-name="25 | BH TV HD " tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="PERU",25 | BH TV HD 
-http://magmas5.com:8000/malotv/gratis/140818
-#EXTINF:-1 tvg-id="HolaTVLatinAmerica.es" tvg-name="21 | HOLA TV MX UHD®" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="CULTURA UHD",21 | HOLA TV MX UHD®
-http://magmas5.com:8000/malotv/gratis/140819
-#EXTINF:-1 tvg-id="" tvg-name="30 | CANAL 38 MUSIC TV  HD" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/Logo-Nuevo-400.jpg" group-title="COSTA RICA",30 | CANAL 38 MUSIC TV  HD
-http://magmas5.com:8000/malotv/gratis/140820
-#EXTINF:-1 tvg-id="" tvg-name="SUR | CANAL 12 UY (MELO)" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_01/large.sketch-1578632772638.png.1192c67bb9b37970791d8201a7434b41.png" group-title="CANALES AMÉRICA SUR STD",SUR | CANAL 12 UY (MELO)
-http://magmas5.com:8000/malotv/gratis/140823
-#EXTINF:-1 tvg-id="" tvg-name="27 | CANAL 12 (MELO) HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_01/large.sketch-1578632772638.png.1192c67bb9b37970791d8201a7434b41.png" group-title="URUGUAY",27 | CANAL 12 (MELO) HD
-http://magmas5.com:8000/malotv/gratis/140824
-#EXTINF:-1 tvg-id="HLN.us" tvg-name="USA | HLN HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1200px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="USA",USA | HLN HD 
-http://magmas5.com:8000/malotv/gratis/140825
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | BARON ROJO HD" tvg-logo="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/2771.png" group-title="CANALES 24/7",24/7 | BARON ROJO HD
-http://magmas5.com:8000/malotv/gratis/140841
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | BEN 10 FUERZA ALIENIGENA HD " tvg-logo="https://2.bp.blogspot.com/-TzCqFw6xpDQ/V_PWw-VyJJI/AAAAAAAAAX8/av8KfBKc2_gXuISVbL9ny6T_niOLtskxQCEw/s1600/prop_nav_slice_ben10af.png" group-title="CANALES 24/7",24/7 | BEN 10 FUERZA ALIENIGENA HD 
-http://magmas5.com:8000/malotv/gratis/140842
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | BEN 10 HD" tvg-logo="https://e7.pngegg.com/pngimages/597/703/png-clipart-ben-10-animated-series-storyboard-others-miscellaneous-reading.png" group-title="CANALES 24/7",24/7 | BEN 10 HD
-http://magmas5.com:8000/malotv/gratis/140843
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | BIRDMAN " tvg-logo="https://img2.freepng.es/20190523/lau/kisspng-harvey-birdman-animated-cartoon-hanna-barbera-comi-avenger-sitting-on-birdmans-arm-5ce63b74832244.6602266615585923725371.jpg" group-title="CANALES 24/7",24/7 | BIRDMAN 
-http://magmas5.com:8000/malotv/gratis/140844
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPULÍN COLORADO ANIMADO" tvg-logo="https://www.clipartmax.com/png/middle/164-1644538_el-chapulin-colorado-chapulin-colorado-en-png.png" group-title="CANALES 24/7",24/7 | EL CHAPULÍN COLORADO ANIMADO
-http://magmas5.com:8000/malotv/gratis/140845
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DANIEL EL TRAVIESO" tvg-logo="https://3.bp.blogspot.com/-WR6-Gz-vZng/VG4GF3jbl4I/AAAAAAAApP4/p2Q6jLzT5fI/s1600/DANI-111.jpg" group-title="CANALES 24/7",24/7 | DANIEL EL TRAVIESO
-http://magmas5.com:8000/malotv/gratis/140846
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DICK TRACY" tvg-logo="https://toppng.com/uploads/preview/dick-tracy-vector-logo-free-download-11574190303yfzhlq6drg.png" group-title="CANALES 24/7",24/7 | DICK TRACY
-http://magmas5.com:8000/malotv/gratis/140847
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DIGIMON ADVENTURE " tvg-logo="https://w7.pngwing.com/pngs/732/616/png-transparent-logo-agumon-palmon-digimon-adventure-tri-digimon-game-text-logo.png" group-title="CANALES 24/7",24/7 | DIGIMON ADVENTURE 
-http://magmas5.com:8000/malotv/gratis/140848
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | AFV HOME HD " tvg-logo="http://cdn.teleon.tv/logo/afv-espanol-us.png" group-title="CANALES 24/7",24/7 | AFV HOME HD 
-http://magmas5.com:8000/malotv/gratis/140867
-#EXTINF:-1 tvg-id="BBCWorldNewsNorthAmerica.uk" tvg-name="10 | BBC WORLD NEWS" tvg-logo="https://seeklogo.com/images/B/bbc-news-global-logo-AAC6CDF27E-seeklogo.com.png" group-title="NOTICIAS - NEWS - 24/7",10 | BBC WORLD NEWS
-http://magmas5.com:8000/malotv/gratis/141387
-#EXTINF:-1 tvg-id="" tvg-name="01 - NOVEDADES ESTRENOS VOD Y SERIES (JULIO - AGOSTO)" tvg-logo="https://www.vhv.rs/dpng/d/162-1626944_official-trailer-png-transparent-png.png" group-title="NOVEDADES DEL SERVICIO",01 - NOVEDADES ESTRENOS VOD Y SERIES (JULIO - AGOSTO)
-http://magmas5.com:8000/malotv/gratis/141619
-#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="35 | TELE ISLAS" tvg-logo="https://png.pngitem.com/pimgs/s/80-806582_caracol-noticias-hd-png-download.png" group-title="COLOMBIA  ",35 | TELE ISLAS
-http://magmas5.com:8000/malotv/gratis/141622
-#EXTINF:-1 tvg-id="" tvg-name="02 - MULTIVIEW CANALES DE DEPORTES" tvg-logo="" group-title="NOVEDADES DEL SERVICIO",02 - MULTIVIEW CANALES DE DEPORTES
-http://magmas5.com:8000/malotv/gratis/141626
-#EXTINF:-1 tvg-id="" tvg-name="03 - MULTIVIEW CANALES DE CULTURA" tvg-logo="" group-title="NOVEDADES DEL SERVICIO",03 - MULTIVIEW CANALES DE CULTURA
-http://magmas5.com:8000/malotv/gratis/141627
-#EXTINF:-1 tvg-id="" tvg-name="04 - MULTIVIEW CANALES DE CINE" tvg-logo="" group-title="NOVEDADES DEL SERVICIO",04 - MULTIVIEW CANALES DE CINE
-http://magmas5.com:8000/malotv/gratis/141628
-#EXTINF:-1 tvg-id="" tvg-name="53 || SEO TV  HD" tvg-logo="https://renuevadigital.com.bo/assets/img/icono.png" group-title="BOLIVIA",53 || SEO TV  HD
-http://magmas5.com:8000/malotv/gratis/141629
-#EXTINF:-1 tvg-id="" tvg-name="54 || ESTRELLA TV HD" tvg-logo="https://listinusa.net/wp-content/uploads/2018/01/estrella-TV-logo.png" group-title="BOLIVIA",54 || ESTRELLA TV HD
-http://magmas5.com:8000/malotv/gratis/141630
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TIGO SPORTS FHD" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | TIGO SPORTS FHD
-http://magmas5.com:8000/malotv/gratis/141924
-#EXTINF:-1 tvg-id="" tvg-name="21 | MAROÑAS TV HD" tvg-logo="https://seeklogo.com/images/M/maro__as-logo-E873D14D49-seeklogo.com.png" group-title="URUGUAY",21 | MAROÑAS TV HD
-http://magmas5.com:8000/malotv/gratis/142016
-#EXTINF:-1 tvg-id="" tvg-name="22 | GOLTV HD UY (Fútbol)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png" group-title="URUGUAY",22 | GOLTV HD UY (Fútbol)
-http://magmas5.com:8000/malotv/gratis/142017
-#EXTINF:-1 tvg-id="" tvg-name="23 | TV CIUDAD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_Tev%C3%A9_Ciudad.png" group-title="URUGUAY",23 | TV CIUDAD HD
-http://magmas5.com:8000/malotv/gratis/142018
-#EXTINF:-1 tvg-id="DAZN2Spain.uk" tvg-name="18 | DAZN 2" tvg-logo="" group-title="⚽LIGAS DE FÚTBOL EUROPA⚽",18 | DAZN 2
-http://magmas5.com:8000/malotv/gratis/144815
-#EXTINF:-1 tvg-id="DAZN3Spain.uk" tvg-name="19 | DAZN 3" tvg-logo="" group-title="⚽LIGAS DE FÚTBOL EUROPA⚽",19 | DAZN 3
-http://magmas5.com:8000/malotv/gratis/144816
-#EXTINF:-1 tvg-id="DAZN4Spain.uk" tvg-name="20 |   DAZN 4" tvg-logo="" group-title="⚽LIGAS DE FÚTBOL EUROPA⚽",20 |   DAZN 4
-http://magmas5.com:8000/malotv/gratis/144817
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="21 | BT SPORT 1" tvg-logo="" group-title="⚽LIGAS DE FÚTBOL EUROPA⚽",21 | BT SPORT 1
-http://magmas5.com:8000/malotv/gratis/144818
-#EXTINF:-1 tvg-id="" tvg-name="22 | BT SPORT 2" tvg-logo="" group-title="⚽LIGAS DE FÚTBOL EUROPA⚽",22 | BT SPORT 2
-http://magmas5.com:8000/malotv/gratis/144819
-#EXTINF:-1 tvg-id="" tvg-name="23 | BT SPORT 3 UK" tvg-logo="" group-title="⚽LIGAS DE FÚTBOL EUROPA⚽",23 | BT SPORT 3 UK
-http://magmas5.com:8000/malotv/gratis/144820
-#EXTINF:-1 tvg-id="" tvg-name="24 | ELEVEN SPORTS" tvg-logo="" group-title="⚽LIGAS DE FÚTBOL EUROPA⚽",24 | ELEVEN SPORTS
-http://magmas5.com:8000/malotv/gratis/144821
-#EXTINF:-1 tvg-id="" tvg-name="25 | ELEVEN SPORTS 2" tvg-logo="" group-title="⚽LIGAS DE FÚTBOL EUROPA⚽",25 | ELEVEN SPORTS 2
-http://magmas5.com:8000/malotv/gratis/144822
-#EXTINF:-1 tvg-id="" tvg-name="26 | ELEVEN SPORTS 3" tvg-logo="" group-title="⚽LIGAS DE FÚTBOL EUROPA⚽",26 | ELEVEN SPORTS 3
-http://magmas5.com:8000/malotv/gratis/144823
-#EXTINF:-1 tvg-id="CDN.do" tvg-name="RD | CDN 37" tvg-logo="" group-title="REPUBLICA DOMINICANA",RD | CDN 37
-http://magmas5.com:8000/malotv/gratis/144858
-#EXTINF:-1 tvg-id="CDOPremium.cl" tvg-name="SUR | CDO PREMIUM CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CDO_Premium.png/768px-CDO_Premium.png" group-title="CANALES AMÉRICA SUR STD",SUR | CDO PREMIUM CHILE
-http://magmas5.com:8000/malotv/gratis/144859
-#EXTINF:-1 tvg-id="" tvg-name="16 | UES TV " tvg-logo="https://www.uestv.cl//wp-content/uploads/2018/07/uestvlogo.png" group-title="CHILE",16 | UES TV 
-http://magmas5.com:8000/malotv/gratis/144860
-#EXTINF:-1 tvg-id="ViaX.cl" tvg-name="17 | VIA X " tvg-logo="https://4.bp.blogspot.com/-FBrwdKFc0nA/V_hKp2bmwNI/AAAAAAAAA4Q/yTl6it4C6QcXJ4SB8S21NSrwZ8sifqTjgCLcB/s1600/V%25C3%25ADa%2BX%2B%25281994%2529.png" group-title="CHILE",17 | VIA X 
-http://magmas5.com:8000/malotv/gratis/145177
-#EXTINF:-1 tvg-id="" tvg-name="18 | TV+ HD" tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2018/10/tv_logos-rgb_fondoblanco-azuloscuro-azul-2.jpg" group-title="CHILE",18 | TV+ HD
-http://magmas5.com:8000/malotv/gratis/145178
-#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="68 | AZTECA CLICK UHD®  MX" tvg-logo="https://www.eluniversal.com.mx/sites/default/files/2016/11/09/ALFOMBRA-E13-EU101116-2_Drupal%20Main%20Image.var_1478751216.jpg" group-title="VARIEDADES",68 | AZTECA CLICK UHD®  MX
-http://magmas5.com:8000/malotv/gratis/145507
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="69 | AZTECA CORAZÓN UHD® MX" tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="VARIEDADES",69 | AZTECA CORAZÓN UHD® MX
-http://magmas5.com:8000/malotv/gratis/145510
-#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="70 | AZTECA CINEMA UHD® MX" tvg-logo="http://4.bp.blogspot.com/-uStAfYrbZKg/Wffx-gHwe8I/AAAAAAAAAKI/zyHMYDEwt8cidArT2Q1I5mzsRW0Th-WsQCK4BGAYYCw/s1600/azcinema_thumb.png" group-title="VARIEDADES",70 | AZTECA CINEMA UHD® MX
-http://magmas5.com:8000/malotv/gratis/145511
-#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="36 | CANAL INSTITUCIONAL" tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="COLOMBIA  ",36 | CANAL INSTITUCIONAL
-http://magmas5.com:8000/malotv/gratis/145647
-#EXTINF:-1 tvg-id="" tvg-name="11 | NICARAGUA | Canal 14" tvg-logo="" group-title="NICARAGUA",11 | NICARAGUA | Canal 14
-http://magmas5.com:8000/malotv/gratis/145650
-#EXTINF:-1 tvg-id="Gamavision.ec" tvg-name="20 | GAMAVISION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Gama_tv_1995.png" group-title="ECUADOR ",20 | GAMAVISION
-http://magmas5.com:8000/malotv/gratis/145740
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | WOW TV" tvg-logo="https://cordcutting.com/wp-content/uploads/2020/08/WOW_Logo_only.png" group-title="EL SALVADOR",EL SALVADOR | WOW TV
-http://magmas5.com:8000/malotv/gratis/145741
-#EXTINF:-1 tvg-id="" tvg-name="21 | CANELA TV" tvg-logo="https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif" group-title="ECUADOR ",21 | CANELA TV
-http://magmas5.com:8000/malotv/gratis/145742
-#EXTINF:-1 tvg-id="Teleunion.do" tvg-name="RD | TELEUNION" tvg-logo="http://teleuniontvrd.com/portal/wp-content/themes/rt_manticore/images/logoteleunionsmall.png" group-title="REPUBLICA DOMINICANA",RD | TELEUNION
-http://magmas5.com:8000/malotv/gratis/145743
-#EXTINF:-1 tvg-id="EstrellaTVEast.us" tvg-name="Puerto Rico|| ESTRELLA TV Miami HD" tvg-logo="https://mms.businesswire.com/media/20190319005772/en/711406/23/ETV_Canal8_Miami_1_300dpi%5B1%5D.jpg" group-title="PUERTO RICO",Puerto Rico|| ESTRELLA TV Miami HD
-http://magmas5.com:8000/malotv/gratis/145744
-#EXTINF:-1 tvg-id="KCNSDT4.us" tvg-name="USA | Estrella TV Miami HD" tvg-logo="https://mms.businesswire.com/media/20190319005772/en/711406/23/ETV_Canal8_Miami_1_300dpi%5B1%5D.jpg" group-title="USA",USA | Estrella TV Miami HD
-http://magmas5.com:8000/malotv/gratis/145745
-#EXTINF:-1 tvg-id="EstrellaTVEast.us" tvg-name="71 | Estrella TV Miami UHD® " tvg-logo="https://mms.businesswire.com/media/20190319005772/en/711406/23/ETV_Canal8_Miami_1_300dpi%5B1%5D.jpg" group-title="VARIEDADES",71 | Estrella TV Miami UHD® 
-http://magmas5.com:8000/malotv/gratis/145746
-#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="GUATEMALA | TV AZTECA GUATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title="GUATEMALA",GUATEMALA | TV AZTECA GUATE
-http://magmas5.com:8000/malotv/gratis/145748
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Super Mario Bros 3" tvg-logo="https://media.vandal.net/t200/22729/super-mario-bros-3-cv-2013122414722_1.jpg" group-title="CANALES 24/7",24/7 | Super Mario Bros 3
-http://magmas5.com:8000/malotv/gratis/145792
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Ed Edd Eddy" tvg-logo="https://mtv.mtvnimages.com/uri/mgid:ao:image:mtv.com:62793?height=729&width=1296&format=jpg&quality=.7" group-title="CANALES 24/7",24/7 | Ed Edd Eddy
-http://magmas5.com:8000/malotv/gratis/145793
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Series: Narcos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZTifXLtPMZfp2PzrvsK2q6IYA6RAgKN_ST_a8_crofEhxXmAZybwqWlbxVpd_BugwJ5U&usqp=CAU" group-title="CANALES 24/7",24/7 | Series: Narcos
-http://magmas5.com:8000/malotv/gratis/145806
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Danny Phantom" tvg-logo="https://static3.srcdn.com/wordpress/wp-content/uploads/2021/07/danny-phantom-show-nickelodeon.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5" group-title="CANALES 24/7",24/7 | Danny Phantom
-http://magmas5.com:8000/malotv/gratis/145826
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cars Disney" tvg-logo="https://i.ytimg.com/vi/bTn6qZ8709Q/maxresdefault.jpg" group-title="CANALES 24/7",24/7 | Cars Disney
-http://magmas5.com:8000/malotv/gratis/145899
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Kenan y Kel" tvg-logo="https://www.vibe.com/wp-content/uploads/2016/07/kenankel-opening1.jpg?w=640" group-title="CANALES 24/7",24/7 | Kenan y Kel
-http://magmas5.com:8000/malotv/gratis/145900
-#EXTINF:-1 tvg-id="" tvg-name="22 | TELERAMA SD" tvg-logo="https://cdn-radiotime-logos.tunein.com/s16585g.png" group-title="ECUADOR ",22 | TELERAMA SD
-http://magmas5.com:8000/malotv/gratis/145908
-#EXTINF:-1 tvg-id="" tvg-name="23 | MULTICANAL CATAMAYO" tvg-logo="https://image.roku.com/developer_channels/prod/0336443cf45042a14d4c6afd062059843ab7d9deb7c3c0c93f88ceba0e3e33eb.png" group-title="ECUADOR ",23 | MULTICANAL CATAMAYO
-http://magmas5.com:8000/malotv/gratis/145909
-#EXTINF:-1 tvg-id="" tvg-name="24 | TVC HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TVCEC.png" group-title="ECUADOR ",24 | TVC HQ
-http://magmas5.com:8000/malotv/gratis/145910
-#EXTINF:-1 tvg-id="VTVPlus.uy" tvg-name="25| VTV + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/1200px-Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",25| VTV + HD
-http://magmas5.com:8000/malotv/gratis/145911
-#EXTINF:-1 tvg-id="" tvg-name="Latino | DJ Fer Palacio - Live Concerts FHD" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb300868ffcd048a9db0a27f84" group-title="MÚSICA UHD",Latino | DJ Fer Palacio - Live Concerts FHD
-http://magmas5.com:8000/malotv/gratis/145913
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Latino - DJ Fer Palacio" tvg-logo="https://i1.sndcdn.com/avatars-000655079435-uxnr5a-t500x500.jpg" group-title="CANALES 24/7",24/7 | Latino - DJ Fer Palacio
-http://magmas5.com:8000/malotv/gratis/145914
-#EXTINF:-1 tvg-id="" tvg-name="37 | CANAL TELEJUNÍN HD" tvg-logo="https://www.elnueve.com/images/brand-blue.png" group-title="ARGENTINA NACIONALES",37 | CANAL TELEJUNÍN HD
-http://magmas5.com:8000/malotv/gratis/146364
-#EXTINF:-1 tvg-id="TVCortosHD.us" tvg-name="38 | TV CORTOS HD " tvg-logo="https://cdn.mitvstatic.com/channels/ar_tv-cortos_m.png" group-title="ARGENTINA NACIONALES",38 | TV CORTOS HD 
-http://magmas5.com:8000/malotv/gratis/146365
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Marc Anthony - Live Concerts" tvg-logo="https://www.attcenter.com/assets/img/MA-Updated-320x320-30d87ae537.jpg" group-title="MÚSICA UHD",Latino | Marc Anthony - Live Concerts
-http://magmas5.com:8000/malotv/gratis/146366
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="39 | AMERICA 24 HD " tvg-logo="https://img2.freepng.es/20180617/wx/kisspng-amrica-24-argentina-television-channel-5b2726e477db86.792259961529292516491.jpg" group-title="ARGENTINA NACIONALES",39 | AMERICA 24 HD 
-http://magmas5.com:8000/malotv/gratis/146369
-#EXTINF:-1 tvg-id="" tvg-name="29 | MC 90s HD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",29 | MC 90s HD
-http://magmas5.com:8000/malotv/gratis/146513
-#EXTINF:-1 tvg-id="" tvg-name="30 |  Brits & Hits HD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",30 |  Brits & Hits HD
-http://magmas5.com:8000/malotv/gratis/146514
-#EXTINF:-1 tvg-id="" tvg-name="31 | MUSIC DANCE FHD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",31 | MUSIC DANCE FHD
-http://magmas5.com:8000/malotv/gratis/146515
-#EXTINF:-1 tvg-id="" tvg-name="32 | Techno Warehous HD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",32 | Techno Warehous HD
-http://magmas5.com:8000/malotv/gratis/146516
-#EXTINF:-1 tvg-id="" tvg-name="33 |MC Hip Hop & R&B HD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",33 |MC Hip Hop & R&B HD
-http://magmas5.com:8000/malotv/gratis/146517
-#EXTINF:-1 tvg-id="" tvg-name="34 | HITS List UHD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",34 | HITS List UHD
-http://magmas5.com:8000/malotv/gratis/146518
-#EXTINF:-1 tvg-id="" tvg-name="35 | MC Indie HD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",35 | MC Indie HD
-http://magmas5.com:8000/malotv/gratis/146519
-#EXTINF:-1 tvg-id="" tvg-name="37 | Music + UHD" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/83399091-2715-4d98-9b32-91bd9670a8ea.jpg" group-title="MÚSICA UHD",37 | Music + UHD
-http://magmas5.com:8000/malotv/gratis/146521
-#EXTINF:-1 tvg-id="" tvg-name="38 | MC Musica URBANa HD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",38 | MC Musica URBANa HD
-http://magmas5.com:8000/malotv/gratis/146522
-#EXTINF:-1 tvg-id="" tvg-name="39 | MC Musica URBANa HD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",39 | MC Musica URBANa HD
-http://magmas5.com:8000/malotv/gratis/146523
-#EXTINF:-1 tvg-id="" tvg-name="40 | MC Pop & Europe HD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",40 | MC Pop & Europe HD
-http://magmas5.com:8000/malotv/gratis/146524
-#EXTINF:-1 tvg-id="" tvg-name="41 | Music Hits " tvg-logo="https://img2.freepng.es/20180406/ttq/kisspng-srf-2-television-logo-schweizer-radio-und-fernsehe-sf-5ac7f4ffcbd344.0012564315230538238349.jpg" group-title="MÚSICA UHD",41 | Music Hits 
-http://magmas5.com:8000/malotv/gratis/146525
-#EXTINF:-1 tvg-id="" tvg-name="42 | MC Pop Latino HD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",42 | MC Pop Latino HD
-http://magmas5.com:8000/malotv/gratis/146526
-#EXTINF:-1 tvg-id="" tvg-name="43 | MC R&B Soul HD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",43 | MC R&B Soul HD
-http://magmas5.com:8000/malotv/gratis/146527
-#EXTINF:-1 tvg-id="" tvg-name="44 | MOLAHITS HD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",44 | MOLAHITS HD
-http://magmas5.com:8000/malotv/gratis/146528
-#EXTINF:-1 tvg-id="" tvg-name="28 | MC Teen Beats HD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",28 | MC Teen Beats HD
-http://magmas5.com:8000/malotv/gratis/146529
-#EXTINF:-1 tvg-id="" tvg-name="27 | Qwest TV Jazz & Beyond 2K" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",27 | Qwest TV Jazz & Beyond 2K
-http://magmas5.com:8000/malotv/gratis/146530
-#EXTINF:-1 tvg-id="" tvg-name="26 | MC Todays Country HD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",26 | MC Todays Country HD
-http://magmas5.com:8000/malotv/gratis/146531
-#EXTINF:-1 tvg-id="" tvg-name="25 | LOOP 4K" tvg-logo="https://ak.picdn.net/shutterstock/videos/1059066506/thumb/5.jpg" group-title="MÚSICA UHD",25 | LOOP 4K
-http://magmas5.com:8000/malotv/gratis/146532
-#EXTINF:-1 tvg-id="" tvg-name="24 | MK TUNES HD" tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",24 | MK TUNES HD
-http://magmas5.com:8000/malotv/gratis/146533
-#EXTINF:-1 tvg-id="" tvg-name="23 |  VEVO HIP HOP 2K " tvg-logo="https://www.logolynx.com/images/logolynx/f1/f1808af3a69c57d743d2c586094d4b7c.png" group-title="MÚSICA UHD",23 |  VEVO HIP HOP 2K 
-http://magmas5.com:8000/malotv/gratis/146534
-#EXTINF:-1 tvg-id="MTV2East.us" tvg-name="22 | MTV 2 HD" tvg-logo="https://w7.pngwing.com/pngs/364/194/png-transparent-i-want-my-mtv-1990s-1980s-logo-others-television-text-logo.png" group-title="MÚSICA UHD",22 | MTV 2 HD
-http://magmas5.com:8000/malotv/gratis/146535
-#EXTINF:-1 tvg-id="MTVClassicEast.us" tvg-name="21 | MTV Classic HD" tvg-logo="https://w7.pngwing.com/pngs/364/194/png-transparent-i-want-my-mtv-1990s-1980s-logo-others-television-text-logo.png" group-title="MÚSICA UHD",21 | MTV Classic HD
-http://magmas5.com:8000/malotv/gratis/146537
-#EXTINF:-1 tvg-id="MTVNorth.us" tvg-name="20 | MTV HD" tvg-logo="https://w7.pngwing.com/pngs/364/194/png-transparent-i-want-my-mtv-1990s-1980s-logo-others-television-text-logo.png" group-title="MÚSICA UHD",20 | MTV HD
-http://magmas5.com:8000/malotv/gratis/146538
-#EXTINF:-1 tvg-id="MTVSouth.us" tvg-name="19 | MTV Live HD" tvg-logo="https://w7.pngwing.com/pngs/364/194/png-transparent-i-want-my-mtv-1990s-1980s-logo-others-television-text-logo.png" group-title="MÚSICA UHD",19 | MTV Live HD
-http://magmas5.com:8000/malotv/gratis/146540
-#EXTINF:-1 tvg-id="" tvg-name="World | DJ DAVID GUETTA (Live Concerts)" tvg-logo="https://cdns-images.dzcdn.net/images/cover/7d4a24e294bb3c228ad96dd75512e2f0/350x350.jpg" group-title="MÚSICA UHD",World | DJ DAVID GUETTA (Live Concerts)
-http://magmas5.com:8000/malotv/gratis/146550
-#EXTINF:-1 tvg-id="" tvg-name="World |  DJ MALAA (Live Concerts)" tvg-logo="https://ih1.redbubble.net/image.1203270058.0687/fposter,small,wall_texture,product,750x1000.jpg" group-title="MÚSICA UHD",World |  DJ MALAA (Live Concerts)
-http://magmas5.com:8000/malotv/gratis/146551
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Romeo Santos - Live Concerts" tvg-logo="https://www.pngkey.com/png/detail/368-3686209_logo-romeo-santos-logo.png" group-title="MÚSICA UHD",Latino | Romeo Santos - Live Concerts
-http://magmas5.com:8000/malotv/gratis/146553
-#EXTINF:-1 tvg-id="" tvg-name="11 | TUDN HD #2" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="MEXICO - LIGA MX ⚽",11 | TUDN HD #2
-http://magmas5.com:8000/malotv/gratis/146603
-#EXTINF:-1 tvg-id="TierraMiaTVHD.ar" tvg-name="40 | TIERRAMIA TV" tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg" group-title="ARGENTINA NACIONALES",40 | TIERRAMIA TV
-http://magmas5.com:8000/malotv/gratis/146604
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="29 | EUROCHANNEL HD" tvg-logo="https://w7.pngwing.com/pngs/949/572/png-transparent-eurochannel-television-channel-television-show-euro-channel-channel-television-blue-text.png" group-title="CANALES AMÉRICA SUR HD",29 | EUROCHANNEL HD
-http://magmas5.com:8000/malotv/gratis/146594
-#EXTINF:-1 tvg-id="" tvg-name="38 | CANAL TVN GLOBAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logotipo_de_TVN_HD_%282016-2020%29.png" group-title="COLOMBIA  ",38 | CANAL TVN GLOBAL HD
-http://magmas5.com:8000/malotv/gratis/146592
-#EXTINF:-1 tvg-id="" tvg-name="37 | CANAL VISION DORADA HD" tvg-logo="http://canalvisiondorada.com.co/images/I_Destacada1024x500.png" group-title="COLOMBIA  ",37 | CANAL VISION DORADA HD
-http://magmas5.com:8000/malotv/gratis/146591
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | CUMBIA DRIVE MIX 2022 (POP, MARCHA Y CUMBIA)" tvg-logo="https://i1.sndcdn.com/avatars-000159046194-vje2hn-t500x500.jpg" group-title="MÚSICA UHD",LATINO | CUMBIA DRIVE MIX 2022 (POP, MARCHA Y CUMBIA)
-http://magmas5.com:8000/malotv/gratis/148241
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | DJ SOL (REGGAETÓN Y CUMBIA)" tvg-logo="https://i.pinimg.com/564x/61/1c/00/611c009fd4ba91b33d151f1d35622f48.jpg" group-title="MÚSICA UHD",LATINO | DJ SOL (REGGAETÓN Y CUMBIA)
-http://magmas5.com:8000/malotv/gratis/148242
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | DJ ALEX (REGGAETÓN Y CUMBIA)" tvg-logo="https://i.scdn.co/image/ab67706c0000bebbb404174b0137cd443a285dd2vfe&ved=0CAsQjRxqFwoTCIDVkfPp1vMCFQAAAAAdAAAAABAD" group-title="MÚSICA UHD",LATINO | DJ ALEX (REGGAETÓN Y CUMBIA)
-http://magmas5.com:8000/malotv/gratis/148398
-#EXTINF:-1 tvg-id="" tvg-name="Puerto Rico|| CANAL 11 HD" tvg-logo="https://pbs.twimg.com/profile_images/554842972244566016/g7cz3Q8h_400x400.png" group-title="PUERTO RICO",Puerto Rico|| CANAL 11 HD
-http://magmas5.com:8000/malotv/gratis/148440
-#EXTINF:-1 tvg-id="" tvg-name="World | DJ FROM MARS (Live Mix Music 2022)" tvg-logo="https://i1.sndcdn.com/avatars-000542005299-zbitmn-t500x500.jpg" group-title="MÚSICA UHD",World | DJ FROM MARS (Live Mix Music 2022)
-http://magmas5.com:8000/malotv/gratis/148543
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | DJ FER PALACIOS (REGGAETÓN - CUMBIA - CACHENGUE)" tvg-logo="https://i1.sndcdn.com/avatars-000655079435-uxnr5a-t500x500.jpg" group-title="DJ'S LIVE (EN VIVO)",LATINO | DJ FER PALACIOS (REGGAETÓN - CUMBIA - CACHENGUE)
-http://magmas5.com:8000/malotv/gratis/148544
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | DJ ALEX (REGGAETÓN - CUMBIA)" tvg-logo="https://i.scdn.co/image/ab67706c0000bebbb404174b0137cd443a285dd2vfe&ved=0CAsQjRxqFwoTCIDVkfPp1vMCFQAAAAAdAAAAABAD" group-title="DJ'S LIVE (EN VIVO)",LATINO | DJ ALEX (REGGAETÓN - CUMBIA)
-http://magmas5.com:8000/malotv/gratis/148545
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | DJ SOL (CUMBIA Y EXITOS 90)" tvg-logo="https://i.pinimg.com/564x/61/1c/00/611c009fd4ba91b33d151f1d35622f48.jpg" group-title="DJ'S LIVE (EN VIVO)",LATINO | DJ SOL (CUMBIA Y EXITOS 90)
-http://magmas5.com:8000/malotv/gratis/148546
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | CUMBIA DRIVE MIX 2022 (MARCHA, POP Y CUMBIA)" tvg-logo="https://i1.sndcdn.com/avatars-000159046194-vje2hn-t500x500.jpg" group-title="DJ'S LIVE (EN VIVO)",LATINO | CUMBIA DRIVE MIX 2022 (MARCHA, POP Y CUMBIA)
-http://magmas5.com:8000/malotv/gratis/148547
-#EXTINF:-1 tvg-id="" tvg-name="WORLD | DJ DAVID GUETTA (Live Concerts) - ENG" tvg-logo="https://cdns-images.dzcdn.net/images/cover/7d4a24e294bb3c228ad96dd75512e2f0/350x350.jpg" group-title="DJ'S LIVE (EN VIVO)",WORLD | DJ DAVID GUETTA (Live Concerts) - ENG
-http://magmas5.com:8000/malotv/gratis/148548
-#EXTINF:-1 tvg-id="" tvg-name="WORLD | DJ MALAA + DJ SNAKE (Live Concerts) - ENG" tvg-logo="https://ih1.redbubble.net/image.1203270058.0687/fposter,small,wall_texture,product,750x1000.jpg" group-title="DJ'S LIVE (EN VIVO)",WORLD | DJ MALAA + DJ SNAKE (Live Concerts) - ENG
-http://magmas5.com:8000/malotv/gratis/148549
-#EXTINF:-1 tvg-id="" tvg-name="WORLD | DJ FROM MARS (Live Mix Music 2022) - ENG" tvg-logo="https://i1.sndcdn.com/avatars-000542005299-zbitmn-t500x500.jpg" group-title="DJ'S LIVE (EN VIVO)",WORLD | DJ FROM MARS (Live Mix Music 2022) - ENG
-http://magmas5.com:8000/malotv/gratis/148550
-#EXTINF:-1 tvg-id="" tvg-name="05 |  CUBAMAX" tvg-logo="https://www.numeroservicioalcliente.com/wp-content/uploads/2019/10/cubamax_logo.png" group-title="CUBA",05 |  CUBAMAX
-http://magmas5.com:8000/malotv/gratis/148795
-#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="25 | TELEAMAZONAS HQ" tvg-logo="https://havanatimesenespanol.org/wp-content/uploads/2020/06/teleamazonas-1280x720.png" group-title="ECUADOR ",25 | TELEAMAZONAS HQ
-http://magmas5.com:8000/malotv/gratis/148881
-#EXTINF:-1 tvg-id="" tvg-name="88 | AFIZZIONADOS HD #1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="DEPORTES UHD ",88 | AFIZZIONADOS HD #1
-http://magmas5.com:8000/malotv/gratis/148889
-#EXTINF:-1 tvg-id="" tvg-name="39 | ATV DIGITAL HD" tvg-logo="https://www.atv.hn/wp-content/uploads/2021/01/cropped-logo.jpg" group-title="HONDURAS",39 | ATV DIGITAL HD
-http://magmas5.com:8000/malotv/gratis/148891
-#EXTINF:-1 tvg-id="" tvg-name="73 | EVTV " tvg-logo="" group-title="VARIEDADES",73 | EVTV 
-http://magmas5.com:8000/malotv/gratis/148987
-#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="09 | FOX SPORTS PREMIUM MX" tvg-logo="https://logos.fandom.com/wiki/Category:Fox_Sports_Premium?file=FOXSportsPremium2019.png" group-title="MEXICO - LIGA MX ⚽",09 | FOX SPORTS PREMIUM MX
-http://magmas5.com:8000/malotv/gratis/146541
-#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.us" tvg-name="10 |  FOX SPORTS DEPORTES HD USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/FOX_Deportes_logo.svg" group-title="MEXICO - LIGA MX ⚽",10 |  FOX SPORTS DEPORTES HD USA
-http://magmas5.com:8000/malotv/gratis/146542
-#EXTINF:-1 tvg-id="" tvg-name="Puerto Rico|| Wapa DEPORTES" tvg-logo="" group-title="PUERTO RICO",Puerto Rico|| Wapa DEPORTES
-http://magmas5.com:8000/malotv/gratis/126530
-#EXTINF:-1 tvg-id="" tvg-name="===|||-Puerto Rico-|||===" tvg-logo="" group-title="PUERTO RICO",===|||-Puerto Rico-|||===
-http://magmas5.com:8000/malotv/gratis/126526
-#EXTINF:-1 tvg-id="" tvg-name="Puerto Rico|| Mega Tv" tvg-logo="https://www.spanishbroadcasting.com/wp-content/uploads/sites/5/2016/11/megatv-thumbs-350x350.jpg" group-title="PUERTO RICO",Puerto Rico|| Mega Tv
-http://magmas5.com:8000/malotv/gratis/126535
-#EXTINF:-1 tvg-id="" tvg-name="32 | FLOSPORTS 1" tvg-logo="https://www.flosports.tv/wp-content/uploads/2020/05/FloSports-Secondary-igniteblack.png" group-title="DEPORTES SD",32 | FLOSPORTS 1
-http://magmas5.com:8000/malotv/gratis/149654
-#EXTINF:-1 tvg-id="" tvg-name="15 | NBA " tvg-logo="https://www.kindpng.com/picc/m/483-4833970_nba-tv-logo-free-png-hd-nba-tv.png" group-title="NBA ",15 | NBA 
-http://magmas5.com:8000/malotv/gratis/149659
-#EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-name="08 | DISNEY XD MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="INFANTILES UHD",08 | DISNEY XD MX HD
-http://magmas5.com:8000/malotv/gratis/149679
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA| TV MAX 9 SD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCawxwL8F7NgLG6ZXLcQs7QCchKfpk6z8bh3w=s900-mo-c-c0xffffffff-rj-k-no" group-title="PANAMA",PANAMA| TV MAX 9 SD
-http://magmas5.com:8000/malotv/gratis/149714
-#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="39 | TELEANTIOQUIA Opc.2" tvg-logo="" group-title="COLOMBIA  ",39 | TELEANTIOQUIA Opc.2
-http://magmas5.com:8000/malotv/gratis/149776
-#EXTINF:-1 tvg-id="" tvg-name="26 | CANAL A+V" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/CanalA%2BVUruguay2017.png" group-title="URUGUAY",26 | CANAL A+V
-http://magmas5.com:8000/malotv/gratis/149786
-#EXTINF:-1 tvg-id="" tvg-name="40 | CTV 20 DIGITAL" tvg-logo="https://i.imgur.com/8gcr7fn.png" group-title="HONDURAS",40 | CTV 20 DIGITAL
-http://magmas5.com:8000/malotv/gratis/149873
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL TVM" tvg-logo="http://sivar.tv/wp-content/uploads/2016/10/Canal-TVM.jpg" group-title="EL SALVADOR",EL SALVADOR | CANAL TVM
-http://magmas5.com:8000/malotv/gratis/140549
-#EXTINF:-1 tvg-id="" tvg-name="02 | UNIVERSAL REALITY UHD" tvg-logo="" group-title="CINE UHD 1*",02 | UNIVERSAL REALITY UHD
-http://magmas5.com:8000/malotv/gratis/150071
-#EXTINF:-1 tvg-id="" tvg-name="03 | UNIVERSAL PREMIERE (MX) UHD" tvg-logo="" group-title="CINE UHD 1*",03 | UNIVERSAL PREMIERE (MX) UHD
-http://magmas5.com:8000/malotv/gratis/150072
-#EXTINF:-1 tvg-id="" tvg-name="04 | UNIVERSAL PREMIERE (LA) UHD" tvg-logo="" group-title="CINE UHD 1*",04 | UNIVERSAL PREMIERE (LA) UHD
-http://magmas5.com:8000/malotv/gratis/150073
-#EXTINF:-1 tvg-id="StudioUniversalMexico.mx" tvg-name="05 | UNIVERSAL CINEMA UHD" tvg-logo="" group-title="CINE UHD 1*",05 | UNIVERSAL CINEMA UHD
-http://magmas5.com:8000/malotv/gratis/150074
-#EXTINF:-1 tvg-id="UniversalTVPanregional.us" tvg-name="06 | UNIVERSAL CRIME UHD" tvg-logo="" group-title="CINE UHD 1*",06 | UNIVERSAL CRIME UHD
-http://magmas5.com:8000/malotv/gratis/150075
-#EXTINF:-1 tvg-id="UniversalTVMexico.mx" tvg-name="07 | UNIVERSAL COMEDY UHD" tvg-logo="" group-title="CINE UHD 1*",07 | UNIVERSAL COMEDY UHD
-http://magmas5.com:8000/malotv/gratis/150076
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="08 | HBO UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="CINE UHD 1*",08 | HBO UHD
-http://magmas5.com:8000/malotv/gratis/150077
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="09 | HBO 2 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINE UHD 1*",09 | HBO 2 UHD
-http://magmas5.com:8000/malotv/gratis/150078
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="10 | HBO FAMILY UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE UHD 1*",10 | HBO FAMILY UHD
-http://magmas5.com:8000/malotv/gratis/150079
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="11 | HBO PLUS UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE UHD 1*",11 | HBO PLUS UHD
-http://magmas5.com:8000/malotv/gratis/150080
-#EXTINF:-1 tvg-id="HBOSignatureHDLatinAmerica.us" tvg-name="12 | HBO SIGNATURE UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CINE UHD 1*",12 | HBO SIGNATURE UHD
-http://magmas5.com:8000/malotv/gratis/150081
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="43 | EL TRECE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="ARGENTINA NACIONALES",43 | EL TRECE FHD
-http://magmas5.com:8000/malotv/gratis/150281
-#EXTINF:-1 tvg-id="KanalDRomania.ro" tvg-name="11 | KANAL D" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2014/02/kanal_d.jpg" group-title="NOVELAS",11 | KANAL D
-http://magmas5.com:8000/malotv/gratis/150282
-#EXTINF:-1 tvg-id="" tvg-name="27 | TV PERÚ NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU",27 | TV PERÚ NOTICIAS HD
-http://magmas5.com:8000/malotv/gratis/150360
-#EXTINF:-1 tvg-id="RTAmerica.us" tvg-name="29 | RT RUSIA TODAY - ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/1200px-Russia-Today-Logo.svg.png" group-title="NOTICIAS - NEWS - 24/7",29 | RT RUSIA TODAY - ESP
-http://magmas5.com:8000/malotv/gratis/150361
-#EXTINF:-1 tvg-id="" tvg-name="40 | AMAGA TV ANTIOQUIA HD" tvg-logo="https://amagatelevision.com/wp-content/uploads/2021/12/LOGO-CON-ESLOGAN-IZQUIEDO-TRANSPARENCIA-1110px.png" group-title="COLOMBIA  ",40 | AMAGA TV ANTIOQUIA HD
-http://magmas5.com:8000/malotv/gratis/150371
-#EXTINF:-1 tvg-id="" tvg-name="41 | MI GENTE TV" tvg-logo="https://colombiamastv.co/Filter-Images-master/img/logos_parrilla_prog/logo_mi_gente.jpg" group-title="COLOMBIA  ",41 | MI GENTE TV
-http://magmas5.com:8000/malotv/gratis/150372
-#EXTINF:-1 tvg-id="DTV.hn" tvg-name="55 || DTV PLAY DEPORTE TOTAL" tvg-logo="https://deportetotal.com.bo/wp-content/uploads/2018/09/dt-horizontal-logo.png" group-title="BOLIVIA",55 || DTV PLAY DEPORTE TOTAL
-http://magmas5.com:8000/malotv/gratis/150373
-#EXTINF:-1 tvg-id="" tvg-name="08 | BOSTON RED SOX " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Boston_Red_Sox_cap_logo.svg" group-title="MLB BASEBALL ",08 | BOSTON RED SOX 
-http://magmas5.com:8000/malotv/gratis/138336
-#EXTINF:-1 tvg-id="" tvg-name="12 | NICARAGUA | Canal 20 WTV HD" tvg-logo="https://img2.freepng.es/20180330/kyq/kisspng-israel-channel-20-television-channel-broadcasting-20-5abe9f1d0bef92.1643852215224420130489.jpg" group-title="NICARAGUA",12 | NICARAGUA | Canal 20 WTV HD
-http://magmas5.com:8000/malotv/gratis/150656
-#EXTINF:-1 tvg-id="" tvg-name="Paraguay|| EDUCANAL HD" tvg-logo="https://iptv.com.py/wp-content/uploads/2021/06/edulogo3-300x204.png" group-title="PARAGUAY",Paraguay|| EDUCANAL HD
-http://magmas5.com:8000/malotv/gratis/150657
-#EXTINF:-1 tvg-id="" tvg-name="Paraguay|| AMAYA TV" tvg-logo="https://www.observacom.org/wp-content/uploads/2016/05/television-paraguaya-en-vivo-online.jpg" group-title="PARAGUAY",Paraguay|| AMAYA TV
-http://magmas5.com:8000/malotv/gratis/150658
-#EXTINF:-1 tvg-id="" tvg-name="Paraguay|| CANAL 8 VISION HD" tvg-logo="https://photos.live-tv-channels.org/tv-logo/py-canal-8-vision-tv-6069.jpg" group-title="PARAGUAY",Paraguay|| CANAL 8 VISION HD
-http://magmas5.com:8000/malotv/gratis/150659
-#EXTINF:-1 tvg-id="" tvg-name="Paraguay|| CANAL 12 RTV HD" tvg-logo="https://pbs.twimg.com/profile_images/1253897472944062465/pqZXWzNU_400x400.jpg" group-title="PARAGUAY",Paraguay|| CANAL 12 RTV HD
-http://magmas5.com:8000/malotv/gratis/150660
-#EXTINF:-1 tvg-id="" tvg-name="Paraguay|| CRISTAL TV HD" tvg-logo="https://pbs.twimg.com/profile_images/3193462255/e1e0b6e7fd2c6a19d238ff4021cc5b82_400x400.jpeg" group-title="PARAGUAY",Paraguay|| CRISTAL TV HD
-http://magmas5.com:8000/malotv/gratis/150661
-#EXTINF:-1 tvg-id="" tvg-name="31 | CANAL 14 TVN HD" tvg-logo="https://www.tvn14.com/wp-content/uploads/2020/12/tvn_14.png" group-title="COSTA RICA",31 | CANAL 14 TVN HD
-http://magmas5.com:8000/malotv/gratis/150683
-#EXTINF:-1 tvg-id="" tvg-name="31 | CANAL 14 TV NORTE HD" tvg-logo="https://www.tvn14.com/wp-content/uploads/2020/12/tvn_14.png" group-title="COSTA RICA",31 | CANAL 14 TV NORTE HD
-http://magmas5.com:8000/malotv/gratis/150684
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas Movies" tvg-logo="https://www.desdelaplaza.com/wp-content/uploads/2015/04/cantinflas.png" group-title="CANALES 24/7",24/7 | Cantinflas Movies
-http://magmas5.com:8000/malotv/gratis/150692
-#EXTINF:-1 tvg-id="" tvg-name="RD | TELECIBAO HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/TELECIBAO001-696x392.png" group-title="REPUBLICA DOMINICANA",RD | TELECIBAO HD
-http://magmas5.com:8000/malotv/gratis/150867
-#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="42 | TELEANTIOQUIA HD" tvg-logo="" group-title="COLOMBIA  ",42 | TELEANTIOQUIA HD
-http://magmas5.com:8000/malotv/gratis/151051
-#EXTINF:-1 tvg-id="" tvg-name="Tomorrowland - One World Radio" tvg-logo="https://i3.ytimg.com/vi/araK9j8mN9Y/maxresdefault.jpg" group-title="MÚSICA UHD",Tomorrowland - One World Radio
-http://magmas5.com:8000/malotv/gratis/151117
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE: Beach TV" tvg-logo="" group-title="CARIBE",CARIBE: Beach TV
-http://magmas5.com:8000/malotv/gratis/151288
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Tele Aruba" tvg-logo="" group-title="CARIBE",CARIBE:Tele Aruba
-http://magmas5.com:8000/malotv/gratis/151289
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Jamaica Online TV (FHD)" tvg-logo="" group-title="CARIBE",CARIBE:Jamaica Online TV (FHD)
-http://magmas5.com:8000/malotv/gratis/151290
-#EXTINF:-1 tvg-id="" tvg-name="ZNS TV SD" tvg-logo="" group-title="CARIBE",ZNS TV SD
-http://magmas5.com:8000/malotv/gratis/151291
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:ARTS" tvg-logo="" group-title="CARIBE",CARIBE:ARTS
-http://magmas5.com:8000/malotv/gratis/151293
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:BAHAMAS PARLIAMENT" tvg-logo="" group-title="CARIBE",CARIBE:BAHAMAS PARLIAMENT
-http://magmas5.com:8000/malotv/gratis/151294
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Canal 11" tvg-logo="" group-title="CARIBE",CARIBE:Canal 11
-http://magmas5.com:8000/malotv/gratis/151297
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Cars Tv" tvg-logo="" group-title="CARIBE",CARIBE:Cars Tv
-http://magmas5.com:8000/malotv/gratis/151298
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:CBC TV 8" tvg-logo="" group-title="CARIBE",CARIBE:CBC TV 8
-http://magmas5.com:8000/malotv/gratis/151299
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Cbn Tv Bvi" tvg-logo="" group-title="CARIBE",CARIBE:Cbn Tv Bvi
-http://magmas5.com:8000/malotv/gratis/151300
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:CGTN Documentary" tvg-logo="" group-title="CARIBE",CARIBE:CGTN Documentary
-http://magmas5.com:8000/malotv/gratis/151301
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:CNC3 TRINIDAD" tvg-logo="" group-title="CARIBE",CARIBE:CNC3 TRINIDAD
-http://magmas5.com:8000/malotv/gratis/151303
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:CNS 6 GUYANA" tvg-logo="" group-title="CARIBE",CARIBE:CNS 6 GUYANA
-http://magmas5.com:8000/malotv/gratis/151304
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:CVM JAMAICA" tvg-logo="" group-title="CARIBE",CARIBE:CVM JAMAICA
-http://magmas5.com:8000/malotv/gratis/151305
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Ds Tv" tvg-logo="" group-title="CARIBE",CARIBE:Ds Tv
-http://magmas5.com:8000/malotv/gratis/151306
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Espn 2 Caribbean" tvg-logo="" group-title="CARIBE",CARIBE:Espn 2 Caribbean
-http://magmas5.com:8000/malotv/gratis/151307
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:FAME RADIO" tvg-logo="" group-title="CARIBE",CARIBE:FAME RADIO
-http://magmas5.com:8000/malotv/gratis/151308
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:FOX 7" tvg-logo="" group-title="CARIBE",CARIBE:FOX 7
-http://magmas5.com:8000/malotv/gratis/151309
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Gtn" tvg-logo="" group-title="CARIBE",CARIBE:Gtn
-http://magmas5.com:8000/malotv/gratis/151310
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="CARIBE:Hbo Caribbean" tvg-logo="" group-title="CARIBE",CARIBE:Hbo Caribbean
-http://magmas5.com:8000/malotv/gratis/151311
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:HOPE TV" tvg-logo="" group-title="CARIBE",CARIBE:HOPE TV
-http://magmas5.com:8000/malotv/gratis/151312
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:HYPE TV" tvg-logo="" group-title="CARIBE",CARIBE:HYPE TV
-http://magmas5.com:8000/malotv/gratis/151313
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:ISAT" tvg-logo="" group-title="CARIBE",CARIBE:ISAT
-http://magmas5.com:8000/malotv/gratis/151314
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:ISLAND LUCK TV" tvg-logo="" group-title="CARIBE",CARIBE:ISLAND LUCK TV
-http://magmas5.com:8000/malotv/gratis/151315
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:JNN" tvg-logo="" group-title="CARIBE",CARIBE:JNN
-http://magmas5.com:8000/malotv/gratis/151316
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:LVM" tvg-logo="" group-title="CARIBE",CARIBE:LVM
-http://magmas5.com:8000/malotv/gratis/151317
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:MELLO TV" tvg-logo="" group-title="CARIBE",CARIBE:MELLO TV
-http://magmas5.com:8000/malotv/gratis/151318
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:NAGO TV" tvg-logo="" group-title="CARIBE",CARIBE:NAGO TV
-http://magmas5.com:8000/malotv/gratis/151319
-#EXTINF:-1 tvg-id="NickJrEast.us" tvg-name="CARIBE:Nick Caribbean" tvg-logo="" group-title="CARIBE",CARIBE:Nick Caribbean
-http://magmas5.com:8000/malotv/gratis/151320
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:NOS PAIS" tvg-logo="" group-title="CARIBE",CARIBE:NOS PAIS
-http://magmas5.com:8000/malotv/gratis/151321
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:ONE CARIBBEAN TV" tvg-logo="" group-title="CARIBE",CARIBE:ONE CARIBBEAN TV
-http://magmas5.com:8000/malotv/gratis/151323
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE: NETALKOLE TV (Haiti)" tvg-logo="" group-title="CARIBE",CARIBE: NETALKOLE TV (Haiti)
-http://magmas5.com:8000/malotv/gratis/151324
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Pbc Jamaica" tvg-logo="" group-title="CARIBE",CARIBE:Pbc Jamaica
-http://magmas5.com:8000/malotv/gratis/151325
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:PETS" tvg-logo="" group-title="CARIBE",CARIBE:PETS
-http://magmas5.com:8000/malotv/gratis/151326
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:PROMAR Tv" tvg-logo="" group-title="CARIBE",CARIBE:PROMAR Tv
-http://magmas5.com:8000/malotv/gratis/151327
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:RE TV" tvg-logo="" group-title="CARIBE",CARIBE:RE TV
-http://magmas5.com:8000/malotv/gratis/151328
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE: RNN CANAL 27" tvg-logo="" group-title="CARIBE",CARIBE: RNN CANAL 27
-http://magmas5.com:8000/malotv/gratis/151329
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:RTG 18" tvg-logo="" group-title="CARIBE",CARIBE:RTG 18
-http://magmas5.com:8000/malotv/gratis/151330
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Smile Child" tvg-logo="" group-title="CARIBE",CARIBE:Smile Child
-http://magmas5.com:8000/malotv/gratis/151332
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:STREAM Jamz" tvg-logo="" group-title="CARIBE",CARIBE:STREAM Jamz
-http://magmas5.com:8000/malotv/gratis/151334
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Super Geek Trinidad" tvg-logo="" group-title="CARIBE",CARIBE:Super Geek Trinidad
-http://magmas5.com:8000/malotv/gratis/151335
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:TELE ARUBA" tvg-logo="" group-title="CARIBE",CARIBE:TELE ARUBA
-http://magmas5.com:8000/malotv/gratis/151336
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE: CONTACTO SPORT" tvg-logo="" group-title="CARIBE",CARIBE: CONTACTO SPORT
-http://magmas5.com:8000/malotv/gratis/151337
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:TELE Eclair 4" tvg-logo="" group-title="CARIBE",CARIBE:TELE Eclair 4
-http://magmas5.com:8000/malotv/gratis/151338
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:TELE MIX HITS" tvg-logo="" group-title="CARIBE",CARIBE:TELE MIX HITS
-http://magmas5.com:8000/malotv/gratis/151339
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="CARIBE:Tele Sur English" tvg-logo="" group-title="CARIBE",CARIBE:Tele Sur English
-http://magmas5.com:8000/malotv/gratis/151340
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="CARIBE: TELE SUR SPANISH" tvg-logo="" group-title="CARIBE",CARIBE: TELE SUR SPANISH
-http://magmas5.com:8000/malotv/gratis/151341
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:TELEMUNDO" tvg-logo="" group-title="CARIBE",CARIBE:TELEMUNDO
-http://magmas5.com:8000/malotv/gratis/151342
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:TELENORD 8" tvg-logo="" group-title="CARIBE",CARIBE:TELENORD 8
-http://magmas5.com:8000/malotv/gratis/151343
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:TELENORD 14" tvg-logo="" group-title="CARIBE",CARIBE:TELENORD 14
-http://magmas5.com:8000/malotv/gratis/151344
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:TELESISTEMA 11" tvg-logo="" group-title="CARIBE",CARIBE:TELESISTEMA 11
-http://magmas5.com:8000/malotv/gratis/151345
-#EXTINF:-1 tvg-id="Teleunion.do" tvg-name="CARIBE:TELEUNION" tvg-logo="" group-title="CARIBE",CARIBE:TELEUNION
-http://magmas5.com:8000/malotv/gratis/151346
-#EXTINF:-1 tvg-id="Teleuniverso.do" tvg-name="CARIBE:TELEUNIVERSO 29" tvg-logo="" group-title="CARIBE",CARIBE:TELEUNIVERSO 29
-http://magmas5.com:8000/malotv/gratis/151347
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:TELEVER" tvg-logo="" group-title="CARIBE",CARIBE:TELEVER
-http://magmas5.com:8000/malotv/gratis/151348
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:THM" tvg-logo="" group-title="CARIBE",CARIBE:THM
-http://magmas5.com:8000/malotv/gratis/151349
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Trinity Tv" tvg-logo="" group-title="CARIBE",CARIBE:Trinity Tv
-http://magmas5.com:8000/malotv/gratis/151350
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Tten Trinidad" tvg-logo="" group-title="CARIBE",CARIBE:Tten Trinidad
-http://magmas5.com:8000/malotv/gratis/151351
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:TV CARIB (ST MAARTIN)" tvg-logo="" group-title="CARIBE",CARIBE:TV CARIB (ST MAARTIN)
-http://magmas5.com:8000/malotv/gratis/151352
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:TV DIRECT 13" tvg-logo="" group-title="CARIBE",CARIBE:TV DIRECT 13
-http://magmas5.com:8000/malotv/gratis/151353
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:TV RECUERDOS" tvg-logo="" group-title="CARIBE",CARIBE:TV RECUERDOS
-http://magmas5.com:8000/malotv/gratis/151354
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Vepaco TV" tvg-logo="" group-title="CARIBE",CARIBE:Vepaco TV
-http://magmas5.com:8000/malotv/gratis/151355
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:wsvi tv" tvg-logo="" group-title="CARIBE",CARIBE:wsvi tv
-http://magmas5.com:8000/malotv/gratis/151356
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:WSVI TV WEATHER" tvg-logo="" group-title="CARIBE",CARIBE:WSVI TV WEATHER
-http://magmas5.com:8000/malotv/gratis/151357
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:YUNA VISION" tvg-logo="" group-title="CARIBE",CARIBE:YUNA VISION
-http://magmas5.com:8000/malotv/gratis/151358
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Zns tv" tvg-logo="" group-title="CARIBE",CARIBE:Zns tv
-http://magmas5.com:8000/malotv/gratis/151359
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:TELE CURACAO" tvg-logo="" group-title="CARIBE",CARIBE:TELE CURACAO
-http://magmas5.com:8000/malotv/gratis/151360
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:CINEVISION 19" tvg-logo="" group-title="CARIBE",CARIBE:CINEVISION 19
-http://magmas5.com:8000/malotv/gratis/151361
-#EXTINF:-1 tvg-id="CDMInternacional.pr" tvg-name="CARIBE:CDM INTERNATIONAL" tvg-logo="" group-title="CARIBE",CARIBE:CDM INTERNATIONAL
-http://magmas5.com:8000/malotv/gratis/151362
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Tvj Sports Jamaica" tvg-logo="" group-title="CARIBE",CARIBE:Tvj Sports Jamaica
-http://magmas5.com:8000/malotv/gratis/151364
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Better Life HD" tvg-logo="" group-title="CARIBE",CARIBE:Better Life HD
-http://magmas5.com:8000/malotv/gratis/151365
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Sports TV Plus" tvg-logo="" group-title="CARIBE",CARIBE:Sports TV Plus
-http://magmas5.com:8000/malotv/gratis/151367
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Caribvision" tvg-logo="" group-title="CARIBE",CARIBE:Caribvision
-http://magmas5.com:8000/malotv/gratis/151368
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:Cable 12 Bahamas" tvg-logo="" group-title="CARIBE",CARIBE:Cable 12 Bahamas
-http://magmas5.com:8000/malotv/gratis/151369
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:TVJ JAMAICA" tvg-logo="" group-title="CARIBE",CARIBE:TVJ JAMAICA
-http://magmas5.com:8000/malotv/gratis/151370
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:HAITI Kajou TV" tvg-logo="" group-title="CARIBE",CARIBE:HAITI Kajou TV
-http://magmas5.com:8000/malotv/gratis/151372
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:HAITI NETALKOLE TV HD" tvg-logo="" group-title="CARIBE",CARIBE:HAITI NETALKOLE TV HD
-http://magmas5.com:8000/malotv/gratis/151373
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:HAITI Tele Planet Compas HD" tvg-logo="" group-title="CARIBE",CARIBE:HAITI Tele Planet Compas HD
-http://magmas5.com:8000/malotv/gratis/151374
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:HAITI Tele Louange HD" tvg-logo="" group-title="CARIBE",CARIBE:HAITI Tele Louange HD
-http://magmas5.com:8000/malotv/gratis/151377
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:HAITI TV Panou HD" tvg-logo="" group-title="CARIBE",CARIBE:HAITI TV Panou HD
-http://magmas5.com:8000/malotv/gratis/151378
-#EXTINF:-1 tvg-id="" tvg-name="CARIBE:HAITI Radio Télé 4VEH HD" tvg-logo="" group-title="CARIBE",CARIBE:HAITI Radio Télé 4VEH HD
-http://magmas5.com:8000/malotv/gratis/151379
-#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS (GUATEMALA)" tvg-logo="https://img.appcustomerservice.com/1030558910/tigo-sports-guatemala-logo.jpg" group-title="GUATEMALA",TIGO SPORTS (GUATEMALA)
-http://magmas5.com:8000/malotv/gratis/151406
-#EXTINF:-1 tvg-id="TN23.gt" tvg-name="GUATEMALA | CANAL TN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" group-title="GUATEMALA",GUATEMALA | CANAL TN23
-http://magmas5.com:8000/malotv/gratis/151407
-#EXTINF:-1 tvg-id="" tvg-name="Antares Televisión HD *" tvg-logo="" group-title="PERU",Antares Televisión HD *
-http://magmas5.com:8000/malotv/gratis/151451
-#EXTINF:-1 tvg-id="" tvg-name="AsiriTV (Lima) HD *" tvg-logo="" group-title="PERU",AsiriTV (Lima) HD *
-http://magmas5.com:8000/malotv/gratis/151452
-#EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="ATV SDT *" tvg-logo="" group-title="PERU",ATV SDT *
-http://magmas5.com:8000/malotv/gratis/151454
-#EXTINF:-1 tvg-id="" tvg-name="Bella Asuncion TV HD *" tvg-logo="" group-title="PERU",Bella Asuncion TV HD *
-http://magmas5.com:8000/malotv/gratis/151456
-#EXTINF:-1 tvg-id="" tvg-name="Best Cable Más Cumbia HD *" tvg-logo="" group-title="PERU",Best Cable Más Cumbia HD *
-http://magmas5.com:8000/malotv/gratis/151457
-#EXTINF:-1 tvg-id="" tvg-name="Best Cable Music HD *" tvg-logo="" group-title="PERU",Best Cable Music HD *
-http://magmas5.com:8000/malotv/gratis/151458
-#EXTINF:-1 tvg-id="" tvg-name="Best Cable Perú HD *" tvg-logo="" group-title="PERU",Best Cable Perú HD *
-http://magmas5.com:8000/malotv/gratis/151459
-#EXTINF:-1 tvg-id="" tvg-name="Best Cable Sports Perú HD *" tvg-logo="" group-title="PERU",Best Cable Sports Perú HD *
-http://magmas5.com:8000/malotv/gratis/151460
-#EXTINF:-1 tvg-id="BethelTV.pe" tvg-name="Bethel TV HD *" tvg-logo="" group-title="PERU",Bethel TV HD *
-http://magmas5.com:8000/malotv/gratis/151461
-#EXTINF:-1 tvg-id="" tvg-name="BHTV HD *" tvg-logo="" group-title="PERU",BHTV HD *
-http://magmas5.com:8000/malotv/gratis/151463
-#EXTINF:-1 tvg-id="" tvg-name="Cajamarca TV SDT *" tvg-logo="" group-title="PERU",Cajamarca TV SDT *
-http://magmas5.com:8000/malotv/gratis/151465
-#EXTINF:-1 tvg-id="" tvg-name="Canal 8 (Catacaos) SD *" tvg-logo="" group-title="PERU",Canal 8 (Catacaos) SD *
-http://magmas5.com:8000/malotv/gratis/151466
-#EXTINF:-1 tvg-id="" tvg-name="LOTPLUS TV (Nororiente) HD *" tvg-logo="" group-title="PERU",LOTPLUS TV (Nororiente) HD *
-http://magmas5.com:8000/malotv/gratis/151468
-#EXTINF:-1 tvg-id="" tvg-name="Canal PERUANISIMA TV *" tvg-logo="" group-title="PERU",Canal PERUANISIMA TV *
-http://magmas5.com:8000/malotv/gratis/151469
-#EXTINF:-1 tvg-id="" tvg-name="CANAL IPE" tvg-logo="" group-title="PERU",CANAL IPE
-http://magmas5.com:8000/malotv/gratis/151470
-#EXTINF:-1 tvg-id="" tvg-name="Chicos IPe FHD *" tvg-logo="" group-title="PERU",Chicos IPe FHD *
-http://magmas5.com:8000/malotv/gratis/151472
-#EXTINF:-1 tvg-id="" tvg-name="ClipsTV (Ica) SD *" tvg-logo="" group-title="PERU",ClipsTV (Ica) SD *
-http://magmas5.com:8000/malotv/gratis/151473
-#EXTINF:-1 tvg-id="" tvg-name="CNC (Cajamarca) HD" tvg-logo="" group-title="PERU",CNC (Cajamarca) HD
-http://magmas5.com:8000/malotv/gratis/151475
-#EXTINF:-1 tvg-id="" tvg-name="CNC Digital (Iquitos) SDT *" tvg-logo="" group-title="PERU",CNC Digital (Iquitos) SDT *
-http://magmas5.com:8000/malotv/gratis/151476
-#EXTINF:-1 tvg-id="" tvg-name="Cable Netword TV SDT *" tvg-logo="" group-title="PERU",Cable Netword TV SDT *
-http://magmas5.com:8000/malotv/gratis/151478
-#EXTINF:-1 tvg-id="" tvg-name="Conecta2TV (Lima) HD *" tvg-logo="" group-title="PERU",Conecta2TV (Lima) HD *
-http://magmas5.com:8000/malotv/gratis/151479
-#EXTINF:-1 tvg-id="" tvg-name="Controversia TV (Moyobamba) HD *" tvg-logo="" group-title="PERU",Controversia TV (Moyobamba) HD *
-http://magmas5.com:8000/malotv/gratis/151480
-#EXTINF:-1 tvg-id="" tvg-name="CreoTV (Cajamarca) HD *" tvg-logo="" group-title="PERU",CreoTV (Cajamarca) HD *
-http://magmas5.com:8000/malotv/gratis/151481
-#EXTINF:-1 tvg-id="" tvg-name="CR Television (Moyobamba) HD *" tvg-logo="" group-title="PERU",CR Television (Moyobamba) HD *
-http://magmas5.com:8000/malotv/gratis/151482
-#EXTINF:-1 tvg-id="" tvg-name="CTC HD" tvg-logo="" group-title="PERU",CTC HD
-http://magmas5.com:8000/malotv/gratis/151483
-#EXTINF:-1 tvg-id="" tvg-name="Cultura 24 SD *" tvg-logo="" group-title="PERU",Cultura 24 SD *
-http://magmas5.com:8000/malotv/gratis/151484
-#EXTINF:-1 tvg-id="" tvg-name="CVM TV Digital HD *" tvg-logo="" group-title="PERU",CVM TV Digital HD *
-http://magmas5.com:8000/malotv/gratis/151485
-#EXTINF:-1 tvg-id="" tvg-name="Diario Hechicera (Tumbes) HD *" tvg-logo="" group-title="PERU",Diario Hechicera (Tumbes) HD *
-http://magmas5.com:8000/malotv/gratis/151487
-#EXTINF:-1 tvg-id="" tvg-name="DMJ (Cuzco) HD *" tvg-logo="" group-title="PERU",DMJ (Cuzco) HD *
-http://magmas5.com:8000/malotv/gratis/151488
-#EXTINF:-1 tvg-id="" tvg-name="Exitosa TV HD" tvg-logo="" group-title="PERU",Exitosa TV HD
-http://magmas5.com:8000/malotv/gratis/151490
-#EXTINF:-1 tvg-id="" tvg-name="Expresión (Tacna) HD *" tvg-logo="" group-title="PERU",Expresión (Tacna) HD *
-http://magmas5.com:8000/malotv/gratis/151491
-#EXTINF:-1 tvg-id="" tvg-name="FuegoTV (Lima) HD *" tvg-logo="" group-title="PERU",FuegoTV (Lima) HD *
-http://magmas5.com:8000/malotv/gratis/151492
-#EXTINF:-1 tvg-id="" tvg-name="Galáctica TV (Peru) FHD *" tvg-logo="" group-title="PERU",Galáctica TV (Peru) FHD *
-http://magmas5.com:8000/malotv/gratis/151495
-#EXTINF:-1 tvg-id="" tvg-name="Genios TV (Moyobamba) HD *" tvg-logo="" group-title="PERU",Genios TV (Moyobamba) HD *
-http://magmas5.com:8000/malotv/gratis/151496
-#EXTINF:-1 tvg-id="" tvg-name="Hatun TV HD *" tvg-logo="" group-title="PERU",Hatun TV HD *
-http://magmas5.com:8000/malotv/gratis/151499
-#EXTINF:-1 tvg-id="" tvg-name="Hoynet SDT *" tvg-logo="" group-title="PERU",Hoynet SDT *
-http://magmas5.com:8000/malotv/gratis/151500
-#EXTINF:-1 tvg-id="" tvg-name="Huacho Perú TV HD *" tvg-logo="" group-title="PERU",Huacho Perú TV HD *
-http://magmas5.com:8000/malotv/gratis/151501
-#EXTINF:-1 tvg-id="" tvg-name="Huacho Perú TV HD" tvg-logo="" group-title="PERU",Huacho Perú TV HD
-http://magmas5.com:8000/malotv/gratis/151502
-#EXTINF:-1 tvg-id="" tvg-name="Huánuco en Vivo SDT *" tvg-logo="" group-title="PERU",Huánuco en Vivo SDT *
-http://magmas5.com:8000/malotv/gratis/151504
-#EXTINF:-1 tvg-id="" tvg-name="Identidad TV HD *" tvg-logo="" group-title="PERU",Identidad TV HD *
-http://magmas5.com:8000/malotv/gratis/151505
-#EXTINF:-1 tvg-id="" tvg-name="Imagen Televisión (Rioja) HD *" tvg-logo="" group-title="PERU",Imagen Televisión (Rioja) HD *
-http://magmas5.com:8000/malotv/gratis/151506
-#EXTINF:-1 tvg-id="" tvg-name="Impacto Televisión (Cajamarca) HD" tvg-logo="" group-title="PERU",Impacto Televisión (Cajamarca) HD
-http://magmas5.com:8000/malotv/gratis/151507
-#EXTINF:-1 tvg-id="" tvg-name="Imperial Televisión (Huancayo) HD *" tvg-logo="" group-title="PERU",Imperial Televisión (Huancayo) HD *
-http://magmas5.com:8000/malotv/gratis/151508
-#EXTINF:-1 tvg-id="" tvg-name="Inkavisión (Cuzco)" tvg-logo="" group-title="PERU",Inkavisión (Cuzco)
-http://magmas5.com:8000/malotv/gratis/151509
-#EXTINF:-1 tvg-id="" tvg-name="Innova FM (Bagua Grande) SDT *" tvg-logo="" group-title="PERU",Innova FM (Bagua Grande) SDT *
-http://magmas5.com:8000/malotv/gratis/151510
-#EXTINF:-1 tvg-id="" tvg-name="JN19 HD *" tvg-logo="" group-title="PERU",JN19 HD *
-http://magmas5.com:8000/malotv/gratis/151511
-#EXTINF:-1 tvg-id="" tvg-name="JNE TV HD *" tvg-logo="" group-title="PERU",JNE TV HD *
-http://magmas5.com:8000/malotv/gratis/151512
-#EXTINF:-1 tvg-id="" tvg-name="Kachorro (Super TV | Amazonas) HD *" tvg-logo="" group-title="PERU",Kachorro (Super TV | Amazonas) HD *
-http://magmas5.com:8000/malotv/gratis/151513
-#EXTINF:-1 tvg-id="" tvg-name="Karibeña HD *" tvg-logo="" group-title="PERU",Karibeña HD *
-http://magmas5.com:8000/malotv/gratis/151514
-#EXTINF:-1 tvg-id="" tvg-name="KBO Quillabamba FHD *" tvg-logo="" group-title="PERU",KBO Quillabamba FHD *
-http://magmas5.com:8000/malotv/gratis/151515
-#EXTINF:-1 tvg-id="" tvg-name="KeBuena (Barranca) SDT *" tvg-logo="" group-title="PERU",KeBuena (Barranca) SDT *
-http://magmas5.com:8000/malotv/gratis/151516
-#EXTINF:-1 tvg-id="" tvg-name="Kora TV SD *" tvg-logo="" group-title="PERU",Kora TV SD *
-http://magmas5.com:8000/malotv/gratis/151517
-#EXTINF:-1 tvg-id="" tvg-name="La Abeja HD *" tvg-logo="" group-title="PERU",La Abeja HD *
-http://magmas5.com:8000/malotv/gratis/151518
-#EXTINF:-1 tvg-id="" tvg-name="La Luz TV HD *" tvg-logo="" group-title="PERU",La Luz TV HD *
-http://magmas5.com:8000/malotv/gratis/151519
-#EXTINF:-1 tvg-id="" tvg-name="KORA TV (Pucallpa) HD *" tvg-logo="" group-title="PERU",KORA TV (Pucallpa) HD *
-http://magmas5.com:8000/malotv/gratis/151520
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="" group-title="PERU",Latina
-http://magmas5.com:8000/malotv/gratis/151521
-#EXTINF:-1 tvg-id="" tvg-name="LimaLive SDT *" tvg-logo="" group-title="PERU",LimaLive SDT *
-http://magmas5.com:8000/malotv/gratis/151522
-#EXTINF:-1 tvg-id="" tvg-name="LotPlus TV (Chiclayo) HD *" tvg-logo="" group-title="PERU",LotPlus TV (Chiclayo) HD *
-http://magmas5.com:8000/malotv/gratis/151523
-#EXTINF:-1 tvg-id="" tvg-name="Master TV (Tarapoto) SDT *" tvg-logo="" group-title="PERU",Master TV (Tarapoto) SDT *
-http://magmas5.com:8000/malotv/gratis/151524
-#EXTINF:-1 tvg-id="" tvg-name="MaticesTV (Cañete) HD *" tvg-logo="" group-title="PERU",MaticesTV (Cañete) HD *
-http://magmas5.com:8000/malotv/gratis/151525
-#EXTINF:-1 tvg-id="" tvg-name="Mega TV (Arequipa) SD *" tvg-logo="" group-title="PERU",Mega TV (Arequipa) SD *
-http://magmas5.com:8000/malotv/gratis/151526
-#EXTINF:-1 tvg-id="" tvg-name="Mega TV (Tarapoto) SDT *" tvg-logo="" group-title="PERU",Mega TV (Tarapoto) SDT *
-http://magmas5.com:8000/malotv/gratis/151527
-#EXTINF:-1 tvg-id="" tvg-name="Metropolitana del Cuzco (CCTVRadio) HD *" tvg-logo="" group-title="PERU",Metropolitana del Cuzco (CCTVRadio) HD *
-http://magmas5.com:8000/malotv/gratis/151528
-#EXTINF:-1 tvg-id="" tvg-name="Millenium 49 TV (Pucallpa) HD *" tvg-logo="" group-title="PERU",Millenium 49 TV (Pucallpa) HD *
-http://magmas5.com:8000/malotv/gratis/151529
-#EXTINF:-1 tvg-id="" tvg-name="Millenium 109 FM (Lamas) HD *" tvg-logo="" group-title="PERU",Millenium 109 FM (Lamas) HD *
-http://magmas5.com:8000/malotv/gratis/151530
-#EXTINF:-1 tvg-id="" tvg-name="MitosTV (Mitos de la Selva | Pucallpa) SDT *" tvg-logo="" group-title="PERU",MitosTV (Mitos de la Selva | Pucallpa) SDT *
-http://magmas5.com:8000/malotv/gratis/151531
-#EXTINF:-1 tvg-id="" tvg-name="Moda Huancayo TV" tvg-logo="" group-title="PERU",Moda Huancayo TV
-http://magmas5.com:8000/malotv/gratis/151532
-#EXTINF:-1 tvg-id="" tvg-name="Monterrico TV FHD *" tvg-logo="" group-title="PERU",Monterrico TV FHD *
-http://magmas5.com:8000/malotv/gratis/151533
-#EXTINF:-1 tvg-id="" tvg-name="MTV Más (Ancash) HD *" tvg-logo="" group-title="PERU",MTV Más (Ancash) HD *
-http://magmas5.com:8000/malotv/gratis/151534
-#EXTINF:-1 tvg-id="" tvg-name="NacionalTV HD *" tvg-logo="" group-title="PERU",NacionalTV HD *
-http://magmas5.com:8000/malotv/gratis/151535
-#EXTINF:-1 tvg-id="" tvg-name="Nazarenas TV HD *" tvg-logo="" group-title="PERU",Nazarenas TV HD *
-http://magmas5.com:8000/malotv/gratis/151536
-#EXTINF:-1 tvg-id="" tvg-name="NorSelva RTV (Rioja) SD *" tvg-logo="" group-title="PERU",NorSelva RTV (Rioja) SD *
-http://magmas5.com:8000/malotv/gratis/151537
-#EXTINF:-1 tvg-id="" tvg-name="Oasis RTV (Trujillo) HD *" tvg-logo="" group-title="PERU",Oasis RTV (Trujillo) HD *
-http://magmas5.com:8000/malotv/gratis/151538
-#EXTINF:-1 tvg-id="" tvg-name="OK TeVe (Yurimaguas) HD *" tvg-logo="" group-title="PERU",OK TeVe (Yurimaguas) HD *
-http://magmas5.com:8000/malotv/gratis/151539
-#EXTINF:-1 tvg-id="" tvg-name="Omega TV (Yurimaguas) SDT *" tvg-logo="" group-title="PERU",Omega TV (Yurimaguas) SDT *
-http://magmas5.com:8000/malotv/gratis/151540
-#EXTINF:-1 tvg-id="" tvg-name="Onda Digital HD *" tvg-logo="" group-title="PERU",Onda Digital HD *
-http://magmas5.com:8000/malotv/gratis/151541
-#EXTINF:-1 tvg-id="" tvg-name="Onda Digital HD *" tvg-logo="" group-title="PERU",Onda Digital HD *
-http://magmas5.com:8000/malotv/gratis/151542
-#EXTINF:-1 tvg-id="" tvg-name="Oriental TV 21 (Pucallpa) SDT *" tvg-logo="" group-title="PERU",Oriental TV 21 (Pucallpa) SDT *
-http://magmas5.com:8000/malotv/gratis/151543
-#EXTINF:-1 tvg-id="" tvg-name="Ovacion TV HD *" tvg-logo="" group-title="PERU",Ovacion TV HD *
-http://magmas5.com:8000/malotv/gratis/151544
-#EXTINF:-1 tvg-id="" tvg-name="Ovación TV HD *" tvg-logo="" group-title="PERU",Ovación TV HD *
-http://magmas5.com:8000/malotv/gratis/151545
-#EXTINF:-1 tvg-id="" tvg-name="Pax TV SDT *" tvg-logo="" group-title="PERU",Pax TV SDT *
-http://magmas5.com:8000/malotv/gratis/151546
-#EXTINF:-1 tvg-id="PeruMagico.pe" tvg-name="Peru Magico SDT *" tvg-logo="" group-title="PERU",Peru Magico SDT *
-http://magmas5.com:8000/malotv/gratis/151547
-#EXTINF:-1 tvg-id="" tvg-name="PeruvianRadio TV SD *" tvg-logo="" group-title="PERU",PeruvianRadio TV SD *
-http://magmas5.com:8000/malotv/gratis/151548
-#EXTINF:-1 tvg-id="" tvg-name="PiuraTV HD *" tvg-logo="" group-title="PERU",PiuraTV HD *
-http://magmas5.com:8000/malotv/gratis/151549
-#EXTINF:-1 tvg-id="" tvg-name="Planeta TV Bagua HD *" tvg-logo="" group-title="PERU",Planeta TV Bagua HD *
-http://magmas5.com:8000/malotv/gratis/151550
-#EXTINF:-1 tvg-id="" tvg-name="MASTER TV Moyobamba HD *" tvg-logo="" group-title="PERU",MASTER TV Moyobamba HD *
-http://magmas5.com:8000/malotv/gratis/151551
-#EXTINF:-1 tvg-id="" tvg-name="Primavera 15 Radiotelevisión (Moquegua) HD *" tvg-logo="" group-title="PERU",Primavera 15 Radiotelevisión (Moquegua) HD *
-http://magmas5.com:8000/malotv/gratis/151552
-#EXTINF:-1 tvg-id="" tvg-name="Pucallpa Televisión SD *" tvg-logo="" group-title="PERU",Pucallpa Televisión SD *
-http://magmas5.com:8000/malotv/gratis/151553
-#EXTINF:-1 tvg-id="" tvg-name="QT Televisión (Cuzco) HD *" tvg-logo="" group-title="PERU",QT Televisión (Cuzco) HD *
-http://magmas5.com:8000/malotv/gratis/151554
-#EXTINF:-1 tvg-id="" tvg-name="Quillavision (Cuzco) HD *" tvg-logo="" group-title="PERU",Quillavision (Cuzco) HD *
-http://magmas5.com:8000/malotv/gratis/151555
-#EXTINF:-1 tvg-id="" tvg-name="Radio Chalaca HD *" tvg-logo="" group-title="PERU",Radio Chalaca HD *
-http://magmas5.com:8000/malotv/gratis/151556
-#EXTINF:-1 tvg-id="" tvg-name="Radio Pachatusan (Cuzco) HD *" tvg-logo="" group-title="PERU",Radio Pachatusan (Cuzco) HD *
-http://magmas5.com:8000/malotv/gratis/151558
-#EXTINF:-1 tvg-id="" tvg-name="Radio San Borja TV HD *" tvg-logo="" group-title="PERU",Radio San Borja TV HD *
-http://magmas5.com:8000/malotv/gratis/151559
-#EXTINF:-1 tvg-id="" tvg-name="Radio Tropical Tarapoto SDT *" tvg-logo="" group-title="PERU",Radio Tropical Tarapoto SDT *
-http://magmas5.com:8000/malotv/gratis/151560
-#EXTINF:-1 tvg-id="" tvg-name="Radio TV Juanjui SDT *" tvg-logo="" group-title="PERU",Radio TV Juanjui SDT *
-http://magmas5.com:8000/malotv/gratis/151563
-#EXTINF:-1 tvg-id="" tvg-name="RadioTV Oriente (Yurimaguas) FHD *" tvg-logo="" group-title="PERU",RadioTV Oriente (Yurimaguas) FHD *
-http://magmas5.com:8000/malotv/gratis/151564
-#EXTINF:-1 tvg-id="" tvg-name="Radio Xtrema *" tvg-logo="" group-title="PERU",Radio Xtrema *
-http://magmas5.com:8000/malotv/gratis/151565
-#EXTINF:-1 tvg-id="" tvg-name="Red de Comunicación Regional (RCR) HD *" tvg-logo="" group-title="PERU",Red de Comunicación Regional (RCR) HD *
-http://magmas5.com:8000/malotv/gratis/151567
-#EXTINF:-1 tvg-id="" tvg-name="Región TV (Callao) SDT *" tvg-logo="" group-title="PERU",Región TV (Callao) SDT *
-http://magmas5.com:8000/malotv/gratis/151568
-#EXTINF:-1 tvg-id="" tvg-name="Ribereña TV (Bellavista) SD *" tvg-logo="" group-title="PERU",Ribereña TV (Bellavista) SD *
-http://magmas5.com:8000/malotv/gratis/151569
-#EXTINF:-1 tvg-id="" tvg-name="RN Televisión (Yurimaguas) HD *" tvg-logo="" group-title="PERU",RN Televisión (Yurimaguas) HD *
-http://magmas5.com:8000/malotv/gratis/151570
-#EXTINF:-1 tvg-id="" tvg-name="RPP SDT *" tvg-logo="" group-title="PERU",RPP SDT *
-http://magmas5.com:8000/malotv/gratis/151571
-#EXTINF:-1 tvg-id="" tvg-name="RSelvaTV (Tarapoto) HD *" tvg-logo="" group-title="PERU",RSelvaTV (Tarapoto) HD *
-http://magmas5.com:8000/malotv/gratis/151572
-#EXTINF:-1 tvg-id="" tvg-name="RTV Total (Yurimaguas) SDT *" tvg-logo="" group-title="PERU",RTV Total (Yurimaguas) SDT *
-http://magmas5.com:8000/malotv/gratis/151573
-#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="RumbaMix TV FHD *" tvg-logo="" group-title="PERU",RumbaMix TV FHD *
-http://magmas5.com:8000/malotv/gratis/151574
-#EXTINF:-1 tvg-id="" tvg-name="RW Televisión (Tarapoto) *" tvg-logo="" group-title="PERU",RW Televisión (Tarapoto) *
-http://magmas5.com:8000/malotv/gratis/151575
-#EXTINF:-1 tvg-id="" tvg-name="SanjuaneraTV FHD *" tvg-logo="" group-title="PERU",SanjuaneraTV FHD *
-http://magmas5.com:8000/malotv/gratis/151576
-#EXTINF:-1 tvg-id="" tvg-name="SatelTV (Puno) HD *" tvg-logo="" group-title="PERU",SatelTV (Puno) HD *
-http://magmas5.com:8000/malotv/gratis/151577
-#EXTINF:-1 tvg-id="" tvg-name="SelvaMía TV (Aguaytía) SD *" tvg-logo="" group-title="PERU",SelvaMía TV (Aguaytía) SD *
-http://magmas5.com:8000/malotv/gratis/151578
-#EXTINF:-1 tvg-id="" tvg-name="Sistema 1 (Huaraz) HD *" tvg-logo="" group-title="PERU",Sistema 1 (Huaraz) HD *
-http://magmas5.com:8000/malotv/gratis/151579
-#EXTINF:-1 tvg-id="" tvg-name="JN19 TV (Huaraz) HD *" tvg-logo="" group-title="PERU",JN19 TV (Huaraz) HD *
-http://magmas5.com:8000/malotv/gratis/151580
-#EXTINF:-1 tvg-id="" tvg-name="Sol Stereo TV (Casma) SD *" tvg-logo="" group-title="PERU",Sol Stereo TV (Casma) SD *
-http://magmas5.com:8000/malotv/gratis/151581
-#EXTINF:-1 tvg-id="" tvg-name="Stereo TV (Peru) HD *" tvg-logo="" group-title="PERU",Stereo TV (Peru) HD *
-http://magmas5.com:8000/malotv/gratis/151583
-#EXTINF:-1 tvg-id="" tvg-name="Sumac TV (Lima) SDT *" tvg-logo="" group-title="PERU",Sumac TV (Lima) SDT *
-http://magmas5.com:8000/malotv/gratis/151584
-#EXTINF:-1 tvg-id="" tvg-name="Super Canal (Yurimaguas) HD *" tvg-logo="" group-title="PERU",Super Canal (Yurimaguas) HD *
-http://magmas5.com:8000/malotv/gratis/151585
-#EXTINF:-1 tvg-id="" tvg-name="Tele2000 (Ayacucho) HD *" tvg-logo="" group-title="PERU",Tele2000 (Ayacucho) HD *
-http://magmas5.com:8000/malotv/gratis/151587
-#EXTINF:-1 tvg-id="" tvg-name="Telesur (Camana) SDT *" tvg-logo="" group-title="PERU",Telesur (Camana) SDT *
-http://magmas5.com:8000/malotv/gratis/151588
-#EXTINF:-1 tvg-id="" tvg-name="Telesur (Ilo) HD *" tvg-logo="" group-title="PERU",Telesur (Ilo) HD *
-http://magmas5.com:8000/malotv/gratis/151589
-#EXTINF:-1 tvg-id="" tvg-name="Televisión Tarapoto HD *" tvg-logo="" group-title="PERU",Televisión Tarapoto HD *
-http://magmas5.com:8000/malotv/gratis/151593
-#EXTINF:-1 tvg-id="" tvg-name="Top FM TV (Atalaya) SD *" tvg-logo="" group-title="PERU",Top FM TV (Atalaya) SD *
-http://magmas5.com:8000/malotv/gratis/151595
-#EXTINF:-1 tvg-id="" tvg-name="TPTO TV (Tarapoto) HD *" tvg-logo="" group-title="PERU",TPTO TV (Tarapoto) HD *
-http://magmas5.com:8000/malotv/gratis/151596
-#EXTINF:-1 tvg-id="" tvg-name="Tumpis TV (Tumbes) HD *" tvg-logo="" group-title="PERU",Tumpis TV (Tumbes) HD *
-http://magmas5.com:8000/malotv/gratis/151597
-#EXTINF:-1 tvg-id="" tvg-name="IMPERIAL TV FHD *" tvg-logo="" group-title="PERU",IMPERIAL TV FHD *
-http://magmas5.com:8000/malotv/gratis/151598
-#EXTINF:-1 tvg-id="" tvg-name="IMPACTO TV HD *" tvg-logo="" group-title="PERU",IMPACTO TV HD *
-http://magmas5.com:8000/malotv/gratis/151599
-#EXTINF:-1 tvg-id="" tvg-name="TV Cosmos HD *" tvg-logo="" group-title="PERU",TV Cosmos HD *
-http://magmas5.com:8000/malotv/gratis/151601
-#EXTINF:-1 tvg-id="" tvg-name="TVenLinea (Cuzco) HD *" tvg-logo="" group-title="PERU",TVenLinea (Cuzco) HD *
-http://magmas5.com:8000/malotv/gratis/151602
-#EXTINF:-1 tvg-id="" tvg-name="Tvfaces Online SD *" tvg-logo="" group-title="PERU",Tvfaces Online SD *
-http://magmas5.com:8000/malotv/gratis/151603
-#EXTINF:-1 tvg-id="" tvg-name="TV Palmeras SDT *" tvg-logo="" group-title="PERU",TV Palmeras SDT *
-http://magmas5.com:8000/malotv/gratis/151604
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Perú SD *" tvg-logo="" group-title="PERU",TV Perú SD *
-http://magmas5.com:8000/malotv/gratis/151605
-#EXTINF:-1 tvg-id="" tvg-name="TV Peruanísima HD *" tvg-logo="" group-title="PERU",TV Peruanísima HD *
-http://magmas5.com:8000/malotv/gratis/151606
-#EXTINF:-1 tvg-id="" tvg-name="TV Perú Internacional SDT *" tvg-logo="" group-title="PERU",TV Perú Internacional SDT *
-http://magmas5.com:8000/malotv/gratis/151607
-#EXTINF:-1 tvg-id="" tvg-name="TV Perú Noticias HD *" tvg-logo="" group-title="PERU",TV Perú Noticias HD *
-http://magmas5.com:8000/malotv/gratis/151608
-#EXTINF:-1 tvg-id="" tvg-name="TV Sistemas Cuzco (Cuzco) SD *" tvg-logo="" group-title="PERU",TV Sistemas Cuzco (Cuzco) SD *
-http://magmas5.com:8000/malotv/gratis/151610
-#EXTINF:-1 tvg-id="" tvg-name="UCI HD *" tvg-logo="" group-title="PERU",UCI HD *
-http://magmas5.com:8000/malotv/gratis/151611
-#EXTINF:-1 tvg-id="" tvg-name="Unitel (Huancayo) HD *" tvg-logo="" group-title="PERU",Unitel (Huancayo) HD *
-http://magmas5.com:8000/malotv/gratis/151612
-#EXTINF:-1 tvg-id="" tvg-name="IDENTIDAD TV (Chanchamayo) HD *" tvg-logo="" group-title="PERU",IDENTIDAD TV (Chanchamayo) HD *
-http://magmas5.com:8000/malotv/gratis/151613
-#EXTINF:-1 tvg-id="" tvg-name="Huacho TV (Yurimaguas) HD *" tvg-logo="" group-title="PERU",Huacho TV (Yurimaguas) HD *
-http://magmas5.com:8000/malotv/gratis/151614
-#EXTINF:-1 tvg-id="" tvg-name="VamisaTV (Lima) SDT *" tvg-logo="" group-title="PERU",VamisaTV (Lima) SDT *
-http://magmas5.com:8000/malotv/gratis/151617
-#EXTINF:-1 tvg-id="" tvg-name="Vía Altomayo HD *" tvg-logo="" group-title="PERU",Vía Altomayo HD *
-http://magmas5.com:8000/malotv/gratis/151618
-#EXTINF:-1 tvg-id="" tvg-name="Visión Noticias Perú (VNP) HD *" tvg-logo="" group-title="PERU",Visión Noticias Perú (VNP) HD *
-http://magmas5.com:8000/malotv/gratis/151620
-#EXTINF:-1 tvg-id="" tvg-name="Auténtica Televisión HD *" tvg-logo="" group-title="PERU",Auténtica Televisión HD *
-http://magmas5.com:8000/malotv/gratis/151625
-#EXTINF:-1 tvg-id="" tvg-name="Telecolor (Yurimaguas) HD *" tvg-logo="" group-title="PERU",Telecolor (Yurimaguas) HD *
-http://magmas5.com:8000/malotv/gratis/151626
-#EXTINF:-1 tvg-id="" tvg-name="Tropical TV (Puerto Maldonado) HD *" tvg-logo="" group-title="PERU",Tropical TV (Puerto Maldonado) HD *
-http://magmas5.com:8000/malotv/gratis/151628
-#EXTINF:-1 tvg-id="" tvg-name="Andes Televisión (Sicusani) HD *" tvg-logo="" group-title="PERU",Andes Televisión (Sicusani) HD *
-http://magmas5.com:8000/malotv/gratis/151630
-#EXTINF:-1 tvg-id="" tvg-name="BEST CABLE (HatunTV) SDT *" tvg-logo="" group-title="PERU",BEST CABLE (HatunTV) SDT *
-http://magmas5.com:8000/malotv/gratis/151631
-#EXTINF:-1 tvg-id="" tvg-name="MINEDU IPTV 1 SD *" tvg-logo="" group-title="PERU",MINEDU IPTV 1 SD *
-http://magmas5.com:8000/malotv/gratis/151632
-#EXTINF:-1 tvg-id="" tvg-name="MINEDU IPTV 2 SD *" tvg-logo="" group-title="PERU",MINEDU IPTV 2 SD *
-http://magmas5.com:8000/malotv/gratis/151633
-#EXTINF:-1 tvg-id="" tvg-name="CharapaTV (Pucallpa) *" tvg-logo="" group-title="PERU",CharapaTV (Pucallpa) *
-http://magmas5.com:8000/malotv/gratis/151634
-#EXTINF:-1 tvg-id="" tvg-name="RadioInka (Abancay) FHD *" tvg-logo="" group-title="PERU",RadioInka (Abancay) FHD *
-http://magmas5.com:8000/malotv/gratis/151635
-#EXTINF:-1 tvg-id="" tvg-name="ATM Televisión HD *" tvg-logo="" group-title="PERU",ATM Televisión HD *
-http://magmas5.com:8000/malotv/gratis/151637
-#EXTINF:-1 tvg-id="" tvg-name="43 | CANAL C HD" tvg-logo="https://cdn.colombia.com/canales/canal-c-2584.jpg" group-title="COLOMBIA  ",43 | CANAL C HD
-http://magmas5.com:8000/malotv/gratis/151642
-#EXTINF:-1 tvg-id="Trece.co" tvg-name="44 | CANAL TRECE UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TRECE%2B.png" group-title="COLOMBIA  ",44 | CANAL TRECE UHD
-http://magmas5.com:8000/malotv/gratis/151643
-#EXTINF:-1 tvg-id="" tvg-name="45 | CANAL CNC Tulua UHD" tvg-logo="https://cnctulua.tv/wp-content/uploads/2020/12/LOGO-EDITABLE-NOTICIAS-TULUA-COLOR-scaled.jpg" group-title="COLOMBIA  ",45 | CANAL CNC Tulua UHD
-http://magmas5.com:8000/malotv/gratis/151644
-#EXTINF:-1 tvg-id="" tvg-name="46 | CANAL 2 ALPAVISION UHD" tvg-logo="https://alpavision.com.co/wp-content/uploads/2020/11/baner-canal2-01-300x300-2.png" group-title="COLOMBIA  ",46 | CANAL 2 ALPAVISION UHD
-http://magmas5.com:8000/malotv/gratis/151645
-#EXTINF:-1 tvg-id="CinemaPlus.co" tvg-name="50 | CINEMA + HD CO" tvg-logo="" group-title="COLOMBIA  ",50 | CINEMA + HD CO
-http://magmas5.com:8000/malotv/gratis/151651
-#EXTINF:-1 tvg-id="" tvg-name="------------VENEZUELA--------------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1200px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="VENEZUELA",------------VENEZUELA--------------
-http://magmas5.com:8000/malotv/gratis/151652
-#EXTINF:-1 tvg-id="TVFamilia.ve" tvg-name="01| VE_TV FAMILIA" tvg-logo="" group-title="VENEZUELA",01| VE_TV FAMILIA
-http://magmas5.com:8000/malotv/gratis/151653
-#EXTINF:-1 tvg-id="" tvg-name="02| VE_VIVE" tvg-logo="" group-title="VENEZUELA",02| VE_VIVE
-http://magmas5.com:8000/malotv/gratis/151654
-#EXTINF:-1 tvg-id="VenevisionPlus.ve" tvg-name="05| VENEVISION" tvg-logo="" group-title="VENEZUELA",05| VENEVISION
-http://magmas5.com:8000/malotv/gratis/151655
-#EXTINF:-1 tvg-id="" tvg-name="06| CONCIENCIA" tvg-logo="" group-title="VENEZUELA",06| CONCIENCIA
-http://magmas5.com:8000/malotv/gratis/151656
-#EXTINF:-1 tvg-id="" tvg-name="07| VE_VALE TV" tvg-logo="" group-title="VENEZUELA",07| VE_VALE TV
-http://magmas5.com:8000/malotv/gratis/151657
-#EXTINF:-1 tvg-id="" tvg-name="08| VE_VENEZOLANA DE TELEVISION" tvg-logo="" group-title="VENEZUELA",08| VE_VENEZOLANA DE TELEVISION
-http://magmas5.com:8000/malotv/gratis/151658
-#EXTINF:-1 tvg-id="" tvg-name="09| VE_ ANTV HD+" tvg-logo="" group-title="VENEZUELA",09| VE_ ANTV HD+
-http://magmas5.com:8000/malotv/gratis/151659
-#EXTINF:-1 tvg-id="" tvg-name="10| FOX SPORTS VENEZUELA" tvg-logo="" group-title="VENEZUELA",10| FOX SPORTS VENEZUELA
-http://magmas5.com:8000/malotv/gratis/151660
-#EXTINF:-1 tvg-id="" tvg-name="11| Canal Nubeh TV (HD)" tvg-logo="" group-title="VENEZUELA",11| Canal Nubeh TV (HD)
-http://magmas5.com:8000/malotv/gratis/151661
-#EXTINF:-1 tvg-id="" tvg-name="13| Televisora de Oriente (SDT)" tvg-logo="" group-title="VENEZUELA",13| Televisora de Oriente (SDT)
-http://magmas5.com:8000/malotv/gratis/151662
-#EXTINF:-1 tvg-id="TVFamilia.ve" tvg-name="14| TV Familia (HD)" tvg-logo="" group-title="VENEZUELA",14| TV Familia (HD)
-http://magmas5.com:8000/malotv/gratis/151663
-#EXTINF:-1 tvg-id="" tvg-name="15| Vale TV (SDT)" tvg-logo="" group-title="VENEZUELA",15| Vale TV (SDT)
-http://magmas5.com:8000/malotv/gratis/151664
-#EXTINF:-1 tvg-id="VenevisionPlus.ve" tvg-name="17| Ve Plus (SDT)*" tvg-logo="" group-title="VENEZUELA",17| Ve Plus (SDT)*
-http://magmas5.com:8000/malotv/gratis/151665
-#EXTINF:-1 tvg-id="" tvg-name="19| BitRadio" tvg-logo="" group-title="VENEZUELA",19| BitRadio
-http://magmas5.com:8000/malotv/gratis/151666
-#EXTINF:-1 tvg-id="" tvg-name="20| TNO Radio" tvg-logo="" group-title="VENEZUELA",20| TNO Radio
-http://magmas5.com:8000/malotv/gratis/151667
-#EXTINF:-1 tvg-id="" tvg-name="21| Canal i (HD)+" tvg-logo="" group-title="VENEZUELA",21| Canal i (HD)+
-http://magmas5.com:8000/malotv/gratis/151668
-#EXTINF:-1 tvg-id="" tvg-name="22| Catatumbo" tvg-logo="" group-title="VENEZUELA",22| Catatumbo
-http://magmas5.com:8000/malotv/gratis/151669
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="23| TeleSUR (SD)" tvg-logo="" group-title="VENEZUELA",23| TeleSUR (SD)
-http://magmas5.com:8000/malotv/gratis/151670
-#EXTINF:-1 tvg-id="VenevisionPlus.ve" tvg-name="03| VENEVISION PLUS" tvg-logo="" group-title="VENEZUELA",03| VENEVISION PLUS
-http://magmas5.com:8000/malotv/gratis/151671
-#EXTINF:-1 tvg-id="" tvg-name="04| VEN:TVES" tvg-logo="" group-title="VENEZUELA",04| VEN:TVES
-http://magmas5.com:8000/malotv/gratis/151672
-#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="19 | TV CHILE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png" group-title="CHILE",19 | TV CHILE HD
-http://magmas5.com:8000/malotv/gratis/151673
-#EXTINF:-1 tvg-id="" tvg-name="CL| ADN Radio (UHD)" tvg-logo="" group-title="CHILE",CL| ADN Radio (UHD)
-http://magmas5.com:8000/malotv/gratis/151674
-#EXTINF:-1 tvg-id="" tvg-name="CL| ADN Radio (UHD)" tvg-logo="" group-title="CHILE",CL| ADN Radio (UHD)
-http://magmas5.com:8000/malotv/gratis/151675
-#EXTINF:-1 tvg-id="" tvg-name="CL| Alegria TV (SDT) *" tvg-logo="" group-title="CHILE",CL| Alegria TV (SDT) *
-http://magmas5.com:8000/malotv/gratis/151677
-#EXTINF:-1 tvg-id="" tvg-name="CL| Alternativa TV (Huasco) (HD) *" tvg-logo="" group-title="CHILE",CL| Alternativa TV (Huasco) (HD) *
-http://magmas5.com:8000/malotv/gratis/151678
-#EXTINF:-1 tvg-id="" tvg-name="CL| Antofagasta TV (ATV) (UHD)" tvg-logo="" group-title="CHILE",CL| Antofagasta TV (ATV) (UHD)
-http://magmas5.com:8000/malotv/gratis/151679
-#EXTINF:-1 tvg-id="" tvg-name="CL| ARABTV (HD)" tvg-logo="" group-title="CHILE",CL| ARABTV (HD)
-http://magmas5.com:8000/malotv/gratis/151680
-#EXTINF:-1 tvg-id="" tvg-name="CL| CANAL 74 San Antonio (HD) *" tvg-logo="" group-title="CHILE",CL| CANAL 74 San Antonio (HD) *
-http://magmas5.com:8000/malotv/gratis/151681
-#EXTINF:-1 tvg-id="" tvg-name="CL| Atacama TV (Copiapó) (HD) *" tvg-logo="" group-title="CHILE",CL| Atacama TV (Copiapó) (HD) *
-http://magmas5.com:8000/malotv/gratis/151682
-#EXTINF:-1 tvg-id="" tvg-name="CL| Aysén TV (HD) *" tvg-logo="" group-title="CHILE",CL| Aysén TV (HD) *
-http://magmas5.com:8000/malotv/gratis/151684
-#EXTINF:-1 tvg-id="" tvg-name="CL| Buin Somos Todos (HD) *" tvg-logo="" group-title="CHILE",CL| Buin Somos Todos (HD) *
-http://magmas5.com:8000/malotv/gratis/151685
-#EXTINF:-1 tvg-id="" tvg-name="CL| Campo Abierto TV (Huechuraba) (SDT) *" tvg-logo="" group-title="CHILE",CL| Campo Abierto TV (Huechuraba) (SDT) *
-http://magmas5.com:8000/malotv/gratis/151686
-#EXTINF:-1 tvg-id="" tvg-name="CL| Campus TV (Talca) (HD) *" tvg-logo="" group-title="CHILE",CL| Campus TV (Talca) (HD) *
-http://magmas5.com:8000/malotv/gratis/151687
-#EXTINF:-1 tvg-id="" tvg-name="CL| Canal 2 (San Antonio) (HD) *" tvg-logo="" group-title="CHILE",CL| Canal 2 (San Antonio) (HD) *
-http://magmas5.com:8000/malotv/gratis/151688
-#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CL| Canal 9 Bío Bío Televisión (UHD) *" tvg-logo="" group-title="CHILE",CL| Canal 9 Bío Bío Televisión (UHD) *
-http://magmas5.com:8000/malotv/gratis/151689
-#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CL| Canal 9 Bío Bío Televisión (UHD) *" tvg-logo="" group-title="CHILE",CL| Canal 9 Bío Bío Televisión (UHD) *
-http://magmas5.com:8000/malotv/gratis/151690
-#EXTINF:-1 tvg-id="" tvg-name="CL| Canal 57 Melipilla (HD)" tvg-logo="" group-title="CHILE",CL| Canal 57 Melipilla (HD)
-http://magmas5.com:8000/malotv/gratis/151694
-#EXTINF:-1 tvg-id="" tvg-name="CL| Canal 74 (San Antonio) (HD)" tvg-logo="" group-title="CHILE",CL| Canal 74 (San Antonio) (HD)
-http://magmas5.com:8000/malotv/gratis/151695
-#EXTINF:-1 tvg-id="DiputadosTV.ar" tvg-name="CL| Canal Diputados (HD) *" tvg-logo="" group-title="CHILE",CL| Canal Diputados (HD) *
-http://magmas5.com:8000/malotv/gratis/151696
-#EXTINF:-1 tvg-id="CanalISB.cl" tvg-name="CL| Canal ISB (Iglesia San Bernardo) (HD)" tvg-logo="" group-title="CHILE",CL| Canal ISB (Iglesia San Bernardo) (HD)
-http://magmas5.com:8000/malotv/gratis/151697
-#EXTINF:-1 tvg-id="" tvg-name="CL| Canal 2 (San Antonio) (HD)" tvg-logo="" group-title="CHILE",CL| Canal 2 (San Antonio) (HD)
-http://magmas5.com:8000/malotv/gratis/151699
-#EXTINF:-1 tvg-id="" tvg-name="CL| Caracola TV (Peñalolén) (HD) *" tvg-logo="" group-title="CHILE",CL| Caracola TV (Peñalolén) (HD) *
-http://magmas5.com:8000/malotv/gratis/151700
-#EXTINF:-1 tvg-id="" tvg-name="CL| Carolina TV (UHD) *" tvg-logo="" group-title="CHILE",CL| Carolina TV (UHD) *
-http://magmas5.com:8000/malotv/gratis/151701
-#EXTINF:-1 tvg-id="" tvg-name="CL| Carolina TV (UHD)" tvg-logo="" group-title="CHILE",CL| Carolina TV (UHD)
-http://magmas5.com:8000/malotv/gratis/151702
-#EXTINF:-1 tvg-id="" tvg-name="CL| CEAC TV (Santiago) (SDT)" tvg-logo="" group-title="CHILE",CL| CEAC TV (Santiago) (SDT)
-http://magmas5.com:8000/malotv/gratis/151703
-#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="CL| ChileVisión (SD)" tvg-logo="" group-title="CHILE",CL| ChileVisión (SD)
-http://magmas5.com:8000/malotv/gratis/151704
-#EXTINF:-1 tvg-id="" tvg-name="CL| Evavision TV  (HD)" tvg-logo="" group-title="CHILE",CL| Evavision TV  (HD)
-http://magmas5.com:8000/malotv/gratis/151705
-#EXTINF:-1 tvg-id="" tvg-name="CL| Cloudserver Kids90 (SDT)" tvg-logo="" group-title="CHILE",CL| Cloudserver Kids90 (SDT)
-http://magmas5.com:8000/malotv/gratis/151706
-#EXTINF:-1 tvg-id="" tvg-name="CL| Cloudserver Latam (CSTV) (HD)" tvg-logo="" group-title="CHILE",CL| Cloudserver Latam (CSTV) (HD)
-http://magmas5.com:8000/malotv/gratis/151707
-#EXTINF:-1 tvg-id="" tvg-name="CL| Contivisión (HD)" tvg-logo="" group-title="CHILE",CL| Contivisión (HD)
-http://magmas5.com:8000/malotv/gratis/151708
-#EXTINF:-1 tvg-id="" tvg-name="CL| Cultura Online (HD) *" tvg-logo="" group-title="CHILE",CL| Cultura Online (HD) *
-http://magmas5.com:8000/malotv/gratis/151709
-#EXTINF:-1 tvg-id="" tvg-name="CL| Décima TV (Ancud) (HD)" tvg-logo="" group-title="CHILE",CL| Décima TV (Ancud) (HD)
-http://magmas5.com:8000/malotv/gratis/151710
-#EXTINF:-1 tvg-id="" tvg-name="CL| EVA VISION TV (HD) *" tvg-logo="" group-title="CHILE",CL| EVA VISION TV (HD) *
-http://magmas5.com:8000/malotv/gratis/151711
-#EXTINF:-1 tvg-id="" tvg-name="CL| EnerGIA TV (HD) *" tvg-logo="" group-title="CHILE",CL| EnerGIA TV (HD) *
-http://magmas5.com:8000/malotv/gratis/151712
-#EXTINF:-1 tvg-id="" tvg-name="CL| Estación TV (HD) *" tvg-logo="" group-title="CHILE",CL| Estación TV (HD) *
-http://magmas5.com:8000/malotv/gratis/151713
-#EXTINF:-1 tvg-id="" tvg-name="CL| Evavisión Pachanga (Corporación Eva) (HD)" tvg-logo="" group-title="CHILE",CL| Evavisión Pachanga (Corporación Eva) (HD)
-http://magmas5.com:8000/malotv/gratis/151715
-#EXTINF:-1 tvg-id="" tvg-name="CL| Genial TV (HD) *" tvg-logo="" group-title="CHILE",CL| Genial TV (HD) *
-http://magmas5.com:8000/malotv/gratis/151716
-#EXTINF:-1 tvg-id="" tvg-name="CL| Geovisión (Iquique) (SDT)" tvg-logo="" group-title="CHILE",CL| Geovisión (Iquique) (SDT)
-http://magmas5.com:8000/malotv/gratis/151717
-#EXTINF:-1 tvg-id="" tvg-name="CL| Hiperconectados Televisión (HD)" tvg-logo="" group-title="CHILE",CL| Hiperconectados Televisión (HD)
-http://magmas5.com:8000/malotv/gratis/151719
-#EXTINF:-1 tvg-id="" tvg-name="CL| HiperTV (HD) *" tvg-logo="" group-title="CHILE",CL| HiperTV (HD) *
-http://magmas5.com:8000/malotv/gratis/151720
-#EXTINF:-1 tvg-id="" tvg-name="CL| Holvoet TV (Copiapó) (HD) *" tvg-logo="" group-title="CHILE",CL| Holvoet TV (Copiapó) (HD) *
-http://magmas5.com:8000/malotv/gratis/151721
-#EXTINF:-1 tvg-id="" tvg-name="CL| ITV Patagonia (HD) *" tvg-logo="" group-title="CHILE",CL| ITV Patagonia (HD) *
-http://magmas5.com:8000/malotv/gratis/151723
-#EXTINF:-1 tvg-id="" tvg-name="CL| La Popular TV (Salamanca) (HD) *" tvg-logo="" group-title="CHILE",CL| La Popular TV (Salamanca) (HD) *
-http://magmas5.com:8000/malotv/gratis/151726
-#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="CL| La Red" tvg-logo="" group-title="CHILE",CL| La Red
-http://magmas5.com:8000/malotv/gratis/151727
-#EXTINF:-1 tvg-id="" tvg-name="CL| MÁS+.TV Chile (HD) *" tvg-logo="" group-title="CHILE",CL| MÁS+.TV Chile (HD) *
-http://magmas5.com:8000/malotv/gratis/151728
-#EXTINF:-1 tvg-id="" tvg-name="CL|  T-VINET TV (HD) *" tvg-logo="" group-title="CHILE",CL|  T-VINET TV (HD) *
-http://magmas5.com:8000/malotv/gratis/151729
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL| Meganoticias (HD) *" tvg-logo="" group-title="CHILE",CL| Meganoticias (HD) *
-http://magmas5.com:8000/malotv/gratis/151731
-#EXTINF:-1 tvg-id="" tvg-name="CL| Mundo de la Música (SDT)" tvg-logo="" group-title="CHILE",CL| Mundo de la Música (SDT)
-http://magmas5.com:8000/malotv/gratis/151732
-#EXTINF:-1 tvg-id="" tvg-name="CL| Pauta (HD)" tvg-logo="" group-title="CHILE",CL| Pauta (HD)
-http://magmas5.com:8000/malotv/gratis/151733
-#EXTINF:-1 tvg-id="" tvg-name="CL| Pauta (HD)" tvg-logo="" group-title="CHILE",CL| Pauta (HD)
-http://magmas5.com:8000/malotv/gratis/151734
-#EXTINF:-1 tvg-id="" tvg-name="CL| Pintana TV (HD)" tvg-logo="" group-title="CHILE",CL| Pintana TV (HD)
-http://magmas5.com:8000/malotv/gratis/151735
-#EXTINF:-1 tvg-id="" tvg-name="CL| Portalfoxmix (UHD) *" tvg-logo="" group-title="CHILE",CL| Portalfoxmix (UHD) *
-http://magmas5.com:8000/malotv/gratis/151736
-#EXTINF:-1 tvg-id="" tvg-name="CL| Portalfoxmix (SDT) *" tvg-logo="" group-title="CHILE",CL| Portalfoxmix (SDT) *
-http://magmas5.com:8000/malotv/gratis/151737
-#EXTINF:-1 tvg-id="" tvg-name="CL| Puncón TV (UHD) *" tvg-logo="" group-title="CHILE",CL| Puncón TV (UHD) *
-http://magmas5.com:8000/malotv/gratis/151738
-#EXTINF:-1 tvg-id="" tvg-name="CL| RedBull Batalla de Gallos (HD)" tvg-logo="" group-title="CHILE",CL| RedBull Batalla de Gallos (HD)
-http://magmas5.com:8000/malotv/gratis/151739
-#EXTINF:-1 tvg-id="" tvg-name="CL| Retro Plus 2 (HD)" tvg-logo="" group-title="CHILE",CL| Retro Plus 2 (HD)
-http://magmas5.com:8000/malotv/gratis/151740
-#EXTINF:-1 tvg-id="" tvg-name="CL| Retro Plus 3 (HD)" tvg-logo="" group-title="CHILE",CL| Retro Plus 3 (HD)
-http://magmas5.com:8000/malotv/gratis/151741
-#EXTINF:-1 tvg-id="" tvg-name="CL| Retro Plus (HD)" tvg-logo="" group-title="CHILE",CL| Retro Plus (HD)
-http://magmas5.com:8000/malotv/gratis/151742
-#EXTINF:-1 tvg-id="" tvg-name="CL| Rocco TV (Coyhaique) (SD) *" tvg-logo="" group-title="CHILE",CL| Rocco TV (Coyhaique) (SD) *
-http://magmas5.com:8000/malotv/gratis/151744
-#EXTINF:-1 tvg-id="" tvg-name="CL| Ruidos FM (HD)" tvg-logo="" group-title="CHILE",CL| Ruidos FM (HD)
-http://magmas5.com:8000/malotv/gratis/151745
-#EXTINF:-1 tvg-id="" tvg-name="CL| Santa María Televisión (HD) *" tvg-logo="" group-title="CHILE",CL| Santa María Televisión (HD) *
-http://magmas5.com:8000/malotv/gratis/151746
-#EXTINF:-1 tvg-id="" tvg-name="CL| Sello de Raza (HD) *" tvg-logo="" group-title="CHILE",CL| Sello de Raza (HD) *
-http://magmas5.com:8000/malotv/gratis/151747
-#EXTINF:-1 tvg-id="" tvg-name="CL| SoloStandUp (SDT) *" tvg-logo="" group-title="CHILE",CL| SoloStandUp (SDT) *
-http://magmas5.com:8000/malotv/gratis/151748
-#EXTINF:-1 tvg-id="" tvg-name="CL| Stgo.TV (HD)" tvg-logo="" group-title="CHILE",CL| Stgo.TV (HD)
-http://magmas5.com:8000/malotv/gratis/151749
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="CL| T13 (SD) *" tvg-logo="" group-title="CHILE",CL| T13 (SD) *
-http://magmas5.com:8000/malotv/gratis/151750
-#EXTINF:-1 tvg-id="" tvg-name="CL| Tele 2 Web (Retiro) (HD) *" tvg-logo="" group-title="CHILE",CL| Tele 2 Web (Retiro) (HD) *
-http://magmas5.com:8000/malotv/gratis/151751
-#EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-name="CL| Teletrak (HD) *" tvg-logo="" group-title="CHILE",CL| Teletrak (HD) *
-http://magmas5.com:8000/malotv/gratis/151752
-#EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-name="CL| Teletrak (HD)" tvg-logo="" group-title="CHILE",CL| Teletrak (HD)
-http://magmas5.com:8000/malotv/gratis/151753
-#EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-name="CL| Teletrak (HD)" tvg-logo="" group-title="CHILE",CL| Teletrak (HD)
-http://magmas5.com:8000/malotv/gratis/151754
-#EXTINF:-1 tvg-id="" tvg-name="CL| Tevex (HD) *" tvg-logo="" group-title="CHILE",CL| Tevex (HD) *
-http://magmas5.com:8000/malotv/gratis/151755
-#EXTINF:-1 tvg-id="" tvg-name="CL| Thema Televisión (La Serena) (HD) *" tvg-logo="" group-title="CHILE",CL| Thema Televisión (La Serena) (HD) *
-http://magmas5.com:8000/malotv/gratis/151756
-#EXTINF:-1 tvg-id="" tvg-name="CL| Thema Televisión (La Serena) (HD) *" tvg-logo="" group-title="CHILE",CL| Thema Televisión (La Serena) (HD) *
-http://magmas5.com:8000/malotv/gratis/151757
-#EXTINF:-1 tvg-id="" tvg-name="CL| TNE (HD) *" tvg-logo="" group-title="CHILE",CL| TNE (HD) *
-http://magmas5.com:8000/malotv/gratis/151758
-#EXTINF:-1 tvg-id="" tvg-name="CL| Turf Móvil (HD)" tvg-logo="" group-title="CHILE",CL| Turf Móvil (HD)
-http://magmas5.com:8000/malotv/gratis/151759
-#EXTINF:-1 tvg-id="" tvg-name="CL| TV5 Linares (HD)" tvg-logo="" group-title="CHILE",CL| TV5 Linares (HD)
-http://magmas5.com:8000/malotv/gratis/151760
-#EXTINF:-1 tvg-id="" tvg-name="CL| TV5 Linares (HD) *" tvg-logo="" group-title="CHILE",CL| TV5 Linares (HD) *
-http://magmas5.com:8000/malotv/gratis/151761
-#EXTINF:-1 tvg-id="" tvg-name="CL| ATACAMA (TV) (HD) *" tvg-logo="" group-title="CHILE",CL| ATACAMA (TV) (HD) *
-http://magmas5.com:8000/malotv/gratis/151762
-#EXTINF:-1 tvg-id="" tvg-name="CL| TVO (San Vicente) (HD) *" tvg-logo="" group-title="CHILE",CL| TVO (San Vicente) (HD) *
-http://magmas5.com:8000/malotv/gratis/151763
-#EXTINF:-1 tvg-id="" tvg-name="CL| TVO San Vicente (HD) *" tvg-logo="" group-title="CHILE",CL| TVO San Vicente (HD) *
-http://magmas5.com:8000/malotv/gratis/151764
-#EXTINF:-1 tvg-id="" tvg-name="CL| TV Osorno (SDT) *" tvg-logo="" group-title="CHILE",CL| TV Osorno (SDT) *
-http://magmas5.com:8000/malotv/gratis/151765
-#EXTINF:-1 tvg-id="" tvg-name="CL| TVO Tocopilla (SD) *" tvg-logo="" group-title="CHILE",CL| TVO Tocopilla (SD) *
-http://magmas5.com:8000/malotv/gratis/151766
-#EXTINF:-1 tvg-id="" tvg-name="CL| TV Pop (HD)" tvg-logo="" group-title="CHILE",CL| TV Pop (HD)
-http://magmas5.com:8000/malotv/gratis/151767
-#EXTINF:-1 tvg-id="" tvg-name="CL| TV Quellón (UHD) *" tvg-logo="" group-title="CHILE",CL| TV Quellón (UHD) *
-http://magmas5.com:8000/malotv/gratis/151768
-#EXTINF:-1 tvg-id="" tvg-name="CL| TV Quinta Región (UHD) *" tvg-logo="" group-title="CHILE",CL| TV Quinta Región (UHD) *
-http://magmas5.com:8000/malotv/gratis/151769
-#EXTINF:-1 tvg-id="" tvg-name="CL| TVR (UHD) *" tvg-logo="" group-title="CHILE",CL| TVR (UHD) *
-http://magmas5.com:8000/malotv/gratis/151770
-#EXTINF:-1 tvg-id="" tvg-name="CL| TVR (HD)" tvg-logo="" group-title="CHILE",CL| TVR (HD)
-http://magmas5.com:8000/malotv/gratis/151771
-#EXTINF:-1 tvg-id="" tvg-name="CL| Universidad Autónoma Temuco (UATV) (UHD) *" tvg-logo="" group-title="CHILE",CL| Universidad Autónoma Temuco (UATV) (UHD) *
-http://magmas5.com:8000/malotv/gratis/151772
-#EXTINF:-1 tvg-id="" tvg-name="CL| Universidad Autónoma Temuco (UATV) (UHD) *" tvg-logo="" group-title="CHILE",CL| Universidad Autónoma Temuco (UATV) (UHD) *
-http://magmas5.com:8000/malotv/gratis/151773
-#EXTINF:-1 tvg-id="UCVTV.cl" tvg-name="CL| UCV3 TV (HD)" tvg-logo="" group-title="CHILE",CL| UCV3 TV (HD)
-http://magmas5.com:8000/malotv/gratis/151774
-#EXTINF:-1 tvg-id="" tvg-name="CL| UESTV (HD)" tvg-logo="" group-title="CHILE",CL| UESTV (HD)
-http://magmas5.com:8000/malotv/gratis/151778
-#EXTINF:-1 tvg-id="" tvg-name="CL| U Los Lagos TV (UHD) *" tvg-logo="" group-title="CHILE",CL| U Los Lagos TV (UHD) *
-http://magmas5.com:8000/malotv/gratis/151779
-#EXTINF:-1 tvg-id="" tvg-name="CL| UMAGTV Televisión (Punta Arenas) (HD)" tvg-logo="" group-title="CHILE",CL| UMAGTV Televisión (Punta Arenas) (HD)
-http://magmas5.com:8000/malotv/gratis/151780
-#EXTINF:-1 tvg-id="" tvg-name="CL| Unidad Evangelica TV (HD) *" tvg-logo="" group-title="CHILE",CL| Unidad Evangelica TV (HD) *
-http://magmas5.com:8000/malotv/gratis/151781
-#EXTINF:-1 tvg-id="" tvg-name="CL| VC Online (HD)" tvg-logo="" group-title="CHILE",CL| VC Online (HD)
-http://magmas5.com:8000/malotv/gratis/151782
-#EXTINF:-1 tvg-id="" tvg-name="CL| Vida TV (UHD)" tvg-logo="" group-title="CHILE",CL| Vida TV (UHD)
-http://magmas5.com:8000/malotv/gratis/151783
-#EXTINF:-1 tvg-id="" tvg-name="CL| Visión Plus TV (Melipilla) (HD) *" tvg-logo="" group-title="CHILE",CL| Visión Plus TV (Melipilla) (HD) *
-http://magmas5.com:8000/malotv/gratis/151784
-#EXTINF:-1 tvg-id="" tvg-name="CL| Voz de Poder (HD) *" tvg-logo="" group-title="CHILE",CL| Voz de Poder (HD) *
-http://magmas5.com:8000/malotv/gratis/151785
-#EXTINF:-1 tvg-id="" tvg-name="CL| VTV Valle de Aconcagua (HD) *" tvg-logo="" group-title="CHILE",CL| VTV Valle de Aconcagua (HD) *
-http://magmas5.com:8000/malotv/gratis/151786
-#EXTINF:-1 tvg-id="" tvg-name="CL| VTV Valle de Aconcagua (HD) *" tvg-logo="" group-title="CHILE",CL| VTV Valle de Aconcagua (HD) *
-http://magmas5.com:8000/malotv/gratis/151787
-#EXTINF:-1 tvg-id="" tvg-name="CL| Wapp (UHD)" tvg-logo="" group-title="CHILE",CL| Wapp (UHD)
-http://magmas5.com:8000/malotv/gratis/151788
-#EXTINF:-1 tvg-id="" tvg-name="CL| Ziza TV (Chiguayante) (HD) *" tvg-logo="" group-title="CHILE",CL| Ziza TV (Chiguayante) (HD) *
-http://magmas5.com:8000/malotv/gratis/151789
-#EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-name="CL| Zona Latina (SDT) *" tvg-logo="" group-title="CHILE",CL| Zona Latina (SDT) *
-http://magmas5.com:8000/malotv/gratis/151790
-#EXTINF:-1 tvg-id="" tvg-name="CL| Tendencias 31 Prime (T31) (UHD) *" tvg-logo="" group-title="CHILE",CL| Tendencias 31 Prime (T31) (UHD) *
-http://magmas5.com:8000/malotv/gratis/151791
-#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-name="CL| 24 Horas (HD) *" tvg-logo="" group-title="CHILE",CL| 24 Horas (HD) *
-http://magmas5.com:8000/malotv/gratis/151792
-#EXTINF:-1 tvg-id="" tvg-name="CL| Ñublevisión (Chillán) (HD)" tvg-logo="" group-title="CHILE",CL| Ñublevisión (Chillán) (HD)
-http://magmas5.com:8000/malotv/gratis/151793
-#EXTINF:-1 tvg-id="" tvg-name="CL| Ñuble RTV (Chillán) (HD) *" tvg-logo="" group-title="CHILE",CL| Ñuble RTV (Chillán) (HD) *
-http://magmas5.com:8000/malotv/gratis/151794
-#EXTINF:-1 tvg-id="" tvg-name="CL| San Carlos TV (Ñuble) (HD) *" tvg-logo="" group-title="CHILE",CL| San Carlos TV (Ñuble) (HD) *
-http://magmas5.com:8000/malotv/gratis/151795
-#EXTINF:-1 tvg-id="" tvg-name="CL| Exprezión TV (EXTV | Los Álamos) (HD) *" tvg-logo="" group-title="CHILE",CL| Exprezión TV (EXTV | Los Álamos) (HD) *
-http://magmas5.com:8000/malotv/gratis/151796
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA| ECO TV HD" tvg-logo="https://photos.live-tv-channels.org/tv-logo/pa-eco-tv-3120.jpg" group-title="PANAMA",PANAMA| ECO TV HD
-http://magmas5.com:8000/malotv/gratis/151798
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA| CABLE ONDA SPORTS FC *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cable_Onda_Sports_logo.svg/1200px-Cable_Onda_Sports_logo.svg.png" group-title="PANAMA",PANAMA| CABLE ONDA SPORTS FC *
-http://magmas5.com:8000/malotv/gratis/151799
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA| CABLE ONDA SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cable_Onda_Sports_logo.svg/1200px-Cable_Onda_Sports_logo.svg.png" group-title="PANAMA",PANAMA| CABLE ONDA SPORTS
-http://magmas5.com:8000/malotv/gratis/151800
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA| HOSANNA HD" tvg-logo="https://hosannavision.com/site/assets/files/1/hosanna-logo.png" group-title="PANAMA",PANAMA| HOSANNA HD
-http://magmas5.com:8000/malotv/gratis/151801
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA| OYE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/OYE_TV.jpg" group-title="PANAMA",PANAMA| OYE HD
-http://magmas5.com:8000/malotv/gratis/151802
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA| BOCAS TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bocas_TV_Logo_3D.png/640px-Bocas_TV_Logo_3D.png" group-title="PANAMA",PANAMA| BOCAS TV HD
-http://magmas5.com:8000/malotv/gratis/151803
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | ORBITA TV CANAL 25 HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/Orbita-TV-en-directo-Online.png" group-title="EL SALVADOR",EL SALVADOR | ORBITA TV CANAL 25 HD
-http://magmas5.com:8000/malotv/gratis/151804
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | ELIM TV HD" tvg-logo="https://www.elim.org.sv/wp-content/uploads/2016/07/ELIM-TV-PROFILE-2.png" group-title="EL SALVADOR",EL SALVADOR | ELIM TV HD
-http://magmas5.com:8000/malotv/gratis/151805
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TCS TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TCS_El_Salvador_2002.svg/1200px-TCS_El_Salvador_2002.svg.png" group-title="EL SALVADOR",EL SALVADOR | TCS TV HD
-http://magmas5.com:8000/malotv/gratis/151806
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TELE UNO TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TeleUno_1997.png" group-title="EL SALVADOR",EL SALVADOR | TELE UNO TV HD
-http://magmas5.com:8000/malotv/gratis/151807
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TRIBUNA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/TV_Tribuna_logo.png" group-title="EL SALVADOR",EL SALVADOR | TRIBUNA TV HD
-http://magmas5.com:8000/malotv/gratis/151808
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR |  CANAL 11 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TUTV_11_2014.png" group-title="EL SALVADOR",EL SALVADOR |  CANAL 11 SD
-http://magmas5.com:8000/malotv/gratis/151809
-#EXTINF:-1 tvg-id="Teleceiba.hn" tvg-name="41 | TELECEIBA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/teleceiba.png" group-title="HONDURAS",41 | TELECEIBA
-http://magmas5.com:8000/malotv/gratis/151871
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | PRESENCIA TV UHD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fc474702a05c6c10c7186d240a664e28.webp" group-title="GUATEMALA",GUATEMALA | PRESENCIA TV UHD
-http://magmas5.com:8000/malotv/gratis/151872
-#EXTINF:-1 tvg-id="" tvg-name="24| MERIDIANO TV (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png" group-title="VENEZUELA",24| MERIDIANO TV (SD)
-http://magmas5.com:8000/malotv/gratis/151873
-#EXTINF:-1 tvg-id="" tvg-name="05 - PELICULAS RECIEN AGREGADAS AL SERVICIO (JULIO - AGOSTO)" tvg-logo="https://i.ibb.co/f8tZdc7/image.png" group-title="NOVEDADES DEL SERVICIO",05 - PELICULAS RECIEN AGREGADAS AL SERVICIO (JULIO - AGOSTO)
-http://magmas5.com:8000/malotv/gratis/151932
-#EXTINF:-1 tvg-id="" tvg-name="06 | CRISTIANA TV INTERNACIONAL HD" tvg-logo="http://tvcristiana.net/wp-content/uploads/2013/05/tvpost-naciontv-737x475.jpg" group-title="RELIGION",06 | CRISTIANA TV INTERNACIONAL HD
-http://magmas5.com:8000/malotv/gratis/152469
-#EXTINF:-1 tvg-id="Canal10.sv" tvg-name="EL SALVADOR | CANAL 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/1200px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="EL SALVADOR",EL SALVADOR | CANAL 10 HD
-http://magmas5.com:8000/malotv/gratis/152577
-#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-name="EL SALVADOR | CANAL 23" tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="EL SALVADOR",EL SALVADOR | CANAL 23
-http://magmas5.com:8000/malotv/gratis/152578
-#EXTINF:-1 tvg-id="KanalDRomania.ro" tvg-name="14 | KANAL D DRAMA " tvg-logo="https://kanald.international/wp-content/uploads/2021/06/kanal_d_Logo_international.png" group-title="NOVELAS",14 | KANAL D DRAMA 
-http://magmas5.com:8000/malotv/gratis/152801
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Familia P. Luche" tvg-logo="https://www.kindpng.com/picc/m/24-244955_la-familia-p-la-familia-p-luche-hd.png" group-title="CANALES 24/7",24/7 | La Familia P. Luche
-http://magmas5.com:8000/malotv/gratis/152821
-#EXTINF:-1 tvg-id="" tvg-name="28 | DIRECTV HD UY" tvg-logo="" group-title="URUGUAY",28 | DIRECTV HD UY
-http://magmas5.com:8000/malotv/gratis/152882
-#EXTINF:-1 tvg-id="" tvg-name="10 | DIRECTV UY HD" tvg-logo="" group-title="FUTBOL - URUGUAY-PARAGUAY-BOLIVIA ⚽",10 | DIRECTV UY HD
-http://magmas5.com:8000/malotv/gratis/152884
-#EXTINF:-1 tvg-id="Canal10.sv" tvg-name="EL SALVADOR | CANAL TVM HD" tvg-logo="https://tvm.com.sv/wp-content/uploads/2021/06/cropped-PWA.png" group-title="EL SALVADOR",EL SALVADOR | CANAL TVM HD
-http://magmas5.com:8000/malotv/gratis/152949
-#EXTINF:-1 tvg-id="" tvg-name="41 | TIGO SPORTS EL SALVADOR HD" tvg-logo="" group-title="PACK FUTBOL⚽",41 | TIGO SPORTS EL SALVADOR HD
-http://magmas5.com:8000/malotv/gratis/141925
-#EXTINF:-1 tvg-id="" tvg-name="46 | TIGO SPORTS HONDURAS HD" tvg-logo="" group-title="PACK FUTBOL⚽",46 | TIGO SPORTS HONDURAS HD
-http://magmas5.com:8000/malotv/gratis/144608
-#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-name="08 | FOX SPORTS 3 MX HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Fox_sports_3.png" group-title="MEXICO - LIGA MX ⚽",08 | FOX SPORTS 3 MX HD 
-http://magmas5.com:8000/malotv/gratis/144619
-#EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" tvg-name="47 | BEIN SPORTS XTRA Ñ MX" tvg-logo="" group-title="PACK FUTBOL⚽",47 | BEIN SPORTS XTRA Ñ MX
-http://magmas5.com:8000/malotv/gratis/144620
-#EXTINF:-1 tvg-id="" tvg-name="05 | DIRECTV SPORTS (COL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="COLOMBIA -PRIMERA A⚽",05 | DIRECTV SPORTS (COL)
-http://magmas5.com:8000/malotv/gratis/145404
-#EXTINF:-1 tvg-id="FoxSports2South.us" tvg-name="06 | FOX SPORTS 2 (COL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="COLOMBIA -PRIMERA A⚽",06 | FOX SPORTS 2 (COL)
-http://magmas5.com:8000/malotv/gratis/145407
-#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="07 | FOX SPORTS 3 (COL)" tvg-logo="" group-title="COLOMBIA -PRIMERA A⚽",07 | FOX SPORTS 3 (COL)
-http://magmas5.com:8000/malotv/gratis/145409
-#EXTINF:-1 tvg-id="" tvg-name="48 | FUTV GRITALO FHD" tvg-logo="https://1.bp.blogspot.com/-fuiNMHxxBa8/Xj9K4sAvkaI/AAAAAAAANKs/JK__aGQCmXoUM-NLaoTKQoi9rl95olQCwCLcBGAsYHQ/s640/futv.png" group-title="PACK FUTBOL⚽",48 | FUTV GRITALO FHD
-http://magmas5.com:8000/malotv/gratis/145807
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="49 | SKY Sports Main Event (ES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="PACK FUTBOL⚽",49 | SKY Sports Main Event (ES)
-http://magmas5.com:8000/malotv/gratis/145808
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="50 | SKY Sports MIX (UK)" tvg-logo="https://ia800805.us.archive.org/33/items/SkySportsMixNew_201708/sky%20sports%20mix%20new.png" group-title="PACK FUTBOL⚽",50 | SKY Sports MIX (UK)
-http://magmas5.com:8000/malotv/gratis/145811
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="51 | SKY Sports ACTION (UK)" tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" group-title="PACK FUTBOL⚽",51 | SKY Sports ACTION (UK)
-http://magmas5.com:8000/malotv/gratis/145814
-#EXTINF:-1 tvg-id="ESPN3South.us" tvg-name="21 | ESPN 3 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="PACK FUTBOL⚽",21 | ESPN 3 UHD
-http://magmas5.com:8000/malotv/gratis/2818
-#EXTINF:-1 tvg-id="CDFHD.cl" tvg-name="12 | CDF UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="PACK FUTBOL⚽",12 | CDF UHD
-http://magmas5.com:8000/malotv/gratis/2686
-#EXTINF:-1 tvg-id="" tvg-name="Un cuento de Navidad (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sh822zcLjxGfF2BogCOLLNCPvSu.jpg" group-title="NAVIDAD-PELICULAS",Un cuento de Navidad (2013)
-http://magmas5.com:8000/movie/malotv/gratis/149227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias de Navidad (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE5ZcJQA0tSG1KCiy4Fv0W91dS7.jpg" group-title="NAVIDAD-PELICULAS",Historias de Navidad (1983)
-http://magmas5.com:8000/movie/malotv/gratis/149237.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Imperdonable (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpZUU24mIn1IQGwovqEUT0AjGj2.jpg" group-title="ACCION-CIENCIA FICCION-AVENTURA",Imperdonable (2021)
-http://magmas5.com:8000/movie/malotv/gratis/149346.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tras la línea enemiga (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO9RxmeCKwLV1nggbKd9uSw99ZR.jpg" group-title="RECIEN AGREGADAS",Tras la línea enemiga (2001)
-http://magmas5.com:8000/movie/malotv/gratis/149756.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Paseo 5: El Paseo de Oficina (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAZ5WNNdgQr2dk2PixcZkWbgezA.jpg" group-title="RECIEN AGREGADAS",El Paseo 5: El Paseo de Oficina (2018)
-http://magmas5.com:8000/movie/malotv/gratis/149948.mp4
-#EXTINF:-1 tvg-id="OnDirecTVHDSouth.us" tvg-name="89 | ON DIRECTV  UHD #1" tvg-logo="https://img1.freepng.es/20180817/cwh/kisspng-logo-tv-directv-brand-vector-graphics-5b773aeab11131.9230178615345405227253.jpg" group-title="DEPORTES UHD ",89 | ON DIRECTV  UHD #1
-http://magmas5.com:8000/malotv/gratis/149988
-#EXTINF:-1 tvg-id="OnDirecTVHDSouth.us" tvg-name="53 | ON DIRECTV UHD (ARG)" tvg-logo="https://img1.freepng.es/20180817/cwh/kisspng-logo-tv-directv-brand-vector-graphics-5b773aeab11131.9230178615345405227253.jpg" group-title="PACK FUTBOL⚽",53 | ON DIRECTV UHD (ARG)
-http://magmas5.com:8000/malotv/gratis/149990
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="09 | WIN SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="PACK FUTBOL⚽",09 | WIN SPORTS 
-http://magmas5.com:8000/malotv/gratis/2683
-#EXTINF:-1 tvg-id="" tvg-name="01 | BRASIL SERIE A #1" tvg-logo="" group-title="FUTBOL - BRASIL SERIE A ⚽",01 | BRASIL SERIE A #1
-http://magmas5.com:8000/malotv/gratis/151101
-#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="54 | TNT SPORTS 3 UHD (CHIL)" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png" group-title="PACK FUTBOL⚽",54 | TNT SPORTS 3 UHD (CHIL)
-http://magmas5.com:8000/malotv/gratis/151868
-#EXTINF:-1 tvg-id="" tvg-name="Ciberinfierno: La investigación que destapó el horror (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcMRcTNNnvNRXVgOxEjFssU6QOe.jpg" group-title="ESTRENOS 2022",Ciberinfierno: La investigación que destapó el horror (2022)
-http://magmas5.com:8000/movie/malotv/gratis/152487.mp4
-#EXTINF:-1 tvg-id="MovistarLigadeCampeones.es" tvg-name="56 | EVENTOS STAR+ FHD" tvg-logo="https://i.blogs.es/2ec255/star-_logo.svg/original.png" group-title="PACK FUTBOL⚽",56 | EVENTOS STAR+ FHD
-http://magmas5.com:8000/malotv/gratis/152907
-#EXTINF:-1 tvg-id="NBATVHD.us" tvg-name="35 | NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="PACK FUTBOL⚽",35 | NBA TV
-http://magmas5.com:8000/malotv/gratis/133071
-#EXTINF:-1 tvg-id="" tvg-name="APP FREE MALO TV (www.malotv.com)" tvg-logo="" group-title="MALOTV SERVICIO (FREE)",APP FREE MALO TV (www.malotv.com)
-http://magmas5.com:8000/malotv/gratis/149619
-#EXTINF:-1 tvg-id="" tvg-name="28 | FORMULA 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="DEPORTES UHD ",28 | FORMULA 1 FHD
-http://magmas5.com:8000/malotv/gratis/145436
-#EXTINF:-1 tvg-id="" tvg-name="51 | TUDN XTRA #1" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="DEPORTES UHD ",51 | TUDN XTRA #1
-http://magmas5.com:8000/malotv/gratis/145459
-#EXTINF:-1 tvg-id="" tvg-name="58 |  TD+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1280px-TD_M%C3%A1s_2_Logo.svg.png" group-title="DEPORTES UHD ",58 |  TD+ 2
-http://magmas5.com:8000/malotv/gratis/145466
-#EXTINF:-1 tvg-id="" tvg-name="57 | TD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png" group-title="DEPORTES UHD ",57 | TD+
-http://magmas5.com:8000/malotv/gratis/145465
-#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="09 | ESPN DEPORTES HD ARG" tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="DEPORTES UHD ",09 | ESPN DEPORTES HD ARG
-http://magmas5.com:8000/malotv/gratis/145417
-#EXTINF:-1 tvg-id="" tvg-name="42 | GOL PERU HD" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES UHD ",42 | GOL PERU HD
-http://magmas5.com:8000/malotv/gratis/145450
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="07 | DEPORTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" group-title="ARGENTINA NACIONALES",07 | DEPORTV 
-http://magmas5.com:8000/malotv/gratis/3540
-#EXTINF:-1 tvg-id="Metro.ar" tvg-name="30 | METRO " tvg-logo="https://www.pngitem.com/pimgs/m/286-2868325_thumb-image-metro-tv-news-logo-hd-png.png" group-title="ARGENTINA NACIONALES",30 | METRO 
-http://magmas5.com:8000/malotv/gratis/3563
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="35 | EL TRECE HD" tvg-logo="https://www.nicepng.com/png/full/828-8283014_eltrece-logo-eltrece-logo-el-trece.png" group-title="ARGENTINA NACIONALES",35 | EL TRECE HD
-http://magmas5.com:8000/malotv/gratis/3568
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="05 | LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="ARGENTINA NACIONALES",05 | LN+
-http://magmas5.com:8000/malotv/gratis/3538
-#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="42 | TNT SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="ARGENTINA NACIONALES",42 | TNT SPORTS FHD
-http://magmas5.com:8000/malotv/gratis/131980
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="34 | AMERICA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARGENTINA NACIONALES",34 | AMERICA TV HD
-http://magmas5.com:8000/malotv/gratis/3567
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="23 | TODO NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="ARGENTINA NACIONALES",23 | TODO NOTICIAS
-http://magmas5.com:8000/malotv/gratis/3556
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="03 | TELEFE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA NACIONALES",03 | TELEFE 
-http://magmas5.com:8000/malotv/gratis/3536
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="09 | CANAL 9 HD" tvg-logo="https://www.resistenciaurbana.com/wp-content/uploads/2020/06/84825-canal2b92bhd.png" group-title="ARGENTINA NACIONALES",09 | CANAL 9 HD
-http://magmas5.com:8000/malotv/gratis/3542
-#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="13 | CHILEVISION" tvg-logo="https://cdn.elobservatodo.cl/sites/elobservatodo.cl/files/imagecache/380x285/imagen_noticia/canales.png" group-title="CHILE",13 | CHILEVISION
-http://magmas5.com:8000/malotv/gratis/130050
-#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="05 | CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/305px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="CHILE",05 | CANAL 13
-http://magmas5.com:8000/malotv/gratis/3311
-#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="09 |  LA RED " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/1200px-La_Red_Logotipo.svg.png" group-title="CHILE",09 |  LA RED 
-http://magmas5.com:8000/malotv/gratis/3529
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="07 | CNN CHILE " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/CNN_Chile_Logo.svg/1280px-CNN_Chile_Logo.svg.png" group-title="CHILE",07 | CNN CHILE 
-http://magmas5.com:8000/malotv/gratis/3316
-#EXTINF:-1 tvg-id="TVN.cl" tvg-name="02 | TVN HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVN_HD.svg/1280px-TVN_HD.svg.png" group-title="CHILE",02 | TVN HD 
-http://magmas5.com:8000/malotv/gratis/3307
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="12 |  24 HORAS CL" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tvn-24-h_m.png" group-title="CHILE",12 |  24 HORAS CL
-http://magmas5.com:8000/malotv/gratis/3533
-#EXTINF:-1 tvg-id="" tvg-name="26 | CANAL IPE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="PERU",26 | CANAL IPE HD
-http://magmas5.com:8000/malotv/gratis/148542
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="13 | TV PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="PERU",13 | TV PERU
-http://magmas5.com:8000/malotv/gratis/3336
-#EXTINF:-1 tvg-id="ATV.pe" tvg-name="03 | ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="PERU",03 | ATV
-http://magmas5.com:8000/malotv/gratis/3320
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="19 | PANAMERICANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="PERU",19 | PANAMERICANA
-http://magmas5.com:8000/malotv/gratis/3351
-#EXTINF:-1 tvg-id="" tvg-name="11 | CANAL N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="PERU",11 | CANAL N
-http://magmas5.com:8000/malotv/gratis/3331
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="06 | LATINA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="PERU",06 | LATINA 
-http://magmas5.com:8000/malotv/gratis/3326
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="18 | PANAMERICANA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="PERU",18 | PANAMERICANA HD
-http://magmas5.com:8000/malotv/gratis/3350
-#EXTINF:-1 tvg-id="Cheddar.us" tvg-name="14 | CHEDDAR NEW UHD" tvg-logo="https://miro.medium.com/max/2656/1*DhgWWj7DTZ-kD2zWhBBwAg.png" group-title="NOTICIAS - NEWS - 24/7",14 | CHEDDAR NEW UHD
-http://magmas5.com:8000/malotv/gratis/148802
-#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="15 | CNBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png" group-title="NOTICIAS - NEWS - 24/7",15 | CNBC HD
-http://magmas5.com:8000/malotv/gratis/148828
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="02 | CNN ESPAÑOL UHD" tvg-logo="" group-title="NOTICIAS - NEWS - 24/7",02 | CNN ESPAÑOL UHD
-http://magmas5.com:8000/malotv/gratis/141351
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="11 | DW NOTICIAS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS - NEWS - 24/7",11 | DW NOTICIAS MX
-http://magmas5.com:8000/malotv/gratis/141388
-#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-name="06 | 24H ESPAÑA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png" group-title="NOTICIAS - NEWS - 24/7",06 | 24H ESPAÑA HD
-http://magmas5.com:8000/malotv/gratis/141355
-#EXTINF:-1 tvg-id="NTN24.co" tvg-name="08 | NTN 24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/1200px-NTN24_logo.svg.png" group-title="NOTICIAS - NEWS - 24/7",08 | NTN 24 HORAS
-http://magmas5.com:8000/malotv/gratis/141383
-#EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="03 | CNN CHILE UHD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/sml_gallery_11278_7_322.png" group-title="NOTICIAS - NEWS - 24/7",03 | CNN CHILE UHD
-http://magmas5.com:8000/malotv/gratis/141352
-#EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-name="04 | CNN ESPAÑOL (ARGE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="NOTICIAS - NEWS - 24/7",04 | CNN ESPAÑOL (ARGE)
-http://magmas5.com:8000/malotv/gratis/141353
-#EXTINF:-1 tvg-id="5StarMaxEast.us" tvg-name="26 | CBS Sports News HQ USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="USA",26 | CBS Sports News HQ USA
-http://magmas5.com:8000/malotv/gratis/131018
-#EXTINF:-1 tvg-id="I392.11705.schedulesdirect.org" tvg-name="176| NBC Baltimore USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/NBC_News_2013_logo.png" group-title="USA",176| NBC Baltimore USA
-http://magmas5.com:8000/malotv/gratis/131175
-#EXTINF:-1 tvg-id="I398.11746.schedulesdirect.org" tvg-name="72 | Fox Atlanta HD USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/WAGA-TV_logo.png/150px-WAGA-TV_logo.png" group-title="USA",72 | Fox Atlanta HD USA
-http://magmas5.com:8000/malotv/gratis/131067
-#EXTINF:-1 tvg-id="EEast.us" tvg-name="USA 1 E! UHD" tvg-logo="https://img2.freepng.es/20180417/gww/kisspng-television-channel-e-television-producer-entertai-tv-shows-5ad61659e7e7d3.0380401115239798659499.jpg" group-title="USA",USA 1 E! UHD
-http://magmas5.com:8000/malotv/gratis/146558
-#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-name="32 | Cinemax USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="USA",32 | Cinemax USA
-http://magmas5.com:8000/malotv/gratis/131025
-#EXTINF:-1 tvg-id="5StarMaxEast.us" tvg-name="70 | Fox 5 NY USA" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1499337525/wvr5exrlzp4b5jja58iq.png" group-title="USA",70 | Fox 5 NY USA
-http://magmas5.com:8000/malotv/gratis/131065
-#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="01 | Baby TV USA" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="USA",01 | Baby TV USA
-http://magmas5.com:8000/malotv/gratis/130991
-#EXTINF:-1 tvg-id="" tvg-name="USA | Travel Channel HD" tvg-logo="" group-title="USA",USA | Travel Channel HD
-http://magmas5.com:8000/malotv/gratis/131259
-#EXTINF:-1 tvg-id="I321.58333.schedulesdirect.org" tvg-name="USA: SPORTSNET WORLD" tvg-logo="" group-title="USA",USA: SPORTSNET WORLD
-http://magmas5.com:8000/malotv/gratis/131341
+http://mag
