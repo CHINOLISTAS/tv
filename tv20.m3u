@@ -1,4 +1,8 @@
-
+#EXTM3U
+#EXTINF:-1,actualizar en el blog
+https://tvdigitalm3u.blogspot.com/
+#EXTINF:-1,https://tvdigitalm3u.blogspot.com/
+https://tvdigitalm3u.blogspot.com/
 #EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a03i.png",Baby First
 http://45.5.119.155:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0g0.png",Boomerang
