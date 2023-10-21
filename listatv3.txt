@@ -15,6 +15,6 @@ telegram
 https://t.me/chinolistas
 
 LISTA M3U
-http://iptv.4ktezz.top:8080/get.php?username=Jawad-brother&password=cFFyaM3VAF&type=m3u_plus
+http://iptv-plus.net:25461/get.php?username=@ttkiller&password=UFCPCNSP0NZZ2SK&type=m3u_plus
 
  Que lo disfruten
