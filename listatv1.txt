@@ -15,6 +15,6 @@ telegram
 https://t.me/chinolistas
 
 LISTA M3U
-https://chinolistas.github.io/tv/tv1.m3u
+https://chinolistas.github.io/tv/tv10.m3u
 
  Que lo disfruten
