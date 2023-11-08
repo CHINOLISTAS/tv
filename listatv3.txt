@@ -15,6 +15,6 @@ telegram
 https://t.me/chinolistas
 
 LISTA M3U
-http://iptv-plus.net:25461/get.php?username=@ttkiller&password=UFCPCNSP0NZZ2SK&type=m3u_plus
+http://37.49.225.117:8080/get.php?username=mitrovic&password=ff9bb47a59&type=m3u_plus
 
  Que lo disfruten
