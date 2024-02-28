@@ -15,6 +15,13 @@ telegram
 https://t.me/chinolistas
 
 LISTA M3U
-https://chinolistas.github.io/tv/tv1.m3u
+1. http://iptbest.xyz:8000/get.php?username=nous487187&password=uuHUhGgnAr&type=m3u_plus
+
+2. http://iptbest.xyz:8000/get.php?username=pablofrank&password=sEVXwd24kZ&type=m3u_plus
+
+3. http://iptbest.xyz:8000/get.php?username=sergiodeanna&password=c655Drd&type=m3u_plus
+
+4. http://iptbest.xyz:8000/get.php?username=GEN902&password=KCU17062021&type=m3u_plus
+
 
  Que lo disfruten
