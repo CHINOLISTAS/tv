@@ -15,6 +15,10 @@ telegram
 https://t.me/chinolistas
 
 LISTA M3U
-https://chinolistas.github.io/tv/tv2.m3u
+1. http://odenfull.co:2086/get.php?username=Nelson2023&password=Nelson1234&type=m3u_plus
+2. http://vipchanoen.top:8080/get.php?username=VIP0160169497625521&password=71694976255504&type=m3u_plus
+3. http://goldfull.pro:8880/get.php?username=CodRM3719&password=sqb9vVmU2sfU&type=m3u_plus+
+4. http://lamtv.site:8080/get.php?username=Thiago10&password=Thiago10&type=m3u_plus
+
 
  Que lo disfruten
