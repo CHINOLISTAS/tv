@@ -22,7 +22,7 @@ Actualizado 08/03/2024
 
 3. http://45.160.191.34:8000/playlist.m3u8
 
-Actualizado 23/02/1996
+Actualizado 23/02/2024
 1. http://iptbest.xyz:8000/get.php?username=nous487187&password=uuHUhGgnAr&type=m3u_plus
 
 2. http://iptbest.xyz:8000/get.php?username=pablofrank&password=sEVXwd24kZ&type=m3u_plus
