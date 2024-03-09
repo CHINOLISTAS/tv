@@ -18,7 +18,7 @@ LISTA M3U
 Actualizado 08/03/2024
 1. http://c24u.xyz:8080/get.php?username=GUILLERMO&password=Guillermo&type=m3u_plus
 
-2. http://twomonkeys.live:8080/get.php?username=Josue123&password=Josue123&type=m3u
+2. http://twomonkeys.live:8080/get.php?username=Josue123&password=Josue123&type=m3u_plus
 
 3. http://45.160.191.34:8000/playlist.m3u8
 
