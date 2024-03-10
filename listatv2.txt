@@ -14,7 +14,13 @@ A UN PRECIO COMODO , CONSULTAR AL WHATSAPP
 telegram
 https://t.me/chinolistas
 
-LISTA M3U
+lista 10/03/2024
+1. http://181.78.64.71:16123/playlist.m3u8
+2. http://181.78.75.83:5013/playlist.m3u8
+3. http://offshore.lat:8080/get.php?username=germanhdz1401&password=skthksPe8WHk&type=m3u_plus
+
+
+LISTA M3U  28/02/2024
 1. http://odenfull.co:2086/get.php?username=Nelson2023&password=Nelson1234&type=m3u_plus
 2. http://vipchanoen.top:8080/get.php?username=VIP0160169497625521&password=71694976255504&type=m3u_plus
 3. http://goldfull.pro:8880/get.php?username=CodRM3719&password=sqb9vVmU2sfU&type=m3u_plus+
